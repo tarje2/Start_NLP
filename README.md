@@ -3,12 +3,10 @@
 ### 자연어처리기술
 
 
-1. NSMC
-- 네이버 영화 리뷰 데이터 : 한국어 감정 분석(Binary Classification)
 
+- [NSMC] 네이버 영화 리뷰 데이터 : 한국어 감정 분석(Binary Classification)
 
-2. FRIENDS
-- 시트콤 프렌즈 데이터 : 영어 감정 분석(Multi-Class Classification)
+- [FRIENDS]시트콤 프렌즈 데이터 : 영어 감정 분석(Multi-Class Classification)
 
 
 
