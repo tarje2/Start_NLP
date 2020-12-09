@@ -8,7 +8,7 @@
 
 
 > 실행 방법
-전체 소스 코드 하단에 sentiment_predict() 함수를 생성하여 활용할 수 있도록 함.
+전체 소스 코드(한국어 긍부정 분석기_네이버영화리뷰(NSMC).ipynb) 하단에 sentiment_predict() 함수를 생성하여 활용할 수 있도록 함.
 
 def sentiment_predict(new_sentence):
     new_sentence = okt.morphs(new_sentence, stem=True) # 토큰화
