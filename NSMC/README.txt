@@ -6,6 +6,7 @@
 > 실행 방법
 전체 소스 코드(한국어 긍부정 분석기_네이버영화리뷰(NSMC).ipynb) 하단에 sentiment_predict() 함수를 생성하여 활용할 수 있도록 함.
 
+----------------------------------------------------------------------------
 def sentiment_predict(new_sentence):
     new_sentence = okt.morphs(new_sentence, stem=True) # 토큰화
     new_sentence = [word for word in new_sentence if not word in stopwords] # 불용어 제거
@@ -21,13 +22,13 @@ def sentiment_predict(new_sentence):
         result = 0
     
     return result
-
-
+----------------------------------------------------------------------------
 
 아래 코드에서 private data 의 파일 디렉토리/파일명.csv 을 작성후 실행하게되면 
 위의 sentiment_predict() 함수를 불러와 최종적으로 result.csv 파일이 생성된다.
 (private data는 utf-8 의 csv파일이고 리뷰 텍스트의 컬럼은 Sentence라 가정)
 
+----------------------------------------------------------------------------
 eval_data = pd.read_csv('./[전처리]ko_data.csv')
 eval_data['Predicted'] = 0
 
@@ -36,9 +37,12 @@ for i in range(len(eval_data)):
     eval_data['Predicted'][i] = Predicted
     
 eval_data.to_csv("result.csv", index=False)
+----------------------------------------------------------------------------
 
 
 
+> 데이터 소스
+https://github.com/e9t/nsmc
 
-데이터 소스 : https://github.com/e9t/nsmc
-참고 : https://wikidocs.net/44249
+> 참고
+https://wikidocs.net/44249
