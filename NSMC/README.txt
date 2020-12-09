@@ -1,7 +1,3 @@
-데이터 소스 : https://github.com/e9t/nsmc
-참고 : https://wikidocs.net/44249
-
-
 > 긍/부정 label 기준
 긍정(1) : 영화 평점 7~10 점
 부정(0) : 영화 평점 1~4 점
@@ -44,3 +40,5 @@ eval_data.to_csv("result.csv", index=False)
 
 
 
+데이터 소스 : https://github.com/e9t/nsmc
+참고 : https://wikidocs.net/44249
