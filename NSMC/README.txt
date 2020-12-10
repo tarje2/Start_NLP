@@ -3,6 +3,9 @@
 한국어 감정 분석기는 네이버 영화 리뷰 데이터를 긍정과 부정으로 분류하는 Binary Classification 이다.
 본 연구에서는 공개되어 있는 네이버 영화 리뷰 데이터 세트와 긍/부정 기준값을 새로 labeling한 데이터 세트를 각각 학습한 모델을 비교해보았다.
 
+> 결과
+Train, Test Data로 모델 생성 및 평가 -> Accuracy : 0.8531
+New Data(ko_data.csv) 로 평가 -> Accuracy : 0.84069
 
 
 > 실행 방법
