@@ -1,13 +1,41 @@
 
 [영어 감정 분석기]
-영어 감정 분석기는 시트콤 FRIENDS 대화 데이터를 8가지 감정(anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise)으로 분류하는 Multi-Class Classification 이다.
-본 연구에서는 공개되어 있는 FRIENDS 데이터 세트와 주인공 6명(Phoebe, Monica, Ross, Chandler, Joey, Rachel)의 대화만 추출한 데이터 세트를 각각 학습한 모델을 비교해보았다.
+본 연구에서는 공개되어 있는 FRIENDS 데이터를 8가지 감정(anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise)으로 분류하는 Multi-Class Classification 을 수행하였다.
 
+
+> 수행 내용
+1. 데이터 다운로드 및 로드
+2. 데이터 전처리(중복 제거, Null값 제거, 한국어와 공백을 제외한 문자 제거)
+   -> 전처리까지 수행한 결과 저장(train_data_set.csv / test_data_set.csv)
+3. 데이터 정제(중복 문자열 교정, 띄어쓰기 교정, 맞춤법 교정)
+   -> 정제까지 수행한 결과 저장(train_last_data.csv / test_last_data.csv)
+4. 토큰화
+5. 불용어 제거
+6. 정수 인코딩
+7. 패딩
+8. RNN-LSTM 모델 설정 및 학습/평가(모델 학습시, 학습 데이터의 20%를 검증용으로 사용)
+
+
+> 개요
+1. 전체 소스코드 : [한국어 감정분석기]_네이버 영화리뷰_RNN_LSTM
+2. 모델 평가 및 실행 : [한국어 감정분석기]_모델 실행 및 평가
+
+
+> 실행 방법
+'[한국어 감정분석기]_모델 실행 및 평가' 코드의 ko_data.csv 부분에 평가할 새로운 데이터(Private Data) 파일명 명시(아래 코드 참조)
+----------------------------------------------------------------------------
+eval_data = pd.read_csv('./ko_data.csv', engine='python', encoding='utf-8')
+----------------------------------------------------------------------------
+최종적으로 result_2019512014_이동환.csv 파일로 결과를 확인할 수 있다.
 
 
 
 > 데이터 소스(FRIENDS)
 http://doraemon.iis.sinica.edu.tw/emotionlines/download.html
 
+
 > 참고
 https://wikidocs.net/22933
+
+
+
