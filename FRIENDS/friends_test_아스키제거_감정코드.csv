@@ -1,0 +1,2765 @@
+speaker,utterance,emotion,annotation,"emotion_code"
+Joey,"Oh!  Sorry. Uh, I've got those plans with Phoebe, why?",neutral,5000000,4
+Chandler,"Dude! Dude!",surprise,1000031,7
+Joey,"Huh? Uh",neutral,4000010,4
+Chandler,"What are you doing tonight?",neutral,5000000,4
+Rachel,"Oh it's umm, it's tofu cake. Do you want some?",neutral,4100000,4
+Joey,"What do you got there?",neutral,5000000,4
+Rachel,"Hey!",neutral,3200000,4
+Joey,"Hey!",neutral,3200000,4
+Chandler,"I'm full, and yet I know if I stop eating this, I'll regret it.",neutral,3110000,4
+Rachel,"Oh my God! That is so good!",joy,0400010,3
+Rachel,"She then proceeds to act like Dark Helmut in",neutral,3200000,4
+Rachel,"(She takes out his license and her license and holds them face to face with each other.",neutral,3200000,4
+Rachel,"Absolutely!",joy,1400000,3
+Rachel,"I will!",joy,1400000,3
+Rachel,"Yes!",joy,1400000,3
+"Mr. Waltham","Will you call him?",neutral,4001000,4
+Rachel,"Really?",surprise,1000040,7
+"Mr. Waltham","Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.",neutral,4000010,4
+Chandler,"Stupid, useless Canadian money!",anger,0000302,0
+Ross,"Ohh, man! Chicago, is sooo lucky!",joy,0310010,3
+Chandler,"He's not gonna make it, he's stuck in Chicago.",sadness,1031000,6
+Ross,"What happened?",surprise,2000030,7
+Ross,"I can't-I can't stay here all night, and if I go in there she's-she's gonna wanna... do stuff.",fear,1003001,2
+Ross,"Well, yeah.",neutral,4010000,4
+Rachel,"Here?! Now?!",surprise,0000050,7
+Ross,"Well, I-I gotta go break up with Bonnie.",sadness,2030000,6
+Rachel,"Whoa! What?! Why?!",surprise,0011030,7
+Ross,"Okay, I gotta go.",neutral,5000000,4
+Ross,"I know.",neutral,5000000,4
+Rachel,"Oh my God.",surprise,1000130,7
+Ross,"Yeah.",neutral,5000000,4
+Bonnie,"Okay, I'll see you in our room.",neutral,4100000,4
+Rachel,"Oh, you're welcome a million.",joy,1400000,3
+Bonnie,"Thanks a million.",joy,0500000,3
+Ross,"Awww.","non-neutral",1120010,5
+Bonnie,"Rachel was just helping me out. My head got all sunburned.",neutral,3110000,4
+"Rachel and Bonnie","Hi!",joy,1400000,3
+Ross,"Hi!",joy,1400000,3
+Phoebe,"No!",surprise,0000230,7
+Joey,"And what is his name?",neutral,5000000,4
+Phoebe,"Thank you.",neutral,4100000,4
+Joey,"816, thank you!",joy,2300000,3
+Nurse,"He's in room 816.",neutral,4000010,4
+Joey,"He's a patient of mine, I've been treating him for years!",neutral,3000110,4
+Joey,"It is absolutely essential that you tell me what room the man my assistant described is staying in.",neutral,4000100,4
+Joey,"Hands!",neutral,3000200,4
+Phoebe,"Hands.",neutral,5000000,4
+Joey,"Damnit woman we're losing precious time! Now do you want this man's blood on your head?",anger,0000500,0
+Nurse,"A doctor at this hospital?",surprise,2000030,7
+Joey,"Remoray. It's Portuguese. We need that information; I'm a doctor.",neutral,5000000,4
+Nurse,"Dr. Drake who?",neutral,3000020,4
+Joey,"Uh, she's with me.  Dr. Drake Remoray.",neutral,5000000,4
+Nurse,"I'm sorry, that information is restricted to hospital staff",neutral,5000000,4
+Phoebe,"Oh yay! Great! Okay, what room number is he in?",joy,0400010,3
+Nurse,"I think I know who you're talking about.",neutral,5000000,4
+Phoebe,"And umm, he's like early to mid-thirties, very attractive.",neutral,5000000,4
+Phoebe,"The patient I'm looking for has a broken leg and is in a wheelchair.",neutral,5000000,4
+Phoebe,"Could you help me with something?",neutral,5000000,4
+Phoebe,"Excuse me?",neutral,3000020,4
+Ross,"Oh. (He takes the picture and hugs her.","non-neutral",1210010,5
+Rachel,"Oh no, I know I couldn't see it either at first, but it's right umm...  Ross, I lost it again.","non-neutral",1120100,5
+Joey,"I don't see the baby. Where is it?",neutral,3000020,4
+Phoebe,"Oh.","non-neutral",2000021,5
+Ross,"Oh hey, show them the picture of your uterus.",neutral,3200000,4
+Phoebe,"Good.",neutral,3200000,4
+Rachel,"Oh, everything went great.",joy,1400000,3
+Phoebe,"Hey! So how was the doctor?",neutral,3200000,4
+Joey,"Hey!",joy,1400000,3
+Rachel,"Hi.",neutral,5000000,4
+Ross,"Huh? Yeah, fine, invite whoever you want.","non-neutral",2011100,5
+Emily,"Earl Grey?",neutral,5000000,4
+Ross,"Yeah sure.",neutral,4010000,4
+Emily,"More tea?",neutral,5000000,4
+Emily,"But it's absolutely your decision.",neutral,5000000,4
+Emily,"Oh, no-no, y'know I absolutely adore Rachel it's just that, well it might be a awkward for you.","non-neutral",2001020,5
+Ross,"Wait-wait-wait, do you, do you think, maybe we shouldn't invite her?",fear,0004010,2
+Emily,"I don't think I'd be comfortable with any of my old lovers there.","non-neutral",2001110,5
+Ross,"Yeah?",neutral,5000000,4
+Emily,"Really?",surprise,0000050,7
+Ross,"Sure. Why not?",neutral,5000000,4
+Emily,"If anyone asks, we'll just say Ben addressed them.  Oh! So you invited Rachel then?",surprise,1000031,7
+Ross,"Yeah?","non-neutral",2001020,5
+Emily,"Yeah, they're fine.",neutral,5000000,4
+Ross,"Hey, did I do these neat enough?",neutral,4001000,4
+Ross,"Yeah, invite him?",neutral,4000001,4
+Ross,"Ohh, God, nobody likes him, and he's so cheap, he'd never fly to London in a million years.",disgust,0000005,1
+Emily,"So what did he decide? Does your Uncle Nathan get an invite or not?",neutral,5000000,4
+Director,"Count it off.",neutral,5000000,4
+Director,"Show 'em how it's done.",neutral,3200000,4
+Director,"Let's try it again, and this time let's watch everybody watch Joey.",neutral,5000000,4
+Joey,"People, people, people.",neutral,5000000,4
+Director,"Well, people!","non-neutral",2100020,5
+Joey,"I know, it was the best I could get out of them.",neutral,3010001,4
+Director,"No, no, no. What was that?",surprise,0000041,7
+Director,"All right, let's do it!",joy,1400000,3
+Chandler,"I totally understand.  Can I",neutral,5000000,4
+Brenda,"Look, I know it must be hard that your wife is a lesbian, but it's wrong. You're married.",disgust,0000113,1
+Chandler,"You do?",neutral,3000020,4
+Brenda,"I think I know what's going on here.",disgust,1000103,1
+Chandler,"Yes! It's flown into your blouse and you'd better undo your buttons lest it sting you!","non-neutral",1101020,5
+Brenda,"What?",surprise,2000030,7
+Chandler,"Brenda a bee!",fear,1003010,2
+Brenda,"Okay. (Goes over and fluffs up the pillows on the couch.",neutral,5000000,4
+Chandler,"I'm leaning. This is where I lean.",neutral,5000000,4
+Brenda,"What are you doing?",neutral,5000000,4
+Ross,"I'm sorry I had to take such drastic measures to make my point, but I-look, I just want you guys to be safe.",neutral,3010001,4
+Rachel,"All right, so we weren't",neutral,4000100,4
+Ross,"Perhaps. Now I'm curious, at what point during those girlish screams would you have begun to",neutral,3000011,4
+Phoebe,"Ohh,",neutral,3000020,4
+Ross,"A lesson in the importance of unagi.",neutral,5000000,4
+Rachel,"What the hell was that?!","non-neutral",1000121,5
+Paul,"Diet Coke",neutral,5000000,4
+Rachel,"Ahh. Thank you!",joy,0500000,3
+Paul,"Here you go honey!",joy,1400000,3
+Rachel,"Get up!",anger,0101300,0
+Ross,"Yeah, I recognize the ankles!",neutral,3000011,4
+Rachel,"I came with Paul!","non-neutral",1100120,5
+Ross,"What are",neutral,4000010,4
+Rachel,"Okay.  What?! What are you doing here?!",surprise,0000140,7
+Paul,"Okay. I'll be right back.",neutral,5000000,4
+Rachel,"Well, okay. Would-would you get me a",neutral,3002000,4
+Paul,"Honey, we don't have any bears here.",neutral,5000000,4
+Rachel,"No-no! Big bear! Big bear outside! I think I-I-would you-actually, would you go check on that?",fear,0003020,2
+Paul,"What's the matter honey? Did you see a little mouse?","non-neutral",2001020,5
+Rachel,"I feel like we're the only two people in the world.  Oops. Sorry.","non-neutral",1210010,5
+Paul,"I know. I like it up here.",joy,1400000,3
+Rachel,"It's so secluded up here.",neutral,3000020,4
+Joey,"Why would they do that?! It was a good show right?!",surprise,0000131,7
+Rachel,"I'm sorry Joey.",sadness,1040000,6
+Phoebe,"Sorry.",sadness,2030000,6
+Joey,"They canceled Mac and C.H.E.E.S.E!","non-neutral",0010220,5
+Joey,"All right, bye!","non-neutral",1220000,5
+Joey,"We're not even shootin' them anymore?!!",surprise,0000041,7
+Joey,"All right, see you Monday.",neutral,5000000,4
+Joey,"Ohh.",neutral,3020000,4
+Joey,"Like they're taking it off the air?",surprise,0000050,7
+Joey,"Canceled?!",surprise,0000050,7
+Joey,"I was just looking over next week's script.",neutral,4000010,4
+Joey,"Hey, funny you should call.","non-neutral",2100020,5
+Joey,"can you excuse me for a minute?",neutral,5000000,4
+Joey,"It's the producers over at Mac and C.H.E.E.S.E.",neutral,4000010,4
+Joey,"Can you, can you hang on a second?",neutral,5000000,4
+Joey,"Oh hey!",surprise,0200030,7
+Joey,"Hello?",neutral,4000010,4
+Rachel,"Oh, my-my new assistant was very happy that I hired my new assistant.",neutral,4100000,4
+Joey,"Was she happy you gave her the job?",neutral,4100000,4
+Rachel,"Ohh, my new assistant is working out, yes.",neutral,3200000,4
+Phoebe,"Hey-Ooh, how's Hilda? Is she working out?",neutral,3200000,4
+Joey,"Hey.",neutral,4100000,4
+Rachel,"Hi!",joy,0500000,3
+Chandler,"Well, I then guess I'm going to Yemen! I'm going to Yemen!  When we get to Yemen, can I stay with you?",joy,1300010,3
+Janice,"No! No! I wanna see you take-off.",neutral,3110000,4
+Chandler,"I had to have one last kiss, and also-also you said that you were going to leave right after I got on the plane!","non-neutral",0210020,5
+Chandler,"There you are!",surprise,0200030,7
+Chandler,"There you are!",surprise,0200030,7
+Chandler,"Janice!","non-neutral",1200020,5
+Janice,"Chandler!","non-neutral",1210010,5
+Chandler,"No!","non-neutral",2100110,5
+Janice,"Chandler?",neutral,3010010,4
+Chandler,"Okay, good-bye. Good-bye.",sadness,2030000,6
+Janice,"Oh. Well, I'll right you everyday.  15 Yemen Road, Yemen.",neutral,3020000,4
+Chandler,"Well, just until we find an energy source to replace fuel.",neutral,4010000,4
+Janice,"Oh, my Bing-a-ling. I'll wait for you. Do you even know how long you're going to be gone?",sadness,1040000,6
+Chandler,"Well, I-I guess I gotta go.",sadness,2030000,6
+"Ticket Counter Attendant","This is the final boarding call for Flight 664 to Yemen.",neutral,5000000,4
+Phoebe,"Really? That's the thing I'm worse at! You'll see.","non-neutral",2001020,5
+Phoebe,"Okay. But the question is who's gonna go first. 'Cause whoever goes second is the bitch.","non-neutral",2002010,5
+Monica,"Okay well, then we'll both do it today and he'll just have to deal with it!",neutral,3000200,4
+Phoebe,"Are you kidding?! Another week with that sip, I'll kill",disgust,0000113,1
+Monica,"Okay well then, I'll fire him today and you go out with him for another week.",neutral,4000001,4
+Phoebe,"You can't fire him and dump him the same day, he'll kill himself.","non-neutral",0022001,5
+Monica,"What? So now I'm not allowed to fire him?",surprise,0000050,7
+Phoebe,"Then he comes over!  I'm so worried about you. Uck! Be a man!",disgust,0001004,1
+Monica,"Just don't pick up your phone.",neutral,4001000,4
+Phoebe,He,neutral,5000000,4
+Monica,"What?! You said he was sweet!",surprise,0000050,7
+Phoebe,"Because I'm dumping him today.","non-neutral",2010101,5
+Monica,"Why not?!","non-neutral",1000220,5
+Phoebe,"Okay. Okay, but you can't fire him today.",neutral,4001000,4
+Monica,"No! No-no! He is totally incompetent. I called the chef who recommended him to me. He said, Ha-ha! Gotcha!",disgust,0000203,1
+Phoebe,But,neutral,4001000,4
+Monica,"Hey. Okay, I gave him another chance, but Tim has",neutral,4010000,4
+Phoebe,"Hey!","non-neutral",0200021,5
+Chandler,"That's",neutral,5000000,4
+Monica,"This is so great! Now we can enter into doubles tournaments!",joy,0500000,3
+Chandler,"I don't know.",neutral,4010000,4
+Monica,"Why?",surprise,2000030,7
+Chandler,"I never sucked, I actually didn't want you to know how good I was!","non-neutral",2000210,5
+Joey,"I love you too.",joy,0500000,3
+Monica,"Yes! You are so smart!  I love you.",joy,0500000,3
+Joey,"Cat.",neutral,5000000,4
+Monica,"Okay! There's only one left, three letter word, not dog but",neutral,4100000,4
+Joey,"Aww, me too. Now let's finish this and go to bed.",joy,2300000,3
+Monica,"Y'know, I love doing crossword puzzles with you honey!",joy,0500000,3
+Chandler,"No, I'm not mocking you,  or you beautiful guest room.",neutral,4000001,4
+Monica,"Are you mocking me?","non-neutral",1000211,5
+Chandler,"I don't have anything against the beautiful guest room, especially since everybody we know lives about 30 seconds away!","non-neutral",1100102,5
+Monica,"What do you have against the beautiful guest room?",anger,1000310,0
+Chandler,"Which is why",neutral,4001000,4
+Monica,"I just don't think arcade games go in the beautiful guest room. The beautiful guest room is gonna be filled with antiques.",neutral,3000101,4
+Chandler,"So, that's it?",surprise,1000031,7
+Monica,"Oh, I'm sorry. Of course I mean that. Interesting idea, umm, talk about it, but no.",disgust,1000004,1
+Chandler,"Okay so you mean no as in, Gee Chandler, what an interesting idea. Let's discuss it before we reject it completely.","non-neutral",1001201,5
+Monica,"No.",disgust,1000103,1
+Chandler,"I mean you can buy old arcade games like uh, like",neutral,4001000,4
+Chandler,"I was thinking maybe-maybe-maybe it could be a game room, y'know?",neutral,3101000,4
+Chandler,"Obviously!",joy,1300001,3
+Chandler,"Well, I like that idea.",joy,2300000,3
+Monica,"Okay, whatever, I really haven't thought about it that much.",neutral,4010000,4
+Monica,"And we could have a roll top desk with comment cards on them so people could say how much they loved staying here!!",joy,0500000,3
+Monica,"With a mahogany sleigh bed and bedside tables with flowers on them all the time!",joy,0500000,3
+Monica,"Okay, I was thinking we should have a beautiful guest room, right?",neutral,3200000,4
+Chandler,"Sure!",joy,0400010,3
+Chandler,"Oh come on, by age seven kids have already seen orgies.  Was it just me?!",surprise,1000040,7
+Monica,"But Ben is coming over tonight and he can't see this.",fear,2003000,2
+Chandler,"I did.  But it came at a price.",neutral,4010000,4
+Phoebe,"Chandler sucks! He couldn't have gotten this good!",surprise,2000030,7
+Monica,"They're all Chandler.",neutral,4000010,4
+Phoebe,"Hey, you guys. Listen, I'm sorry that I was hogging the game before--Oh my God! Your friends have some unfortunate initials!","non-neutral",2001011,5
+Monica,"Okay, I got that. I'll escape over there. I'll come back over here. All right, come on",neutral,5000000,4
+Chandler,"Well, the heart wants what it wants. I'll see you later.",neutral,4000001,4
+Dana,"Absolutely! But you-you would really feel better about me rejecting you if your actor friend can audition for my movie?",surprise,1000040,7
+Chandler,"This actor friend and he would kill me if he thought I was doing this umm, but umm would it be possible for him to get an audition for your movie say on Thursday?","non-neutral",2102000,5
+Chandler,"Well, I umm, I mean this is just off the top of my head now, umm but I have this friend.",neutral,5000000,4
+Dana,"What?! Anything! Anything!","non-neutral",1200020,5
+Chandler,"Well maybe there is one thing you can do.",neutral,4000100,4
+Dana,"Ohh, I'm sorry.",sadness,0050000,6
+Chandler,"Well, it just hurts so bad. I uh",sadness,1030010,6
+Dana,"Of course!","non-neutral",2100020,5
+Chandler,"No-no-Really?!",surprise,0010130,7
+Dana,"Oh, I wish there was something I can do to make you feel better.",sadness,1040000,6
+Dana,"I'm sorry Chandler, y'know you are such a sweet guy and I, I don't want to hurt you.",sadness,1040000,6
+"The Instructor","Who? Me the attacker?",surprise,2000030,7
+Ross,"No. No-no. No. What would","non-neutral",2100020,5
+"The Instructor","Well, she would take her keys and try to jam them",neutral,5000000,4
+Ross,"Umm, about that-that-that last move where the woman tripped you and then pinned you to the floor, what-what-what-what would you do next?","non-neutral",2101100,5
+Ross,"Umm, hey, a couple of questions though.",neutral,4001000,4
+Ross,"Yeah, yeah, I was watching.",neutral,3000101,4
+"The Instructor","Thanks.",neutral,4100000,4
+Ross,"It's a great class.",joy,1300010,3
+"The Instructor","Okay ladies, that ends today's class, and let's remember, let's be safe out there.",neutral,5000000,4
+Lydia,"Isn't!",anger,2000300,0
+Joey,"It is.",neutral,3000200,4
+Lydia,"It isn't.",neutral,4000100,4
+Joey,"Oh, it is.",neutral,4000100,4
+Lydia,"Oh, that is so not true.",neutral,3000110,4
+Joey,"You know what the Celtics problem is? They let the players run the team.",neutral,3000101,4
+Joey,"Good luck, and uh, take care, huh?","non-neutral",2120000,5
+Lydia,"Maybe you should.","non-neutral",2010101,5
+Joey,"Ok, look, maybe I should just go.",neutral,4010000,4
+Lydia,"Hey, Knick fan, am I interested in your views on fatherhood? Uh, no.","non-neutral",2000201,5
+Joey,"Yeah, so, uh, so, uh, what's the deal with this father guy, I mean, if someone was havin' my baby somewhere, I'd wanna know about it, you know?",neutral,3001001,4
+Lydia,"She's not much of a phone person.",neutral,4010000,4
+Ross,"All right here. Watch me execute the three 'P's of championship play. Power.  Precision.  and penache.",neutral,4100000,4
+Chandler,"I was shrieking... like a Marine.",neutral,3010100,4
+Ross,"Shielding your face and shrieking like a girl... is not a backhand.",disgust,1010003,1
+Chandler,"Excuse me little one, I have a very solid backhand.","non-neutral",2000102,5
+Ross,"Just admit it Chandler, you have no backhand.",neutral,3000200,4
+Sarah,"So that's two boxes of the Holiday Macaroons. On behalf of the Brown Birds of America, I salute you.",joy,2300000,3
+Joey,"Thursday's clearly not good for ya, pick a day!",joy,2300000,3
+Rachel,"Well, it would be easier to move just right across the hall. Wait a minute, unless you're thinking about Naked Wednesday's.",neutral,3101000,4
+Joey,"No-no-no-no-no-no-no-no... It's okay, I mean I-look Rach, I know I scared you off with that whole Naked Thursday's thing, but we don't have to do that!",neutral,3200000,4
+Ross,"Whoa! Whoa! Whoa, Joey!",surprise,0001040,7
+Joey,"Or not. Uh, Rach, why don't you just move in with me?","non-neutral",2201000,5
+Rachel,"All right, well the place was closed. I'll just copy it later.",neutral,4010000,4
+Ross,"Baking it didn't help, huh?",neutral,3000020,4
+Rachel,"I give up you guys, I don't know what I'm going to do with this thing!","non-neutral",1011101,5
+Monica,"Oh my-Oh good God!",surprise,1000130,7
+Joey,"Whoa-whoa you guys, it's not a cat!","non-neutral",1001111,5
+Chandler,"Oh! Oh! That's so hard.",surprise,1000031,7
+Ross,"All right.",neutral,5000000,4
+Chandler,"It's throwing and catching!","non-neutral",2000201,5
+Ross,"It's really a uh-uh three person game, y'know?",neutral,3002000,4
+Chandler,"I'm not a dropper!",anger,0000500,0
+Joey,"Oh yeah, that's right!","non-neutral",2100020,5
+Monica,"He's a dropper!","non-neutral",2000201,5
+Chandler,"What?",surprise,2000030,7
+Monica,"No-no! Don't do it! Don't!","non-neutral",1002110,5
+Chandler,"All right, let me in.",neutral,3200000,4
+Joey,"That's right baby.",joy,1400000,3
+Chandler,"Four hours? You guys have been doing this for four hours?",surprise,0000140,7
+Ross,"Monica! Stop throwing it so hard! We're on the same team!",anger,0000500,0
+Phoebe,"She must've left.",neutral,4000001,4
+Monica,"Ooh, an ink stain! Hey, can I watch how you get this out?",joy,1300010,3
+Phoebe,"I-I-I'd love to. Let me just tell my friend.",joy,0400010,3
+Guy,"Would you like to go out and have a cup of coffee?",neutral,3200000,4
+Phoebe,"A little.   Now you're talking.",neutral,3200000,4
+Guy,"I hope you don't think I'm crazy but I feel like I was meant to pick this up, do you believe in that kind of thing?","non-neutral",2200010,5
+Phoebe,"Oh yeah well, I'm sorry about that too, but what are you going to do?",neutral,3000020,4
+Guy,"I'm sorry, it's just that you're so incredibly beautiful.",surprise,0200030,7
+Phoebe,"What?",surprise,1000040,7
+Guy,"Oh, excuse me! I think you dropped s... Wow!",surprise,1000040,7
+Phoebe,"Okay.",neutral,4000010,4
+Monica,"Are you kidding? This is where they get out stains! Okay? This is like","non-neutral",1200020,5
+Phoebe,"Oh, you didn't have to come in with me.",neutral,3000020,4
+Phoebe,"Yeah, we both can. And we both will.",neutral,4100000,4
+Monica,"Don't worry Phoebe, you're gonna meet someone. If I can meet a great guy, so can you.",neutral,5000000,4
+Phoebe,"When I get up there I'm going to kick some ass.",anger,0000500,0
+Phoebe,"The universe said I was going to meet a nice guy and that's what they gave me?","non-neutral",0020012,5
+Phoebe,"A new grocery store.",neutral,4000001,4
+Monica,"What?!",surprise,0000050,7
+Phoebe,"I also have to find a new video store, a new bank, a new adult bookstore, a new grocery store",disgust,1000004,1
+Phoebe,"I know, but that creep that I went on that date with goes to there so I have to find a new one.",disgust,1000004,1
+Monica,"That's not your regular dry cleaners.",neutral,4000010,4
+Phoebe,"Oh there it is.",neutral,3000020,4
+Joey,"No, no. He said When are you gonna grow up and start being a mom?",neutral,4000001,4
+Ross,"You're kidding.",surprise,0000050,7
+Joey,"Shh. He did it. He told her off, and not just about the kiss, about everything.",neutral,3000110,4
+Ross,"Ah, the forbidden love of a man and his door.",neutral,4000001,4
+Chandler,"Yeah. No. No...",anger,1010300,0
+"Mrs. Bing","Are we okay now?",fear,1013000,2
+"Mrs. Bing","I'm sorry, honey, I promise it will never happen again.",sadness,0040010,6
+"Mrs. Bing","And I don't even know how it happened.","non-neutral",2020010,5
+"Mrs. Bing","Really stupid.","non-neutral",1021001,5
+Chandler,"Really stupid.",anger,1000301,0
+"Mrs. Bing","O-kay. Look, it, it was stupid.",sadness,1031000,6
+Chandler,"You kissed my best Ross! ...Or something to that effect.",anger,0100310,0
+"Mrs. Bing","Alright, well, be good, I love you.",joy,2300000,3
+Chandler,"No, just knowing you're gonna be there is enough.",neutral,4100000,4
+"Mrs. Bing","Car's waiting downstairs, I just wanted to drop off these copies of my book for your friends. Anything you want from Lisbon?",neutral,5000000,4
+Chandler,"Hey, y'know what you should do? You should take her back to the 1890's, when that phrase was last used.",disgust,1100003,1
+Ross,"Anyway, I figured after work I'd go pick up a bottle of wine, go over there and, uh, try to woo her.",joy,2300000,3
+Chandler,"I can't remember the last time I got a girl to take care of my monkey.","non-neutral",2110001,5
+Ross,"Y'know, it's just gonna be the two of us, she spent all day taking care of my monkey...",neutral,3200000,4
+Ross,"Well, I think it's perfect.",joy,1400000,3
+Joey,"'Tonight' tonight?",surprise,0000050,7
+Ross,"But she said she's looking for someone, and someone is gonna be there tonight.",neutral,5000000,4
+Ross,"Well, I added the 'exactly like me' part...",neutral,5000000,4
+Joey,"She really said that?",surprise,0000050,7
+Chandler,"What? What can't you do?",surprise,2000030,7
+Joey,"We can't do that.",neutral,4000001,4
+Janice,"Because you know, you could make little puppets out of them, and you could use them in your theater of cruelty.",anger,1000301,0
+Janice,"Really?",surprise,0000140,7
+Janice,"Oh, are you sure?",surprise,0000140,7
+Chandler,"That's OK.",neutral,4000001,4
+Janice,"By the way, Chandler. I cut you out of all my pictures. So if you want, I have a bag with just your heads.",anger,0000401,0
+Joey,"Good for you.  Uh, quarters or rolls of quarters?","non-neutral",2200010,5
+Lorraine,"You know, ever since I was little, I've been able to pick up quarters with my toes.",joy,2300000,3
+Phoebe,"Aw, all right take this bed, you can make other friends.","non-neutral",1210001,5
+Phoebe,"Oh my God!",surprise,0101030,7
+Phoebe,"Eh, Monica it, it feels so weird, y'know, Chandler's your friend...  Oh!",surprise,0001040,7
+Monica,"Oh! Ohhhhh! Oh! Phoebe, come here. Aw, this is my new bed. You gotta feel this bad boy.",joy,0500000,3
+Phoebe,"Hi. Y'know in England this car would be on the other side of the store.  Woo!",joy,1400000,3
+Monica,"Not at these prices.","non-neutral",2200010,5
+Phoebe,"I mean if you buy a bed from Janice's ex-husband, that's like betraying Chandler.","non-neutral",1011101,5
+Phoebe,"It feels funny just being here.","non-neutral",1012001,5
+Phoebe,"I don't know Monica.","non-neutral",1012010,5
+Phoebe,"Ugh!",disgust,0001103,1
+Rachel,"Come on you gotta have one!",surprise,1000130,7
+Ross,"No.",neutral,3001001,4
+Rachel,"I mean do you have any fun, you know, fantasy type things?",neutral,3001010,4
+Ross,"What?",neutral,3000020,4
+Rachel,"Well honey, what about you?",neutral,4010000,4
+Ross,"Yeah.",sadness,2030000,6
+Rachel,"You remember not having sex in high school, right?","non-neutral",1000022,5
+Ross,"I think I have an old band uniform from high school.","non-neutral",2200010,5
+Rachel,"Hmm.",neutral,3020000,4
+Ross,"Nooo, I had to return it to the costume place.","non-neutral",2020010,5
+Rachel,"Do you still have that, um, Navy uniform?","non-neutral",2002010,5
+Ross,"Hmm?",neutral,3000020,4
+Rachel,"Honey, I was wondering....",neutral,3001010,4
+Chandler,"Well it's very unsettling.","non-neutral",0002102,5
+Monica,"Then why are you smoking?",disgust,1000013,1
+Chandler,"I have the lung capacity of a two year old.",neutral,3010001,4
+Joey,"Oh yeah, Smokey Joe here got half way to the highway and collapsed.","non-neutral",0010022,5
+"Phoebe Sr","Then don't break in!!","non-neutral",0102200,5
+Phoebe,"No! No!! It's me! It's me! I-I didn't want to make any noise!","non-neutral",0102020,5
+Phoebe,"Ow! My ass. Okay. Okay.  Oh, shhh!","non-neutral",0002120,5
+Joey,"Oooh, wrong answer.",neutral,4010000,4
+Cliff,"No!",surprise,0000131,7
+Joey,"Excellent! Excellent! And uh, finally, are you into any weird stuff y'know, sexually?",joy,2300000,3
+Joey,"Whoa, for like months?",surprise,0000050,7
+Ross,"I actually had a topic in mind! I'm, I'm kinda going through a dry spell, sex wise.","non-neutral",2021000,5
+Joey,"Sure. What? About uh, you showering with your mom?","non-neutral",1001012,5
+Ross,"Do you have a minute? I'd like to talk to you about something I'm, I'm really uncomfortable talking about.",fear,1004000,2
+Joey,"Hey.",neutral,5000000,4
+Ross,"Hey!",joy,1301000,3
+Phoebe,"Oh no, Bonnie's the best!","non-neutral",2100020,5
+Rachel,"Why, does she have a bad personality?",neutral,3000020,4
+Phoebe,"Well, maybe it won't work out. Maybe Ross won't like her personality.","non-neutral",2002100,5
+Rachel,"Yeah, I said what was okay when I thought she was some weird bald chick. I mean, y'know, that girl has hair got","non-neutral",1000112,5
+Phoebe,"Well I'm sorry, I thought you said it was okay.","non-neutral",1011110,5
+Rachel,"Ohh, well, this is just perfect!",anger,1000310,0
+Phoebe,"I don't know, I hardly ever say that about people.",neutral,3001010,4
+Rachel,"How could you not tell me that she has hair?",surprise,1000130,7
+Phoebe,"Yeah, she was bald, she's not now.",neutral,3000020,4
+Rachel,"You said she was bald.","non-neutral",2100110,5
+Monica,"Oh, there's banana on it.",neutral,3000011,4
+Phoebe,"Hey, why are you mopping your ceiling?","non-neutral",1100021,5
+Monica,"Hey.",neutral,4100000,4
+Phoebe,"Hey!",joy,1300010,3
+Phoebe,"Leslie, now would be a","non-neutral",2002100,5
+Phoebe,"Where are you Leslie?",fear,0004010,2
+Phoebe,"Leslie?",neutral,3001010,4
+Phoebe,"Well, you can't answer.",neutral,3001001,4
+Phoebe,"Where is Leslie?","non-neutral",2001020,5
+Phoebe,"Why are there only two of you?","non-neutral",2001020,5
+Phoebe,"Okay, good.",neutral,3110000,4
+Phoebe,"Well, that's just the way that goes.",neutral,3011000,4
+Phoebe,"All right.",neutral,3011000,4
+Phoebe,"I broke it.","non-neutral",2021000,5
+Phoebe,"'Cause let's face it, we're at Monica's.",neutral,3011000,4
+Phoebe,"Okay?",neutral,5000000,4
+Phoebe,"I just have to clean that up.",neutral,4010000,4
+Phoebe,"I didn't mean to scare you.",sadness,2030000,6
+Phoebe,"Okay, I'm sorry.",sadness,1030010,6
+Phoebe,"Okay, after I get rid of this dirty diaper Leslie, I'll set you up with a clean one.",neutral,5000000,4
+Phoebe,"Okay, I'm gonna take that spit bubble as, Yeah, I do!",neutral,3200000,4
+Phoebe,"Right?",neutral,5000000,4
+Phoebe,"You guys feel safe.",neutral,4100000,4
+Phoebe,"Me taking care of you is no problem, huh?",neutral,5000000,4
+Chandler,"Noo!  Oh, it's okay, it's okay, baby, baby, baby.",fear,1013000,2
+Joey,"Wait. Give him a minute.",neutral,3001010,4
+Chandler,"See, I told you they don't swim.",neutral,3011000,4
+Joey,"Sure.",neutral,5000000,4
+Chandler,"I don't know. Should we try it?",neutral,4000010,4
+Joey,"Are you sure?",neutral,3000020,4
+Chandler,"Chicks don't swim.",neutral,4000010,4
+Joey,"What about the chick?",neutral,3000020,4
+Chandler,"Having a swim.",neutral,5000000,4
+Joey,"What 'cha doing?",neutral,4000010,4
+Phoebe,"Well, I never call",neutral,3020000,4
+Phoebe,"Can I borrow the phone? I want to call my apartment and check on my grandma.  What's my number?",neutral,4001000,4
+Monica,"OK.",neutral,5000000,4
+Monica,"Could we talk about this later?","non-neutral",2020001,5
+Monica,"Eligible looters?","non-neutral",2000111,5
+Monica,"Power company guys?","non-neutral",2010110,5
+Monica,"Who am I gonna meet in a blackout?","non-neutral",0010121,5
+Monica,"Why, mom?","non-neutral",2010011,5
+Monica,"Pants and a sweater?","non-neutral",2000012,5
+Rachel,"Wow, you guys, this is big.",surprise,0100040,7
+Monica,"Mom says it's all of Manhattan, parts of Brooklyn and Queens, and they have no idea when it's coming back on.","non-neutral",2000120,5
+Rachel,"Wow, this is so cool, you guys. The entire city is blacked out!",surprise,0200030,7
+Joey,"Everybody smile!  Okay, thanks a lot! Enjoy your stay at",joy,2300000,3
+Joey,"Sorry about that. Thanks for waitin'.",neutral,4010000,4
+Joey,"I gotta go Monica, my uh, my sushi's here!",neutral,3001010,4
+Joey,"Uh-oh!",fear,1003010,2
+Joey,"Yeah, listen uh, I want you to make sure you tell Chandler that he couldn't have been more wrong!",neutral,4100000,4
+Joey,"Uh, well yeah-yeah, I've got all of that going on.",neutral,4001000,4
+Monica,"Do you have a chair with your name on it?",neutral,4100000,4
+Monica,"Do you have a dressing room?",neutral,4100000,4
+Monica,"Joey, what's it like on a movie set, huh?",neutral,4100000,4
+Joey,"Aw, come on! It'll be years before I forget you!",neutral,3200000,4
+Monica,"Hey Joey! Aww, you remembered even though you're a big star!",joy,0300020,3
+Joey,"Hey Monica, it's Joey!",joy,1400000,3
+Monica,"Y'know, the-the old Monica would-would remind you to scrub that Teflon pan with a plastic brush...But I'm not gonna do that.",neutral,4000001,4
+Monica,"Oh, um, Chandler?",neutral,4000010,4
+Monica,"Sure.",neutral,4100000,4
+Chandler,"Well, every- single- second is like that with Aurora.. and I've just wasted about thirty-five of them talking to you people, so, uh.. Monica, can you help me with the door?",neutral,4000100,4
+Chandler,"Y'know in a relationship you have these key moments that you know you'll remember for the rest of your life?",neutral,4000100,4
+Chandler,"'Kay?",neutral,5000000,4
+Chandler,"No, no resentment, believe me, it's worth it.",neutral,3100100,4
+Rachel,"Ooh, do I sense a little bit of resentment?",surprise,0110030,7
+Chandler,"Yeah, well, I only have twenty minutes until Ethan, so, y'know..",neutral,3001001,4
+Monica,"Oh, you got the whole night, huh?",surprise,1100030,7
+Chandler,"Hey, listen, I wanna borrow a coupla things, Aurora spent the night, I really wanna make her breakfast.",neutral,5000000,4
+Chandler,"Oh, that would be Monica.",neutral,5000000,4
+Rachel,"Who is being loud?",anger,1000310,0
+Monica,"I warned you...",neutral,3000101,4
+Chandler,"C'mon, we're roommates!  My eyes!! My eyes!!",disgust,0000023,1
+Monica,"He's in the bathroom. I don't think you wanna go in there!","non-neutral",2001002,5
+Chandler,"Where's Joey? His mom's on the phone.",neutral,4001000,4
+Joey,"Thank you!",joy,0500000,3
+Monica,"Oh my God. Okay, go into the bathroom, use whatever you want, just don't ever tell me what you did in there.",disgust,0001004,1
+Joey,"Whaddya think? Today's the big day!",joy,0400001,3
+Monica,"For what?",neutral,3000020,4
+Joey,"Here. I need to borrow some moisturizer.",neutral,5000000,4
+Monica,"Alright, alright, alright...",neutral,4000100,4
+Phoebe,"Yeah, okay, my bad.","non-neutral",1020110,5
+Steve,"Something to think about.",neutral,4010000,4
+Steve,"Umm, see, I was thinking maybe you two could switch apartments because Phoebe's more our kind of people.",fear,2003000,2
+Steve,"Oh hey, Ross.",neutral,3000020,4
+Phoebe,"Hey!",joy,1400000,3
+Steve,"Oh hey, Pheebs!",joy,1300010,3
+Phoebe,"They'll see you talking to me and that's--I'm a hit!",joy,1300100,3
+Phoebe,"If anything I'm making you look better!","non-neutral",0200120,5
+Phoebe,"No!",surprise,1000130,7
+Phoebe,"No I'm not.",neutral,3000020,4
+Ross,"Yeah, but you're making me look bad!",anger,0011300,0
+Phoebe,"That's always fun to be.",joy,1400000,3
+Phoebe,"This way I'm just y'know, the exotic, generous stranger.",joy,2300000,3
+Phoebe,"Y'know?","non-neutral",2100020,5
+Phoebe,"Yeah, but they didn't ask me!","non-neutral",1200020,5
+Ross,"Phoebe! I can't believe you gave them money! I thought you agreed it was totally unreasonable that they asked me for that money!",surprise,0000041,7
+Phoebe,"Yeah, uh-huh, a 100 dollars.",neutral,4100000,4
+Ross,"You chipped in?!",surprise,0000050,7
+"Guest #1","See ya Phoebe! Oh and hey, thanks for chipping in!",joy,0500000,3
+Phoebe,"Oh, I thought this was your party and it turns out it's a party for Howard. He's just the sweetest little man!",surprise,0000050,7
+Paul,"Ross, let me show you where the guest room is.",neutral,5000000,4
+Ross,"And I too am just a love machine.",neutral,3200000,4
+Paul,"What?",surprise,2000030,7
+Wayne,"I-I-I saw you on stage talking to that beautiful woman, y'know Sarah?",neutral,3002000,4
+Joey,"What do you need?",neutral,5000000,4
+Chandler,"The reason he just said.",neutral,4000001,4
+Joey,"Why should I help you?!","non-neutral",0000212,5
+Wayne,"Joey, Joey, I-I-I'll g-get you your job back if you help me out.",neutral,3011000,4
+Chandler,"Hi, how are ya?",neutral,5000000,4
+Joey,"Wayne, Chandler.",neutral,3010010,4
+Joey,"Oh, Chandler, Wayne.",neutral,4010000,4
+Joey,"You ruined my life!",anger,0000500,0
+Joey,"I hate you!",anger,0000500,0
+Joey,"Well, I don't want to talk to you Wayne!",anger,0000500,0
+Joey,"Yeah?",neutral,3000020,4
+Wayne,"Hey Joey, I want to talk to you.",neutral,5000000,4
+Joey,"Yeah! Help me get this mini-fridge past the security guard.",neutral,3100010,4
+Chandler,"Oh I'm so sorry man! Is there anything I can do?",sadness,0040010,6
+Joey,"I can't believe I'm going to lose this job!","non-neutral",0002120,5
+Rachel,"Arghh!!",disgust,0000113,1
+Monica,"Awww, y'know what your nickname is, Mr. Big","non-neutral",2210000,5
+Chandler,"Laundry. Huh. Is that my new nickname?","non-neutral",1100021,5
+Monica,"I'll just tell Rachel I'm gonna be doing laundry for a couple of hours.",neutral,5000000,4
+Monica,"I'll sneak over as soon as Ross picks up Ben.",neutral,4100000,4
+Monica,"I can't wait to be with you!",joy,1400000,3
+Joey,"Hey Ross, will you pass me that knife?",neutral,5000000,4
+Ross,"Try telling my wife that.","non-neutral",2010101,5
+Rachel,"I'm sorry your wife is gay. I guess women aren't that great either.","non-neutral",1020200,5
+Ross,"I'm sorry your husband cheated on you.",sadness,0050000,6
+Rachel,"Good day for married people huh?",surprise,2000030,7
+Ross,"She is not...  She's gay. Oh my God. She is","non-neutral",1000022,5
+Rachel,"Well, you might want to tell him it sounds like his wife is  gay.",neutral,3001100,4
+Joey,"Wow, it is easy.  Now, I can have milk everyday.",surprise,0200030,7
+Mike,"This works with any milk carton.",neutral,4100000,4
+Mike,"Go ahead.",neutral,5000000,4
+Mike,"Keep in mind, he's never used this product before, you're gonna see how easy this is to do.","non-neutral",2200010,5
+Chandler,"You're flingin'-flangin' right I am!",joy,0400010,3
+Ross,"Are you intrigued?",surprise,1100030,7
+Mike,"There is a revolutionary new product that guarantees that you'll never have to open up milk cartons again. Meet the Milk Master 2000.",neutral,3200000,4
+Rachel,"Noo way, Kevin.","non-neutral",1000211,5
+Joey,"Can we please turn this off?","non-neutral",1000202,5
+Mike,"And there is Kevin.",neutral,4000001,4
+Joey,"Oh, you said it Mike.  Aw! There's got to be a better way!","non-neutral",1000220,5
+Host,"You go to the refrigerator to get a nice glass of milk,  and these darn cartons are so flingin'-flangin' hard to open.",neutral,3000101,4
+Host,"Folks, has this ever happened to you.",neutral,4010000,4
+All,"Shhhh!",anger,1000400,0
+Joey,"You guys, can we please not watch this all right.",disgust,1000103,1
+Phoebe,"Oh, oh! It's on again!",joy,0400010,3
+Host,"Welcome everybody, welcome to Amazing Discoveries!",joy,0500000,3
+Monica,"No, but he told me, he thinks your a fox.",neutral,3100010,4
+Chandler,"Does anyone else think David Copperfield is cute?",neutral,3101000,4
+Ross,"Are you kidding?",surprise,0000050,7
+Joey,"I like it.",joy,1400000,3
+Ross,"It tastes like feet!",disgust,0000113,1
+Rachel,"then a little more custard, and then bananas, and then I just put some whipped cream on top!",neutral,3200000,4
+Rachel,"[Joey and Ross make impressed faces] Then raspberries, more ladyfingers, then beef sauteed with peas and onions, [Joey and Ross look like something's wrong.]","non-neutral",2100011,5
+Rachel,"First there's a layer of ladyfingers, then a layer of jam, then custard, which I made from scratch.",neutral,5000000,4
+Rachel,"It's got all of these layers.",neutral,5000000,4
+Rachel,"It's a trifle.",neutral,5000000,4
+Joey,"Damn you 15s!",anger,0000401,0
+Joey,"Why did I have to start working out again?",disgust,0011003,1
+Joey,"'Kay look, if I have to go to the doctor for anything it's gonna be for this thing sticking out of my stomach!","non-neutral",0002111,5
+Joey,"No way!",anger,0001310,0
+Chandler,"This sounds like a hernia. You have to-you-you-Go to the doctor!",surprise,0002030,7
+Joey,"But um, I don't think it's anything serious.",neutral,3011000,4
+Joey,"Well, I-I got this blinding pain in my stomach when I was lifting weights before, then I uh passed out and uh, haven't been able to stand up since.",sadness,0032000,6
+Joey,"Nothing!",anger,0000410,0
+Chandler,"What's wrong with you?","non-neutral",2002100,5
+Ross,"You see what men do! Don't tell me men are not nice!  This is men!!",anger,0000311,0
+Chandler,"I can't remember which sister.","non-neutral",2012000,5
+Monica,"What is the worse part?",neutral,3000020,4
+Chandler,"Ah, I fooled around with Joey's sister.  Well, that's not the worst part.","non-neutral",1012001,5
+Phoebe,"Why, what happened?",surprise,2000030,7
+Chandler,"Ow, no 'woo-hooing,' no 'woo-hooing.'","non-neutral",1020101,5
+All,"Woooo hoooo!!!",joy,0300020,3
+Chandler,"Yeah, I ended up in the storage room, and not alone.",neutral,3110000,4
+Ross,"Yeah.",neutral,5000000,4
+Phoebe,"Where'd you get too? We lost you after you opened up all the presents.",neutral,5000000,4
+Chandler,"Well, my apartment isn't there anymore, because I drank it.",neutral,3010001,4
+Monica,"How ya feelin'?",neutral,5000000,4
+Rachel,"Well, I assume I'll have to take showers with him, but y'know, that's true of any job.",neutral,3000101,4
+Ross,"So, he's just a nice guy. You really think this Mark doesn't want anything in exchange for helping him?","non-neutral",0001121,5
+Joey,"I mean I'll have to check with him first, but I'll think he'll be cool with it.",neutral,5000000,4
+Joey,"All right, all right, all right.",neutral,3000002,4
+Rachel,"Go!!",anger,1000400,0
+Joey,"All right! I'll try! But if I can't, you can stay with Chandler and I until you get settled.",neutral,4000001,4
+Monica,"Now Joey, you go down there and you suck up to him. I mean you suck like you've never sucked before!",neutral,3000200,4
+Rachel,"That's not true!",anger,0000401,0
+Monica,"Rachel always cries!",anger,1000301,0
+Joey,"Well he made Rachel cry!",disgust,1000103,1
+Monica,"I told you not to go down there!",anger,0000410,0
+Rachel,"What?! You got us evicted!!",anger,0000320,0
+Rachel,"Oh.",neutral,4000010,4
+Monica,"You know what this is, this is us getting ready for the prom.",neutral,4100000,4
+Rachel,"Oh my God.",surprise,0000050,7
+Phoebe,"Rach, look!  Oh, hi! Where is my strong Ross Skywalker to come rescue me.  There he is.","non-neutral",2200010,5
+Rachel,"Oh, really, let me see, let me see.",joy,0300020,3
+Ross,"They published my paper.",joy,0500000,3
+Rachel,"What?",neutral,4000010,4
+Ross,"Guess what?",neutral,4000010,4
+Rachel,"Hi.",neutral,5000000,4
+Ross,"Hi.",neutral,5000000,4
+Monica,"I know I do.",neutral,4010000,4
+Rachel,"You really, really need to get some sleep, honey.",neutral,4010000,4
+Ross,"Okay.",neutral,5000000,4
+Monica,"Because I don't work at the Szechwan Dragon.",neutral,4000001,4
+Rachel,"Why?","non-neutral",2010020,5
+Rachel,"All right, so are we not having dinner at all?","non-neutral",2010020,5
+Monica,"No it's not! You want it, you're gonna have to win it!",anger,0000500,0
+Ross,"That cup is mine!",anger,1000310,0
+Monica,"When Mom and Dad drove you to the hospital to get your nose fixed, I swam into the lake and fished it out.",neutral,5000000,4
+Ross,"Okay, where in the hell did you get that?!",surprise,0000050,7
+Phoebe,"You betcha!","non-neutral",2100101,5
+Rachel,"Ah, Paolo, this is Phoebe.",neutral,5000000,4
+Phoebe,"Ah! Well! There you go! Last to know again! And I'm guessing... since nobody told me... this is Paolo.","non-neutral",1000211,5
+Rachel,"Oh, I found him. He was Paolo's cat.",neutral,4100000,4
+Phoebe,"Alright. I looked all over the building and I couldn't find the kitty anywhere.",neutral,4010000,4
+Ross,"That, that is funny... .... and Rachel keeps touching him.",neutral,3000110,4
+Rachel,"Well, the cat... the cat turned out to be Paolo's cat!",neutral,3000020,4
+Ross,"No, I mean tonight, in the building. Suddenly. Into our lives.",neutral,4000010,4
+Rachel,"Oh... Italy, I think.",neutral,5000000,4
+Ross,"So, um... where did Paolo come from?",neutral,5000000,4
+Rachel,"Look at that!",surprise,0000050,7
+Rachel,"He doesn't speak much English.",neutral,5000000,4
+Monica,"Hi!",neutral,3200000,4
+Rachel,"And Ross.",neutral,5000000,4
+Monica,"Hi!",neutral,3200000,4
+Rachel,"And Joey....",neutral,5000000,4
+Monica,"Hi!",neutral,3200000,4
+Rachel,"Everybody, this is Paolo. Paolo, I want you to meet my friends. This is Monica.",neutral,4100000,4
+Ross,"Lucky sixes....",neutral,4100000,4
+Phoebe,"Umm, all righty, before we get started I just-I need you to state for the official record that you are in fact Frank Buffay.",neutral,3000110,4
+Phoebe,"Sit!",anger,2000300,0
+Phoebe,"Sit.",neutral,4000001,4
+Phoebe,"Come, sit.",neutral,4000001,4
+"Frank Sr.","Thank you. All right.",neutral,5000000,4
+Phoebe,"Umm, thank you for meeting with me.",neutral,5000000,4
+Phoebe,"My mom never gave birth. Oh! But my birth mom did.",neutral,3100010,4
+Rachel,"Yeah, honey, maybe you can talk to somebody who's had a baby. Like your mom?",neutral,4001000,4
+Monica,"We just want you to think it through.",neutral,5000000,4
+All,"Yeah.",neutral,3100100,4
+Joey,"No, Pheebs, listen, if you decide to do this, we'll be supportive like crazy.",neutral,3100100,4
+Phoebe,"Y'know you guys were a lot more supportive when I wanted to make denim furniture.","non-neutral",2000201,5
+Ross,"Come on! The time we were all waiting in line for","non-neutral",2001101,5
+Joey,"I totally don't know what you're talking about.","non-neutral",2000021,5
+Ross,"Okay, I know what I have to do. I've got to go Red Ross.  Y'know, Red Ross!","non-neutral",2002100,5
+Phoebe,"Whoa!  I kinda liked it.",joy,0300020,3
+Phoebe,"Hi.",neutral,5000000,4
+Emily,"Okay.",neutral,5000000,4
+Ross,"All right.",neutral,5000000,4
+Emily,"I'm just going to say hi to the lads. All right?",neutral,5000000,4
+Joey,"Well, maybe that's because you're closer to you. So you look bigger to you from where you are.","non-neutral",2001011,5
+Ross,"They don't look any bigger than me!","non-neutral",2000120,5
+Joey,"Ross-Ross-Ross-Ross! Stay away from that guy , and that guy . And that one-Dude! They're all huge!",fear,1004000,2
+Woman,"OH....MY....GAWD!!!",surprise,0100130,7
+Rachel,"Okay, well then bring her in.",neutral,5000000,4
+Nurse,"I don't think the next patient is very far along.",neutral,5000000,4
+Rachel,"Go get back on that case honey!",anger,1100300,0
+Ross,"Uh Rach",neutral,4001000,4
+Rachel,"And my husband  he's a lawyer!","non-neutral",2100200,5
+Rachel,"Not this hospital, I'm going to sue you!",anger,0000401,0
+Rachel,"And if you bring in one woman and she has her baby before me I'm going to sue you!",anger,1000301,0
+Rachel,"It's only fair!",anger,1000400,0
+Rachel,"It's my turn!",anger,0200300,0
+Rachel,"I'm next!",anger,0200300,0
+Rachel,"Since I have been waiting four women, that's four, one higher than the number of centimeters that I am dilated, have come and gone with their babies!","non-neutral",1000211,5
+Rachel,"You listen to me!",anger,0000500,0
+Rachel,"You listen to me!",anger,0000500,0
+Rachel,"Okay wait!","non-neutral",2101100,5
+Rachel,"Okay!",joy,2300000,3
+Nurse,"This room's available.",neutral,5000000,4
+Joey,"I tell ya, that has never happened before.","non-neutral",1011020,5
+Joey,"One hundred percent natural!",joy,0300020,3
+Joey,"So there you go, that's me.",neutral,4100000,4
+Joey,"Don't you worry; I have nothing to hide.","non-neutral",2021000,5
+Joey,"You need to y'know make sure I don't have any horrible scars or tattoos.","non-neutral",2111000,5
+Joey,"I totally understand.",neutral,4010000,4
+Joey,"Not a problem.",neutral,3020000,4
+Joey,"Hey right!",surprise,1100030,7
+Joey,"Oh!",surprise,0000050,7
+"The Casting Director","Joey, this is the awkward part.","non-neutral",2001002,5
+"The Director","Oh that's great! Okay, well I've heard everything I need to hear. I just need to uh, Leslie",surprise,1100030,7
+Joey,"My whole family's from Naples!","non-neutral",1200020,5
+"The Director","Yeah.",neutral,5000000,4
+Joey,"And what's cool is, the character is from Naples, right?","non-neutral",2100020,5
+Joey,"It's like my favorite fairy tale come true!  The princess, the stable boy and the lesbian!",joy,0410000,3
+Ross,"Ok ...  Well, uh, Joey, I guess    we have no problem.",neutral,3000020,4
+Molly,"Hey! Guys, this is Tabatha .  I'll see you tomorrow.",neutral,5000000,4
+Ross,"Yeah, come on in. Molly?",neutral,4000010,4
+Woman,"Hi, is Molly here?",neutral,5000000,4
+Joey,Ok,neutral,5000000,4
+"Ross and Chandler","Come on! Joe!","non-neutral",1000121,5
+Joey,"I didn't think I could ever love again.",sadness,0130100,6
+Joey,"Look, the truth is, I haven't felt this    way about anyone since Rachel, ok?","non-neutral",1120100,5
+Joey,"Can't you guys open your minds to the possibility that I actally like her,    and might want something real?",anger,1000301,0
+Joey,"Huh?","non-neutral",1000220,5
+Joey,"What makes you think that I'm just gonna sleep with her and then blow her off?",anger,1000400,0
+Joey,"You know, this isn't fair.",anger,0020300,0
+Joey,"No ... the leather sticks to my ass.","non-neutral",1110002,5
+Ross,"What do you think you're gonna do, have sex with her right here    on my couch?",disgust,0000005,1
+Joey,"Will the stable boy never get the princess??",sadness,0040100,6
+Ross,"Thanx.",neutral,3200000,4
+Molly,"Sure, I'll go check on Emma.",neutral,5000000,4
+Ross,"Molly, ah, do you mind giving us just a minute?",neutral,4000100,4
+Joey,"Molly ... people don't study acting ...",neutral,4000100,4
+Molly,"No, where did you study acting?",neutral,4000010,4
+Joey,"Oh, I didn't go to college.",neutral,5000000,4
+Molly,"So where did you study?",neutral,5000000,4
+Joey,"So you see, Molly, what people don't understand is that acting    is a discipline. It takes a lot of hard work.",neutral,5000000,4
+Chandler,"Y'know, I feel like I've lost her..  Ba-!","non-neutral",0020111,5
+Chandler,"I know we both said some things we didn't mean, but that doesn't mean we still don't love each other.",neutral,3010001,4
+Chandler,"Oh, c'mon Dora, don't be mad...",neutral,3000011,4
+Chandler,"Who's he sleeping with?",neutral,3000101,4
+Chandler,"I mean, that guy with the toe thing?","non-neutral",2000102,5
+Chandler,"Excuse me, look, we've been here for over an hour, and a lot of people less sick than my friend have gone in.","non-neutral",2000102,5
+Joey,"They did it right there on the couch.","non-neutral",2000102,5
+Rachel,"What?","non-neutral",2100020,5
+Joey,"Ohh, I know one thing!","non-neutral",1000220,5
+Rachel,"You don't know anything.",anger,0000302,0
+Joey,"I don't know.",neutral,5000000,4
+Rachel,"Are they in love?","non-neutral",2001020,5
+Joey,"I don't know.",neutral,5000000,4
+Rachel,"Is he romantic with her?","non-neutral",2001020,5
+Joey,"I don't know.",neutral,5000000,4
+Rachel,"No! I mean come on! This is a","non-neutral",0001202,5
+Joey,"Sorry. Monica and Chandler are making love.",neutral,4000001,4
+Rachel,"I can't believe you would say that!","non-neutral",0000122,5
+Joey,"Look, it's not that big of a deal, so Monica and Chandler are doing it.",neutral,4100000,4
+Joey,"Rach, I told you everything I knew last night!","non-neutral",2000201,5
+Rachel,"Come on Joey!!!","non-neutral",1100102,5
+Phoebe,"It's okay to laugh right?","non-neutral",1102010,5
+Larry,"No, bribes.",neutral,3000002,4
+Phoebe,"Umm, do health inspectors work on commission?",neutral,4001000,4
+Monica,"Oh, Larry.",neutral,5000000,4
+Ross,"Ohh, it was the best!",joy,0500000,3
+"Flight Attendant","Hope you had a nice flight.",neutral,3200000,4
+Rachel,"Yes, I did. Thank you very much, it was excellent.",joy,0500000,3
+"Flight Attendant","Thank you!  Enjoy your flight?",joy,1400000,3
+"Flight Attendant","Welcome to Las Vegas.",neutral,5000000,4
+Joey,"What's up with Gene?","non-neutral",2100020,5
+Chandler,"It's Clint!",anger,0000401,0
+Phoebe,"Bye, Gene.",neutral,4100000,4
+Joey,"See you later, Gene.",neutral,3100001,4
+Chandler,"It's Clint. It's Clint!",anger,1000400,0
+Phoebe,"Umm, Gene.",neutral,5000000,4
+Chandler,"Okay, so what name am I cool enough to pull off?",surprise,2000030,7
+Joey,"No way are you cool enough to pull of Clint.",disgust,1000013,1
+Chandler,"Okay uh, for now, temporarily, you can call me, Clint.",neutral,5000000,4
+Phoebe,"All right, so, what are we supposed to call you?",neutral,3000020,4
+Chandler,"I have no name.",neutral,3010001,4
+Joey,"Maybe I could be a waiter. Could I use the phone?",neutral,4000010,4
+Gunther,"Flexible hours.",neutral,5000000,4
+Joey,"What?!",surprise,0000050,7
+Gunther,"Okay, but the money's good, plus you get to stare at Rachel as much as you want.",neutral,4100000,4
+Joey,"And to go from that to this, I just... Plus, I'd have to wait on all my friends.",sadness,2030000,6
+Joey,"Ya see, it's just, see I was a regular on a soap opera y'know?",neutral,3020000,4
+Joey,"Uh, I don't know.",neutral,3002000,4
+Gunther,"Well, if you want, you can work here.",neutral,3010010,4
+Joey,"Ah, Gunther, I can't pay for this right now because I'm not working, so I've had to cut down on some luxuries like uh, payin' for stuff.",neutral,3020000,4
+Gunther,"Here you go.",neutral,5000000,4
+Chandler,"Okay .",neutral,5000000,4
+Ross,"Well, I'm not going to go now anyway .",neutral,4000100,4
+Chandler,"Yeah!","non-neutral",2000210,5
+Ross,"Oh, what are you going to do, follow me down there?","non-neutral",2000111,5
+Chandler,"Well, she is going to know that you stole the joke.","non-neutral",1001201,5
+Ross,"Well, I was going to stick it in the ATM, but now I think I'll show the sexy teller that I am a published writer.",neutral,3100010,4
+Chandler,"So, you stole my joke, and you stole my money.",anger,0000500,0
+Ross,"Hey!",neutral,3200000,4
+Phoebe,"Hey.",neutral,5000000,4
+Chandler,"Yeah. Well, I think our second fight is going to be a","non-neutral",2001101,5
+Kathy,"Yeah.",neutral,5000000,4
+Monica,"Like you, I don't even know where you work?",surprise,2000030,7
+Monica,"Look, not that I enjoy talking about people who I went to high school with, 'cause I do, but umm, maybe we could talk about something else?",disgust,1001003,1
+Chip,"...and then Zana, just let one rip!!",surprise,2000030,7
+Chandler,"It was a Wendy's!!    ","non-neutral",1000220,5
+Janice,"What, you can do it in the parking lot of a Taco Bell, but you    can't do it at a doctor's office?","non-neutral",0100022,5
+Chandler,"I guess I was just so worried about having to...    come here and do... 'that'...","non-neutral",2001002,5
+Chandler,"I can't believe    I didn't even think of that.",surprise,1000031,7
+Chandler,"oh, oh, yeah, ok, thanks.","non-neutral",2010011,5
+Janice,"Oh, Chandler, look. You and Monica are meant to have children.    I am sure it's gonna be just fine.",neutral,3020000,4
+Chandler,"Yeah, but what if it's not? What if there    is a reason why we can't have a baby?","non-neutral",0022010,5
+Rachel,"Whoa, I'm sorry. Excuse me. We had this cart.","non-neutral",1000220,5
+Rachel,"Oh, I guess. Except everything looks like jammies now.",neutral,3010001,4
+Ross,"You got the clothes clean. Now that's the important part.",neutral,5000000,4
+Chandler,"Oh yeah! Yeah! Don't worry about me, I'll be fine!","non-neutral",1021100,5
+Monica,"Y'know, I don't have an appointment, but I sure could use a physical.  Are you sure you're okay?",neutral,3011000,4
+Chandler,"I bet he can.",neutral,3010001,4
+Monica,"Great! It's so amazing! I mean, last time Dr. Roger came over, I was",joy,0400010,3
+Chandler,"Yeah! Totally! Totally, and you?",joy,1301000,3
+Monica,"Are you okay?",neutral,3001010,4
+Chandler,"I mean, I remember a time when",sadness,2030000,6
+Chandler,"Because you're still seeing him and uh, he's a good guy.",sadness,1030001,6
+Chandler,"Right!",surprise,1010030,7
+Chandler,"Oh right!",surprise,2000030,7
+Chandler,"Oh.",neutral,5000000,4
+Monica,"Oh I can't. Dr. Roger is coming over again.",neutral,4010000,4
+Chandler,"So you uh, want to do something tonight?",neutral,4010000,4
+Monica,"Hey, check me out, I'm a slut!",joy,0300011,3
+Chandler,"Let me tell you about this chick I scored with last night! Oh no wait a minute that was you!",joy,0300200,3
+Monica,"Hey!",joy,0400010,3
+Chandler,"Hey!",joy,0400010,3
+Monica,"But you will always be the guy who peed on me.",disgust,1000004,1
+Monica,"Okay, all right, I think you're great, I think you're sweet, and you're smart, and I love you.",joy,0500000,3
+Chandler,"Okay. All right.",neutral,5000000,4
+Monica,"Will you stop!","non-neutral",1100111,5
+Chandler,"We were playing Gin? Y'know if we were a couple, we could play this game naked.",joy,2300000,3
+Monica,"Gin.",neutral,5000000,4
+Ross,"Yeah, that's our baby.",joy,0500000,3
+Rachel,"Wow! I can't believe that's our baby.",surprise,0200030,7
+Ross,"You're welcome.",neutral,3200000,4
+Rachel,"That's it? Well I saw that! Ohh-ohh-oh, thank you.",joy,1300010,3
+Ross,"Sweetie that's it.",joy,2300000,3
+Rachel,"Yeah.",neutral,5000000,4
+Ross,"Come on! Come on! Here, okay-okay, you see this?  This tiny thing that looks like a peanut?",joy,2300000,3
+Rachel,"No, I don't see it!",anger,1010300,0
+Ross,"Do you really?",neutral,3000020,4
+Rachel,"Oh. Oh, it's beautiful. I see it now.",joy,2300000,3
+Ross,"Oh sure, come here!  Sure you can! Uh, look come here look,  it's-it's-it's, it's right there .",neutral,4000010,4
+Rachel,"I know, I lied! I didn't want her to think I was a terrible mother! I can't even see my own baby!",sadness,0040001,6
+Phoebe,"Uh-huh! Why do you think it takes me so long to answer the door?","non-neutral",2000210,5
+Rachel,"I mean, you live alone, you don't walk around naked.",neutral,3000110,4
+Rachel,"Phoebe just because I'm alone doesn't mean I wanna walk around naked.",neutral,4000100,4
+Rachel,"No!","non-neutral",1000211,5
+Rachel,"Ross, please, I found the magazines!","non-neutral",1010201,5
+Ross,"Oh, come on!","non-neutral",0000221,5
+Judge,"Now it also says here that you lied about your sexual preference before marriage?",neutral,5000000,4
+Rachel,"Well, you would know.",neutral,3000101,4
+Ross,"Crack isn't even an intravenous drug!",anger,1000310,0
+Rachel,"Uh yes, heroin and crack.",neutral,4010000,4
+Ross,"What?!",surprise,0000140,7
+Judge,"And based on the fact that Mr. Geller is intravenous drug user.",neutral,5000000,4
+Ross,"Fine, I'm mentally unstable.",anger,1010300,0
+Judge,"So based on your petition you are seeking an annulment on the grounds that Mr. Geller is mentally unstable.",neutral,5000000,4
+Rachel,"Yes your honor, and here are, are forms, all filled out.",neutral,5000000,4
+Judge,"Okay you two are asking the court for an annulment?",neutral,4000010,4
+Monica,"Oh, she's gonna love that!",joy,0500000,3
+Rachel,"Oh, and somebody can get those leather pants she's always wanted!",joy,0400010,3
+Monica,"Like-like umm, regular coffee, Tequila.",neutral,3110000,4
+Monica,"Unless, we give her all gifts she can use after she's done being pregnant.",joy,2300000,3
+Monica,"Wait a minute!",surprise,0000050,7
+Rachel,"Oh my God! We are throwing the most depressing baby shower ever!",sadness,0030101,6
+Monica,"Because she's not gonna get to keep the babies.",sadness,1030010,6
+Rachel,"Huh. Except, Phoebe's not gonna be the one that gets to dress them.",neutral,3000011,4
+Monica,"I know! Phoebe is gonna love dressing them in these!",joy,0500000,3
+Rachel,"Oh, that is so sweet!",joy,0400010,3
+Monica,"Okay, look at this one. This is my favourite.",joy,1400000,3
+Rachel,"Little village people.",neutral,3100100,4
+Monica,"Look what I got! Look what I got! Look what I got!  Can you believe they make these for little people?",surprise,0200030,7
+Ross,"Damnit!",anger,0000311,0
+Ross,"Ezel!  Hey Gunther! You're an ezel!","non-neutral",1000112,5
+Joey,"I guess I didn't really think about it.",neutral,3010010,4
+Ross,"Yeah, you didn't expect her to live there with a baby did you?",surprise,1000031,7
+Joey,"She is?",surprise,1000040,7
+Ross,"Yeah, but when the baby comes she's gonna want to move.",neutral,5000000,4
+Joey,"But Rachel has an apartment.",neutral,3000110,4
+Ross,"It's not for me, it's for Rachel.",neutral,4001000,4
+Joey,"Oh, you're switching apartments?",surprise,1000040,7
+Ross,"No-no, I-I have to see if this apartment became available.",neutral,4001000,4
+Joey,"To tape the game? You do this every time Ross, you're",disgust,1000103,1
+Ross,"Okay I-I just have to stop by my place first.",neutral,5000000,4
+Joey,"Oh you know uh Kash, really liked you the other day. He said he thought you were charming.",neutral,4100000,4
+Rachel,"Hi!",joy,1300010,3
+Joey,"Hey!",joy,1300010,3
+Chandler,"You didn't bring",neutral,5000000,4
+"Male Student","Sorry!","non-neutral",1010021,5
+"Female Student","I'm so sorry!","non-neutral",1010021,5
+Chandler,"Sounds like two people are really enjoying the Dewey decimal system.",neutral,3100010,4
+Ross,"Oh umm, there's also a book here by a woman named Wendy Bagina.  What is that?",neutral,4000010,4
+Monica,"Wait! What about Joey?",neutral,3000020,4
+Chandler,"Okay, y'know your not though. Let's go.",neutral,4100000,4
+Monica,"Ohh, I've always wanted to go to this culinary fair that they have in Jersey!",joy,0400010,3
+Chandler,"Yeah, I can say that I have a conference and you can say you have a chef thing.",neutral,3200000,4
+Monica,"All weekend? That's a whole lotta naked.","non-neutral",1200020,5
+Chandler,"Y'know we'd have no interruptions and we could be naked the entire time.",joy,2300000,3
+Chandler,"Y'know what if we went away for a whole weekend?","non-neutral",2100020,5
+Chandler,"Hey!",joy,0400010,3
+Chandler,"I know, me too.",neutral,5000000,4
+Monica,"I'm",neutral,5000000,4
+Joey,"I guess I'll get washed up then. Watch that sunrise.",neutral,5000000,4
+Monica,"Well that's because you always sleep to noon, silly! This is what 9 looks like.",neutral,4000001,4
+Joey,"But it's dark out.",neutral,4000010,4
+Chandler,"Uhh, 9.",neutral,5000000,4
+Joey,"Monica? What time is it?",neutral,5000000,4
+Chandler,"Hi!",joy,0500000,3
+Monica,"Hi!",joy,0500000,3
+Joey,"London baby!",joy,0500000,3
+Ross,"Yeah, cheerie-o!",joy,0500000,3
+Joey,"Woo-hoo!!",joy,0500000,3
+Chandler,"All right! Let's do it!",joy,0500000,3
+Monica,"Yeah, okay, give that a try!",neutral,3200000,4
+Phoebe,"Okay, okay, but Rachel's gonna be here too, can't I just ask her this stuff?",neutral,4000010,4
+Monica,"Okay, if you need the vacuum, it's in my closet on the left-hand side. Ah, the garbage bags are next to the refrigerator",neutral,5000000,4
+Ross,"I'm not going to do that.",neutral,5000000,4
+Rachel,"Uh-huh.",neutral,4000010,4
+Monica,"Really well. Yeah. Surprisingly well. Yeah, she didn't cry. She wasn't angry or sad.",neutral,3000020,4
+Chandler,"Oh yeah? Well, how'd she take it?",neutral,3000020,4
+Monica,"So I, I told Rachel it was just gonna be the two of us.",neutral,5000000,4
+Joey,"Hi.",neutral,5000000,4
+Chandler,"Hey!",neutral,3100010,4
+Monica,"Hi.",neutral,5000000,4
+Chandler,"Not once did we do that.",neutral,5000000,4
+Joey,"Yeah but we won't be able to like get up in the middle of the night and have those long talks about our feelings and the future.",sadness,0050000,6
+Chandler,"Look, I'm just gonna be across the hall, we can still do all the same stuff.",neutral,5000000,4
+Joey,"Can't, its not there.",neutral,3020000,4
+Joey,"You wanna go over to Joey and Chandler's?",neutral,4010000,4
+Joey,"No more J and C's.",sadness,0050000,6
+Joey,"No more Joey and Chan's.",sadness,0050000,6
+Joey,"Y'know?",neutral,4010000,4
+Joey,"God, it's gonna so weird like when I come home and you're not here.",sadness,1031000,6
+"Phoebe and Leslie","Sticky shoes, sticky shoes, always make me smile. Sticky shoes, sticky shoes, next time I'll.... avoid the..... pillleeeee.",joy,1300001,3
+Phoebe,"I stepped in something icky.","non-neutral",1020002,5
+Leslie,"Though late one night, not much light, I....",neutral,3200000,4
+Leslie,"With them I'm one hot chicky.",joy,1400000,3
+Leslie,"My feet's best friends, pals to the end.",joy,2300000,3
+Leslie,"Don't care what people say.","non-neutral",2200001,5
+Leslie,"Down at the heel, holes in the toes.",joy,2300000,3
+Leslie,"I wear them everyday.",joy,2300000,3
+Leslie,"My best shoes, so good to me.",joy,1400000,3
+Monica,"I'll get everybody else , finally we can start celebrating my- I'm sorry, uh apparently I've opened the door to the past.",neutral,3010010,4
+Phoebe,"Okay.",neutral,5000000,4
+Monica,"Fair enough, now go get ready!",neutral,4100000,4
+Phoebe,"Oh but Mon, if you touch my guitar again I'll have to pound on you for a little bit.",anger,0001400,0
+Phoebe,"Thanks Mon!",joy,0500000,3
+Phoebe,"Thank you!",joy,0500000,3
+Phoebe,"Oh that's so exciting!",joy,0500000,3
+Phoebe,"Really?!",surprise,0000050,7
+Monica,"No, Phoebe, I'll tell you what, if you get ready now I'll let you play it at the wedding.",neutral,3000200,4
+Phoebe,"I'm sorry, but I just wrote the best dance song for your wedding. Check this out.",neutral,3200000,4
+Monica,"Phoebe! Come on! Let's go!  Come on!  Why aren't you dressed yet?!",anger,0000320,0
+Rachel,"Diane Keaton.",neutral,5000000,4
+Chandler,"Oh, come on! I don't care! Come on! Whose is it?","non-neutral",2200010,5
+Rachel,"I don't want to say.",neutral,4001000,4
+Chandler,"Whose is it?",neutral,5000000,4
+Ross,"No! I made it seem like I was just calling to chat. Pretty sure, they both think I'm interested in them.",neutral,3100010,4
+Phoebe,"You told them he was missing?","non-neutral",2001020,5
+Ross,"No! I talked to Joey on the set, he hasn't heard from him. I-I-I talked to Chandler's parents again!","non-neutral",2001020,5
+Rachel,"Anything?",neutral,5000000,4
+Phoebe,"Oh.",neutral,5000000,4
+Joey,"All right Pheebs, stick out your plate!",neutral,3100010,4
+Monica,"Please, it's a relief is what it is, is what it is.",neutral,3000101,4
+Ross,"Somebody seems to be missing being the hostess.",neutral,3000020,4
+Monica,"The players.",neutral,4000001,4
+Joey,"Oh yeah, who's playing?",neutral,3100010,4
+Monica,"Oh, I was thinking about having people over for the game.",neutral,5000000,4
+Ross,"Yeah-no, just that last song.",neutral,4010000,4
+Monica,"Okay, so you were trying to play bad this whole time.",surprise,1000031,7
+Ross,"I played bad on purpose guys.","non-neutral",2020001,5
+Rachel,"What?",surprise,0000140,7
+Ross,"Yeah, like I could",neutral,3020000,4
+Phoebe,"After that? Yeah! No, I mean if I can help.",surprise,1100030,7
+Ross,"Y'know, I'm not gonna play anymore,  would you, can you finish my set?",neutral,4010000,4
+Ross,"Yeah, I lost it.","non-neutral",2010101,5
+Ross,"Thank you, thanks.",joy,0500000,3
+Rachel,"Phoebe, his music could not",neutral,4000100,4
+Phoebe,"Because we're girls.",neutral,4000010,4
+Phoebe,"We really weren't great at being guys, but you know why?","non-neutral",2020001,5
+Phoebe,"Okay, y'know what, you were right, you were right.","non-neutral",2021000,5
+Phoebe,"Wait!",surprise,0001130,7
+Phoebe,"Wait!",fear,0003020,2
+Phoebe,"Oh no!",surprise,0001040,7
+Chandler,"All right, well I'm gonna put my sweats back on.",neutral,5000000,4
+Rachel,"No, I don't.",disgust,1000103,1
+Monica,"What, he doesn't like Josh?",surprise,1000040,7
+Rachel,"It's Joshua.","non-neutral",1000202,5
+Phoebe,"Who, Josh?",surprise,1000031,7
+Rachel,"I can't believe it! He still hasn't called.","non-neutral",0010121,5
+Chandler,"Oh yeah, that was great. Thanks to you, the hottest cocktail waitress there is quitting to teach the third grade!","non-neutral",2100101,5
+Monica,"So, we did okay at the strip club, right?",neutral,4000010,4
+Phoebe,"I'm really glad you guys are okay but, I just keep thinking what would happen if-if you two  actually had hooked up.",neutral,4010000,4
+Monica,"Yeah baby!",joy,1300010,3
+Ross,"Uh-huh.",neutral,4010000,4
+Monica,"Are you okay?",neutral,4010000,4
+Ross,"Great. He's doing great. Don't you worry about Chandler.",neutral,4001000,4
+Monica,"I know! Hey, how's Chandler doin'?",neutral,4100000,4
+Ross,"Oh my God! Monica!",surprise,0000050,7
+"Mrs. Bing","Honey, it isn't good luck.",neutral,3000002,4
+"Mr. Bing","But that was after the wedding, it's not bad luck then.",neutral,4100000,4
+"Mrs. Bing","As I recall when we got married, I saw the groom in the wedding dress.","non-neutral",2110001,5
+"Mrs. Geller","Well, he better not come by here. He can't see the bride in the wedding dress.",neutral,3001100,4
+Ross,"You're right, thanks for keeping me honest dad.",neutral,3020000,4
+"Mr. Geller","You can't ask us son, that's cheating.",neutral,3000002,4
+Ross,"He-he was with me umm, we're playing a little game, y'know? Hide and seek.",neutral,4001000,4
+"Mr. Geller","I thought he was with you.",neutral,4000010,4
+Ross,"Hi!  Hi!  Hi. Has umm, anyone seen Chandler?",neutral,4001000,4
+Student,"Oh it's great, it's a role on",joy,1400000,3
+Joey,"You bet! What's the part?",joy,0500000,3
+Student,"I was wondering if you would consider coaching me for it?",neutral,3200000,4
+Joey,"Awww, one of my students got an audition. I'm so proud.",joy,0400010,3
+Student,"Guess what, I got an audition!",joy,0400010,3
+Janice,"For Chandler!","non-neutral",2000210,5
+Joey,"But what does that gonna do...","non-neutral",2000021,5
+Janice,"So, this is my idea: you and me spending some quality time together.",neutral,3100001,4
+Janice,"All right, fine, fine, fine, fine, fine, we've got to do something about our little situation here Joey.",anger,2000300,0
+Joey,"And you got a 'hate' from that?! Your taking a big leap there...","non-neutral",2000111,5
+Janice,"A little birdie told me something about you wanting to rip your arm off and throw it at me.","non-neutral",1000202,5
+Joey,"I, ah, I never said hate, I was very careful about that.",neutral,4000010,4
+Janice,"So, I hear, you hate me!",anger,0000311,0
+Monica,"Behind my brother's back?  ... is exactly the kind of crazy thing you won't be hearing from me.","non-neutral",0000212,5
+Rachel,"C'mon up.",neutral,4000100,4
+"Dr. Franzblau","All right, Carol, I need you to keep pushing. I need- Excuse me, could I have this?",neutral,4001000,4
+Ross,"Long story, honey.",neutral,4000001,4
+Carol,"Where have you been?",neutral,3001010,4
+Ross,"We're here!","non-neutral",2200100,5
+All,"Push, push!",neutral,4000100,4
+Rachel,"Oh what do you know? Virgin!","non-neutral",0000221,5
+Monica,"Rachel! I'm never gonna think it's okay for you to cheat on your husband!","non-neutral",0010211,5
+Rachel,"Y'know, people should be able to sleep with who ever they want, whenever",neutral,5000000,4
+Rachel,"There shouldn't be all this rules and restrictions!","non-neutral",1100021,5
+Rachel,"I mean sex does not have to be a big deal!","non-neutral",2100020,5
+Rachel,"Yes!!",joy,0400010,3
+Monica,"Y'know what? You are right?!",surprise,0200030,7
+Rachel,"Oh my God!! Do it!! Honey, you've waited",surprise,0200030,7
+Monica,"Y'know, give him my flower.",neutral,3101000,4
+Monica,"He's not perfect, but umm, I think maybe I should just get it over with.",neutral,3011000,4
+Monica,"I'm seeing this guy Roger, all right?",neutral,4100000,4
+Monica,"I mean, y'know, I'm just waiting for the perfect guy.",neutral,5000000,4
+Monica,"It's not like, I haven't any opportunities.",anger,2000300,0
+Monica,"Say it louder, I don't think the guy all the way in the back heard you!",disgust,0000203,1
+Rachel,"Oh my God! You're a 30 year old virgin!",surprise,0000050,7
+Monica,"Of course I have! What do you think, I'm some 30 year old virgin?",anger,0000311,0
+Rachel,"Monica. You've, you've done it right?",surprise,1000040,7
+Monica,"Yeah I can!  And don't think I don't, because I do! I mean all the time, you betcha!",joy,0300110,3
+Rachel,"Oh, it's so easy for you I mean, you're not married, you get to have sex with who ever you want!",disgust,0000113,1
+Monica,"Well, you're not.",neutral,3000101,4
+Phoebe,"Yeah, no kidding, this just proves no good can come from  having sex with Ross!","non-neutral",1010012,5
+Monica,"Oh my god, I am losing my mind.","non-neutral",1020200,5
+Rachel,"Yeah, I'm not so sure.",neutral,3010010,4
+Monica,"Umm, she Rach, not it, she.",neutral,4010000,4
+Rachel,"Oh come on, what am I gonna do, its been hours and it  won't stop crying.","non-neutral",1011200,5
+Rachel,"Oh  oh no just stopped to throw up a little bit.","non-neutral",2010002,5
+Monica,"It worked!",surprise,0100040,7
+Rachel,"Ok.",neutral,4000010,4
+Monica,"Alright here's something, it says to try holding the baby  close to your body and then swing her rapidly from side to side.",neutral,5000000,4
+Phoebe,"Go back in time and listen to Phoebe!",anger,0000320,0
+Phoebe,"Well, alright, we already tried feeding her, changing her,  burping her, oh try this one!",sadness,1030010,6
+Phoebe,"Yeah, no, it was great.","non-neutral",2010101,5
+"Phoebe Sr","Ohh, y'know I-I heard about what happened, that must have been just terrible for you, losing your mother that way.",sadness,1040000,6
+"Phoebe Sr","Oh, poor Lily.",sadness,0050000,6
+"Phoebe Sr","The three losers.","non-neutral",1020002,5
+Phoebe,"Oh, what? What was it?",surprise,0100040,7
+"Phoebe Sr","Ohh, well. Y'know we were always together, in fact the had a nickname for the three of us.",neutral,5000000,4
+Phoebe,"Oh, okay. Well, so tell me everything about my parents. Everything.",neutral,4100000,4
+"Phoebe Sr","Oh no, I-I'm sorry, I guess we lost track of everybody after high school.",sadness,2030000,6
+Phoebe,"Well, so, umm, anyway umm, I've been, I've been looking for my Father, and umm, have you heard from him, or seen him?",neutral,3002000,4
+"Phoebe Sr","Oh.",neutral,4010000,4
+Phoebe,"No-no, sorry. Cookies are good, thanks.",neutral,5000000,4
+"Phoebe Sr","Take it easy--if you want, there's cookies on the counter, or, or--sangria!  I can make sangria!",joy,0400010,3
+Phoebe,"Yes!! Yes! Yes! Yes!! That's my Dad, that's Frank! Yeah! I'm sorry I'm getting all flingy.",surprise,0100040,7
+Rachel,"Whoops.  Oh, hey, do you need help with that?",neutral,4000010,4
+Janice,"You know what, where he hugs you and kinda rolls you away and... Oh... my....God.",disgust,1100003,1
+Rachel,"Ross's what?",surprise,2000030,7
+Janice,"Oh,  I wish. No, you know he was just trying Ross's Hug and Roll thing.","non-neutral",2010110,5
+Rachel,"Wow! Spinning that sounds like fun.",joy,1400000,3
+Janice,"Oh. God, crazy Chandler. He spun me...off...the...bed!","non-neutral",0100220,5
+Rachel,"Oh my God, what happened?",surprise,0002030,7
+Ross,"Oh, my maple candy!",joy,0300020,3
+Ross,"Thank you for a delightful stay.",joy,1400000,3
+Chandler,"Ok, go quick!","non-neutral",2101010,5
+Ross,"It's not the same.",neutral,3020000,4
+Chandler,"There's a forest right outside.",neutral,4000001,4
+Ross,"No, but I want...I want the pinecones!",joy,0301010,3
+Chandler,"Look, we have enough, just walk away.","non-neutral",2011001,5
+Ross,"There's something new in the bowl.",surprise,2000030,7
+Chandler,"What?",surprise,1000040,7
+Ross,"Oh my god.",surprise,0000050,7
+Ross,"Oh dude, don't worry about it, I found an unattended maid's car.    We're way ahead of the game.",neutral,3200000,4
+Chandler,"Oh, I didn't factor in the room tax.",surprise,1010030,7
+Chandler,"Oh we did, and you still have all your lamps.",neutral,4100000,4
+Joey,"Uh, you gotta press the button.",neutral,4000100,4
+Phoebe,"Wait! What?! No!! Elevator!! No!",anger,0000500,0
+Man,"I'm in the middle",neutral,5000000,4
+Phoebe,"Oh yeah! I-I would like that.",joy,1300010,3
+Man,"Well umm, if you have sometime y'know and maybe you might want to visit someone else",neutral,5000000,4
+Phoebe,"Uh-huh, yeah.",neutral,5000000,4
+Man,"Yeah. Me.  Oh hey, that's me.  Hey uh, I take it you're just visiting someone.",neutral,3000200,4
+Man,"Oh, let me guess some idiot on a cell phone wasn't paying attention?","non-neutral",1000202,5
+Phoebe,"Oh.",neutral,4000010,4
+Man,"Car accident.",sadness,1040000,6
+Phoebe,"How about you?",neutral,5000000,4
+Phoebe,"Let's just say there was a typographical error with a sex manual.","non-neutral",2000111,5
+Phoebe,"It's kind of embarrassing.",neutral,4001000,4
+Phoebe,"Well, it's a long story.",neutral,3020000,4
+Man,"Oh yeah? How'd yours happen?",neutral,4000010,4
+Phoebe,"Sure! I feel so bad for you; I broke my leg once too.",sadness,1030010,6
+Man,"Could you press up too please?",neutral,5000000,4
+Phoebe,"Oh down please.  I-I hate to be a ball buster can I just do it?","non-neutral",2002100,5
+Man,"Oh uh, up or down?",neutral,5000000,4
+Phoebe,"Hi.",neutral,5000000,4
+Man,"Hi!",joy,2300000,3
+Joey,"Hey I got one! I got one!",joy,0300020,3
+Ross,"Okay, good bye!",anger,1000301,0
+Rachel,"Yeah. Oh! Was how you invented the cotton gin?!",neutral,3200000,4
+Monica,"What-what was it you were gonna tell us?",neutral,3101000,4
+Rachel,"Yeah, come here!",neutral,4000010,4
+Monica,"Oh absolutely. I like it even more on you than I did on Colonel Sanders.  Ross! Ross! I'm kidding!",neutral,3200000,4
+Ross,"You like it right?",neutral,5000000,4
+Rachel,"Now that you're on you're own, you're free to look as stupid as you like.","non-neutral",1000202,5
+Ross,"Right.",neutral,3000101,4
+Rachel,"Oh I see, so this suit is making a point.",neutral,3000101,4
+Ross,"Y'know what I didn't wear this suit for a year because you hated it. Well, guess what? You're not my girlfriend anymore so...","non-neutral",0100202,5
+Rachel,"Got a job on a river boat?",neutral,4000010,4
+Ross,"Hey, you guys! Guess what?","non-neutral",2200010,5
+Monica,"Oh God!",surprise,0010130,7
+Rachel,"Ow!!","non-neutral",2000021,5
+Rachel,"I know.",neutral,5000000,4
+Monica,"Oh God, I'm so sorry.",sadness,1040000,6
+Rachel,"Oh, I am, my side still hurts from when you crashed into me yesterday.",neutral,3000101,4
+Monica,"What? Honey.",neutral,3000020,4
+Monica,"Oh, please.",neutral,3000002,4
+Rachel,"Ohh, I'm gonna be on the news!",joy,0400010,3
+Phoebe,"I want to keep one.",neutral,5000000,4
+Rachel,"Yeah!",joy,1400000,3
+Phoebe,"Can I tell you a little secret?",neutral,4001000,4
+Rachel,"What? Yeti-I mean Danny?",neutral,3000011,4
+Danny,"So you like the short hair better.",neutral,4001000,4
+Rachel,"Hi!",joy,1400000,3
+Chandler,"Okay.",neutral,3200000,4
+Monica,"I'm afraid so.",neutral,3010001,4
+Chandler,"We're in a relationship?",surprise,0001040,7
+Monica,"Ohh, welcome to an adult relationship!",joy,1300001,3
+Chandler,"Really? Okay. Great!",joy,0300020,3
+Monica,"It's nothing to freak out about.",neutral,3010100,4
+Monica,"You deal with it and move on!","non-neutral",2100200,5
+Monica,"No, it was a fight.",neutral,3100001,4
+Monica,"No.","non-neutral",2200001,5
+Monica,"You are so cute!",joy,0500000,3
+Chandler,"So, this isn't over?",neutral,3110000,4
+Monica,"If you give up every time you'd have a fight with someone you'd never be with anyone longer than-Ohhh!",anger,0000320,0
+Monica,"Chandler that's crazy!",surprise,0000230,7
+Chandler,"Because of the weekend, we had a fight.",sadness,0040010,6
+Monica,"Why, exactly?","non-neutral",2010110,5
+Chandler,"Well, y'know, you and me, it had to end sometime.",sadness,1040000,6
+Monica,"What?",neutral,3000020,4
+Chandler,"So, I guess this is over.",sadness,2030000,6
+Monica,"Yeah, it did.","non-neutral",2010002,5
+Chandler,"I just came over to drop off...nothing. So that weekend kinda sucked, huh?",neutral,3010001,4
+Monica,"Hi.",neutral,5000000,4
+Chandler,"Hey!",joy,1300010,3
+Phoebe,"So your brother's straigh huh? Seriously.",surprise,1000031,7
+Duncan,"I love you Phoebe.",joy,1400000,3
+Phoebe,"no, um, I'm sorry, don't tell me, I don't think either answer would make me feel better.","non-neutral",1022000,5
+Phoebe,".",neutral,5000000,4
+Phoebe,".",neutral,5000000,4
+Phoebe,"You know what, I just have one more question, um, if you had figured this out sooner and um, I had been around, do you think that I would have been the one who.",neutral,3011000,4
+Phoebe,"Here you go.",neutral,4010000,4
+Duncan,"No, but it'll be OK, they're pretty cool, my brother's straight so. . .",neutral,5000000,4
+Phoebe,"So, um, have you told your parents?",neutral,4010000,4
+Joey,"Well, I ain't gonna say no to that.",neutral,4100000,4
+Rachel,"No! No Joey! U-N-I-sex.","non-neutral",2100101,5
+Joey,"Maybe you need sex.",neutral,3000101,4
+Rachel,"Exactly! Unisex!",neutral,3200000,4
+Joey,"See look,",neutral,3100001,4
+Rachel,"No Joey, look. Trust me, all the men are wearing them in the spring catalog. Look.  See look,",neutral,5000000,4
+Joey,"It looks like a women's purse.",neutral,4000001,4
+Rachel,"It's not a purse! It's a shoulder bag.","non-neutral",2100200,5
+Joey,"Really? A purse?",surprise,0000050,7
+Rachel,"Okay, it's missing something. Ooh, I know! Umm, okay.",neutral,3000020,4
+Joey,"All right, then you'd better show me some of that too then.",neutral,4000001,4
+Rachel,"Okay now Joey, y'know that since you're returning all of this stuff right after the audition you're gonna have to wear underwear?",neutral,3000011,4
+Ross,"Okay, okay, okay.  I'll get the bagels.",neutral,3100001,4
+Rachel,"!",anger,0000410,0
+Rachel,"Because I already got a Mother and a Father who cannot stay in the same room together, okay, I don't wanna have to have a separate room for you too!","non-neutral",1000112,5
+Rachel,"Okay, well you are just gonna have too, okay.",anger,1000301,0
+Ross,"Rachel one brunch is not gonna solve anything. You gotta face it, okay we're never gonna get along.","non-neutral",2001002,5
+Rachel,"Okay, well can't you just try it one more time Ross? For me? For me?","non-neutral",1121000,5
+Ross,"Like me tiny doctor!'","non-neutral",1000211,5
+Ross,"Look sweetie, I could be the bigger man, I could be the biggest man, I could be a big, huge, giant man, and it still wouldn't make any difference, except that I could pick your Father up and say 'Like me!","non-neutral",1000202,5
+Rachel,"Okay, look, Ross, I realise that my Father is difficult, but that's why you have got to be the bigger man here.",neutral,4000100,4
+Ross,"Look, honey, I have tried to make nice, it doesn't work.","non-neutral",2010002,5
+Rachel,"So, I'll invite him to brunch tomorrow and you can make nice.",neutral,4000100,4
+Rachel,"All right, look, here's the bottom line Ross, this is fixable, if we act fast, okay.",neutral,5000000,4
+Phoebe,"I am",neutral,5000000,4
+Rachel,"Um. yeah.",neutral,5000000,4
+Phoebe,"Does Monica still turn on the lights in her bedroom?",neutral,5000000,4
+Phoebe,"All right, I haven't lived here in a while, so I have to ask you something.",neutral,4000010,4
+Phoebe,"Monica kinda trusted me with something and she shouldn't have!",fear,0014000,2
+Phoebe,"I'm, I'm freaking out!",fear,0003011,2
+Ross,"Hey Pheebs, what are you doing?",neutral,5000000,4
+Ross,"Yeah, I'm gonna go to a doctor who went to school in a mini-mall.",disgust,2000003,1
+Rachel,"Ross, tonight was about the two of you getting along.  Oh, would you just see my chiropractor, already.",anger,2000300,0
+Ross,"Four percent. Okay. I tip more than that when there's a bug in my food.",disgust,1100003,1
+Rachel,"You had to do it, didn't you? You couldn't just leave it alone.","non-neutral",2000201,5
+Monica,"And I'm appalled for you by the way.","non-neutral",1010102,5
+Monica,"And four ninety-nine for a pillow top queen set, who cares about the divorce, those babies will sell themselves.","non-neutral",2100011,5
+Monica,"I know!","non-neutral",2000120,5
+Janice,"Oh, I cannot believe he's using our divorce to sell mattresses.",anger,0000320,0
+Chandler,"What a wank!",anger,0000401,0
+Janice,"Wait! Wait! I wanna see this. After I divorce him, half of that kingdom is gonna be mine.",joy,0400100,3
+Chandler,"Don't look honey. Change the channel! Change the channel!",disgust,0000113,1
+Joey,"Booo!!","non-neutral",0010202,5
+Phoebe,"Ewww! Oh! It's the Mattress King!",disgust,0100103,1
+Joey,"Question. Was ah, 'Egg the Gellers!' the war cry of your neighbourhood?",neutral,5000000,4
+Monica,"I was always Joanne.",neutral,5000000,4
+Ross,"Hey. When you guys were kids and you played",neutral,5000000,4
+Monica,"Because your all gonna make up fake specials and make me cook them like you did the other night?","non-neutral",1001210,5
+"The Waiter","Because we can remember them.",neutral,4000100,4
+Monica,"Okay, first there is a Chilean Sea Bass prepared with a Mango relish on a bag-Why is nobody writing these down?","non-neutral",2000111,5
+Monica,"Could the waiters gather around to hear tonight's specials?",neutral,3000011,4
+Monica,"Okay.",neutral,5000000,4
+"The Waiter","Yeah, people get pretty generous around the holidays. And it never hurts to wear tight trousers.",neutral,4000010,4
+Joey,"There's like-there's like 300 bucks in this one!",surprise,0000050,7
+"A Waiter","Hey, dragon! Here's your tips from Monday and Tuesday.",neutral,3100010,4
+Joey,"Since I don't know anyone here, I thought it'd be cool to try out a cool work nickname.",neutral,4001000,4
+Joey,"Listen uh, I'd prefer it if you didn't call me Joey.",neutral,4001000,4
+Joey,"Yeah.",neutral,5000000,4
+Monica,"Hey, Joey, could you pass the cheese?",neutral,4000010,4
+Joey,"Cut it out Ross! I hate to have to save your life and kick your ass in the same day!","non-neutral",1100201,5
+Joey,"Bye!",neutral,4100000,4
+Phoebe,"Bye!",neutral,4100000,4
+Gary,"All right.",neutral,4100000,4
+Phoebe,"Okay!",joy,1300010,3
+Gary,"Oh yeah? Well maybe you and I should take a walk through a bad neighborhood.","non-neutral",2100110,5
+Phoebe,"Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you.",joy,0311000,3
+Chandler,"Oh, all right.",neutral,4010000,4
+Phoebe,"We're just celebrating that Joey got his health insurance back.",joy,2300000,3
+Chandler,"What are you doing?",neutral,4000010,4
+Joey,"Hey-hey-hey!",joy,0300020,3
+Phoebe,"Hey!",joy,0300020,3
+Joey,"and Phoebe picks up a wooden baseball bat and starts to swing as Chandler and Monica enter.)",neutral,5000000,4
+Joey,"Now, don't hold back.",neutral,4100000,4
+Joey,"You just take a big, big swing.",neutral,3101000,4
+Joey,"Yeah!",joy,0500000,3
+Joey,"Yeah!",joy,0500000,3
+Joey,"Yeah!",joy,0500000,3
+Phoebe,"Have you really done this before?",surprise,1000130,7
+Roger,"'.",neutral,4000001,4
+Roger,"Love me, I need love!","non-neutral",2010002,5
+Roger,"Define me!","non-neutral",1000202,5
+Roger,"Y'know, this kind of co-dependant, emotionally stunted, sitting in your stupid coffee house with your stupid big cups which, I'm sorry, might as well have nipples on them, and you're like all 'Oh, define me!","non-neutral",1100102,5
+Roger,"Actually it's, it's quite, y'know, typical behaviour when you have this kind of dysfunctional group dynamic.",neutral,3000002,4
+Phoebe,"You're not? See, that's why you're so great!",surprise,0200030,7
+Roger,"Well, I'm not I'm not at all surprised they feel that way.",neutral,5000000,4
+Phoebe,"But I don't. Me, Phoebe.",neutral,5000000,4
+Roger,"Oh.",neutral,3000020,4
+Ross,"Good! A verbal contract is binding in the state of New York!",joy,0500000,3
+Monica,"Yes.",neutral,4100000,4
+Ross,"And Mon, you wanna live with Chandler, don't ya?",neutral,3200000,4
+Chandler,"Yeah, I do.",neutral,4100000,4
+Ross,"Okay! All right! Now, Chandler you-you wanna live with Monica, right?",neutral,3100010,4
+Chandler,"I don't know.",neutral,3010010,4
+Monica,"Why do you do it?",neutral,3010010,4
+Chandler,"That's laughter.","non-neutral",2200001,5
+Monica,"Love is the best medicine.",joy,1310000,3
+Chandler,"Well, we are fond of the silliness, but we also have a soft spot for the love.",neutral,3110000,4
+Ross,"Now wh-what is more important, love or silliness?",neutral,3020000,4
+Ross,"That is so silly.","non-neutral",2010002,5
+Ross,"Do you really want to throw that all away over a room?","non-neutral",2011010,5
+Ross,"Two very good points, look I've known you both a long time, and I've never seen either of you one/millionth as happy as you've been since you've got together.","non-neutral",2011010,5
+Ross,"Okay-okay!","non-neutral",1001021,5
+Chandler,"Well, why don't you tell her to stop being silly!",anger,0000410,0
+Ross,"I mean, enough of the silliness!",anger,0000401,0
+Ross,"Well, apparently not, and I can't just stand by and watch two people I care about very much be hurt over something that is so silly.",sadness,0030101,6
+Monica,"Ross, we can handle this.",neutral,5000000,4
+Ross,"What's all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!","non-neutral",1000211,5
+Phoebe,"Okay.",neutral,5000000,4
+Rachel,"Okay.",neutral,5000000,4
+Phoebe,"Okay. Oh but don't tell them Monica's pregnant because they frown on that.",neutral,3020000,4
+Rachel,"So I'm gonna go through the hotel and see if there's any other weddings going on.",neutral,4001000,4
+Rachel,"I mean there's no way Joey's gonna make it in time.",fear,2003000,2
+Rachel,"Well, y'know.",neutral,5000000,4
+Rachel,"Well Phoebe, we gotta do something!","non-neutral",0102011,5
+Ross,"Yeah, none of us have to deal with pressure at our jobs.",neutral,3000101,4
+Joey,"I don't know if you'd understand.",neutral,4010000,4
+Joey,"I mean no offense, but what you guys do is very different.",neutral,3000002,4
+Joey,"There's just so much pressure.","non-neutral",2020100,5
+Chandler,"Have you figured out what started the fire Mr. Fireman?",neutral,3000011,4
+Monica,"Yes, they can stay with us.",neutral,5000000,4
+Rachel,"Wow! Oh-okay, look pal, I am","non-neutral",1000121,5
+"Fireman #1","So uh, you're not gonna be able to live here for a while, you ladies have a place to stay?",neutral,5000000,4
+Rachel,"Fine! I'm sorry for your loss!","non-neutral",0011210,5
+Monica,"Isn't that mine?",neutral,3000020,4
+Rachel,"Everything's ruined. My bed. My clothes. Look at my favorite blue sweater.",sadness,0050000,6
+Chandler,"How's your room Rach?",neutral,4001000,4
+Phoebe,"Oh, it's bad. It's really bad. The only thing in there that isn't burned is an ass. Which I do",sadness,0030002,6
+Joey,"Oh, how bad is it?","non-neutral",1002011,5
+Monica,"Joey! He's working!  You would look","non-neutral",2000012,5
+"Fireman #1","Excuse me?",surprise,1000031,7
+Joey,"Hey buddy, do you think I can borrow your uniform this Thursday?",neutral,5000000,4
+Rachel,"My God!",surprise,0000041,7
+Phoebe,"Oh!",surprise,0000050,7
+"Fireman #1","Yeah, most of the damage is pretty mostly contained in the bedrooms.",sadness,1030001,6
+Monica,"Oh well, it's not so bad.",neutral,4010000,4
+Phoebe,"Coming through!  Oh! Coming through!  Oh! Hello! Hi!  No! Right! Coming through!","non-neutral",1101020,5
+Jade,"Well there really wasn't much time to get used to it, you know what I mean?","non-neutral",2000102,5
+Chandler,"And uh maybe you have to get used to it.",neutral,5000000,4
+Chandler,"Well, maybe he had some kind of uh, new, cool style, that you're not familiar with.",neutral,4000010,4
+Ross,"Bumpy?",surprise,2000030,7
+Jade,"It was just so awkward and bumpy.",neutral,3000002,4
+Chandler,"Well, that makes me feel so good.",joy,1400000,3
+Jade,"Oh, Bob, he was nothing compared to you. I had to bite my lip to keep from screaming your name.","non-neutral",1200002,5
+Joey,"What? My hands are totally clean, I just gave the duck a bath.","non-neutral",2000021,5
+Ross,"Huh, what's fish hooking...   Thanks man, that would have been really hard to describe. What is that taste?",neutral,3000011,4
+Monica,"What's fish hooking?",surprise,1001030,7
+Ross,"Yeah, anything goes, except ah, eye gouging and fish hooking.",neutral,5000000,4
+Monica,"So you can like, bite, and pull people's hair and stuff?",surprise,1001030,7
+Chandler,"Yeah, it's two guys in a ring, and the rules are: ""They're""",neutral,5000000,4
+Joey,"And it's not fake, it's totally brutal.",neutral,5000000,4
+Phoebe,"Oh.",neutral,4000010,4
+Monica,"Yeah, but without the costumes.",neutral,5000000,4
+Phoebe,"Oh?!",surprise,0100040,7
+Monica,"I don't know exactly. It's-it's sorta like wrestling.",neutral,4100000,4
+Joey,"Previously on Friends.",neutral,5000000,4
+Joey,"So why don't you give me your number?",neutral,4000010,4
+Chandler,"What a coincidence, I listen in my sleep.",neutral,3000020,4
+Marjorie,"I talk in my sleep.",neutral,5000000,4
+Chandler,"So uh, what are you in for?",neutral,4010000,4
+Marjorie,"No, please.",neutral,5000000,4
+Chandler,"You mind if I",neutral,5000000,4
+Marjorie,"Hi.",neutral,5000000,4
+Chandler,"Hi.",neutral,4000001,4
+Chandler,"You're coming on to the entire room!  I'm Chandler.","non-neutral",1000022,5
+Joey,"They're just ten blocks away, if I run, I can make it.",neutral,3001010,4
+Joey,"Look, I know I feel asleep before I could shower and now I don't have time!","non-neutral",1002200,5
+Monica,"Oh wait, Joey, you can't go like that! You stink!",disgust,0000014,1
+Joey,"Oh my God! I overslept! I was supposed to be on the set a half an hour ago! I gotta get out of here!",fear,0004010,2
+Phoebe,"Oh no wait, oh no, the elastic on my underwear busted.",neutral,3010010,4
+Monica,"Oh my God!",surprise,0000050,7
+Phoebe,"It kicked! I think the baby kicked!",surprise,0100040,7
+Monica,"What?",neutral,5000000,4
+Phoebe,"Ohh!",surprise,0000050,7
+Phoebe,"Yeah. I really like his glasses.",neutral,3200000,4
+Ross,"Ugh, can you believe that guy!",disgust,0000203,1
+Steve,"Okay, fine, whatever. Welcome to the building.","non-neutral",2010200,5
+Ross,"Yes but too me he's just, man.",neutral,4010000,4
+Steve,"Howard's the",neutral,5000000,4
+Ross,"No wait, look. Look! I'm sorry, it's just I've never even",fear,0003020,2
+Steve,"Oh, okay, I get it.",neutral,3000110,4
+Ross,"You got it?",neutral,3000110,4
+Ross,"Okay.",neutral,5000000,4
+Ross,"You can do it!",joy,0300110,3
+Ross,"You can do it!",joy,0300110,3
+Ross,"Straight up over your head!","non-neutral",1200200,5
+Ross,"Oh okay, lift it straight up over your head!","non-neutral",2100110,5
+Rachel,"Okay, y'know what? There is no more left, left!",anger,2000300,0
+Ross,"Okay, go left. Left! Left!",surprise,0001130,7
+Ross,"Uhh, yes I did but there isn't. Okay, here we go.","non-neutral",2001020,5
+Rachel,"Ross, didn't you say that there was an elevator in here?",neutral,3000020,4
+Ross,"Okay.",neutral,5000000,4
+Joey,"Push!",joy,1300100,3
+Joey,"Push!",joy,1300100,3
+Joey,"Let's-  I was just-yeah, right.",joy,1300100,3
+Joey,"Let's get that ball and really move, hey, hey, ho, ho.",joy,1300100,3
+Joey,"Push 'em out, push 'em out, way out!",joy,1300100,3
+Joey,"Push 'em out, push 'em out, harder, harder.",joy,1300100,3
+Joey,"Push!",joy,1300010,3
+Joey,"Come on, Lydia, you can do it.",neutral,3200000,4
+Joey,"All right, congratulations you lucky bastard!",joy,0400010,3
+Frank,"All right, man!!",joy,2300000,3
+Joey,"Then you hold on to it!!","non-neutral",2100020,5
+Frank,"It's out there man! I've seen it! I got it!!",joy,1300010,3
+Ross,"Oh, no! No!","non-neutral",2001011,5
+Joey,"I don't know, maybe I can't. I mean, maybe there's something wrong with me.","non-neutral",1021001,5
+Frank,"You can have it!","non-neutral",2200010,5
+Joey,"Well, I want it!","non-neutral",2200100,5
+Ross,"Don't ask me, I had it and I blew it!",anger,0000302,0
+Joey,"Why can't I find that?","non-neutral",0020021,5
+Ross,"Yeah, yeah.",neutral,5000000,4
+Frank,"It's so cool man, it's so, it's just 'cause being with her is so much better than like not being with her.",joy,2300000,3
+Joey,"Now, wh-what, what is that like?",surprise,1000040,7
+Frank,"Okay, so what you used to have with Rachel, is what I've got with Alice.",joy,1300010,3
+Ross,"It didn't.",neutral,5000000,4
+Rachel,"Y'know what?",neutral,3000020,4
+Rachel,"Oh. That's so Monica can keep track. That way if one on them is missing, she can be like, 'Where's number 27?!'","non-neutral",2100011,5
+Mark,"Why do all you're coffee mugs have numbers on the bottom?",surprise,2000030,7
+Monica,"Where are you guys going? Come on, one more game!",surprise,0100130,7
+Chandler,"Shut-out!!",surprise,0100130,7
+Monica,Yes,neutral,5000000,4
+Ross,"Oh no, yeah no, that part's great!",joy,0500000,3
+Rachel,"Yeah, I feel kinda bad for them, but I'm also really psyched 'cause I don't have to move in here!",joy,0500000,3
+Ross,"What?! Over a stupid room!",surprise,0000041,7
+Rachel,"No-no, they just had a big blowout over what to do with my room.",neutral,3010010,4
+Ross,"What do you mean, they're not moving in? They-they're still moving in right?",surprise,0000050,7
+Rachel,"Oh thanks, but listen, I was just at Monica's and she and Chandler had a big fight and they're not moving in.",sadness,2030000,6
+Ross,"Hey! Oh listen, I was just clearing some space for your stuff.",joy,2300000,3
+Gary,"No, I mean happy.",neutral,3200000,4
+Chandler,"You mean scared.",neutral,3000011,4
+Gary,"Yeah, I-I considered that. I just know it would make me happy.",neutral,3101000,4
+Chandler,"Uh, are you crazy? Are you insane? If you live with Phoebe, you two are gonna be y'know, live-living together!",surprise,0000041,7
+Gary,"Sure. Okay.",neutral,4001000,4
+Chandler,"Man to uh, me.",neutral,4001000,4
+Chandler,"Well, I heard that you thinking about asking Phoebe to move in with you and I thought maybe, we should have a talk.",neutral,4001000,4
+Gary,"What's up?",neutral,4000010,4
+Chandler,"It is a crime that you and I don't spend more time together.",neutral,4010000,4
+Gary,"Yeah?",surprise,2000030,7
+Chandler,"Gary, I'm here to report a crime.",neutral,4010000,4
+Gary,"Hey Chandler, what are you doing here?",surprise,2000030,7
+Chandler,"Hey ladies! What are you in here for?","non-neutral",2200010,5
+Ross,"So it's really a question of",neutral,4000100,4
+Frannie,"I believe you know my husband.",neutral,3000020,4
+Monica,"Stuart!",anger,0100310,0
+Monica,"What could I have possibly done?!","non-neutral",0010220,5
+Monica,"What-Why wouldn't you want me at your wedding?","non-neutral",0020210,5
+Monica,"Why?!",surprise,0000230,7
+Monica,"You invite my brother, you invite my whole family, and not me?!",anger,0010400,0
+Ross,"Hi Frannie, congratulations.",neutral,3200000,4
+Monica,"Am I doing here? Why? Surprised to see me? Ross brought me. How do you like that?!",anger,0100310,0
+Frannie,"Monica! What",surprise,0000050,7
+Ross,"That bitch!",anger,0000500,0
+Monica,"Frannie was the one who found your",neutral,3000011,4
+Ross,"Now wait a minute, you be nice! All right? I didn't bring you here so you can ambush her.",anger,0000500,0
+Monica,"Here's Frannie. Hmm, won't she be happy to see me?","non-neutral",1111100,5
+Ross,"Yes, yes it is. It's uh...  Every time on the lips! Why?! Why on lips?!","non-neutral",0010211,5
+Chandler,"A hundred and forty-five pounds.",disgust,1000004,1
+Monica,"Well, you broke up with Julie Grath! How much weight could she have gained?",anger,1010300,0
+Chandler,"What?!",surprise,1000130,7
+Monica,"Are you gonna break up with me if I get fat again?",fear,0004001,2
+Chandler,"What?",neutral,4000010,4
+Monica,"All right, I...I have to ask.","non-neutral",2002100,5
+Chandler,"I would really love it if I could do both.",neutral,3110000,4
+Monica,"Why don't you just stop doing stupid things? Then you wouldn't have to apologize.",neutral,3000002,4
+Chandler,"As bad as that went, I actually enjoyed myself. I think that I'm going to apologize for all of the stupid things I do.","non-neutral",1100021,5
+Chandler,"All right.",neutral,5000000,4
+Chandler,"Well, listen I ah, still have one more person to ah meet, but unless it turns out to be your sister, I think you're chances are pretty good.",neutral,3200000,4
+Eric,"Although, I should probably tell you, she's a porn star.",neutral,5000000,4
+Eric,"Oh, yeah, during the summer, I spend most weekends at my sister's beach house, which you are welcome to use by the way.",neutral,4100000,4
+Chandler,"Yes, that is cool. Because I have models here y'know......never.",neutral,3100010,4
+Eric,"Oh, mostly fashion, so there may be models here from time to time, I hope that's cool.",neutral,5000000,4
+Chandler,"Soo, ah, Eric, what kind of photography do ya do?",neutral,4100000,4
+Ross,"And plus, it'll give me something to do.",neutral,3200000,4
+Ross,"Yeah, I'll make up a schedule and make sure you stick to it.",neutral,4100000,4
+Ross,"I'll help you.",neutral,4100000,4
+Joey,"I can't do it.",sadness,1031000,6
+Joey,"Y'know I mean I-I-I'm an actor, I don't have the discipline that takes, y'know?",sadness,1031000,6
+Joey,"I can't write!","non-neutral",1101002,5
+Ross,"Or that.",neutral,4000010,4
+Joey,"Wait a second, I could star in it!",joy,0300020,3
+Joey,"Come on Ross be realistic, y'know? If I did write something, what are the chances I could get those guys to star in it?",sadness,2030000,6
+Ross,"I mean, what about those",neutral,5000000,4
+Ross,"Huh?",neutral,5000000,4
+Ross,"Write a movie!",joy,2300000,3
+Ross,"Y'know, like-like write a play.",neutral,5000000,4
+Ross,"You should make something happen for yourself.",neutral,4100000,4
+Ross,"Hey, y'know what you should do?",neutral,5000000,4
+Ross,"I'm sorry, man.",sadness,2030000,6
+Joey,"That part was perfect for me! I can't believe I didn't get it!","non-neutral",0010211,5
+Ross,"Okay. So well I'll umm,  I'll have her home by midnight.",neutral,4001000,4
+Rachel,"Yeah I know, and I bet you thought it would be weird. But it's not!","non-neutral",1101020,5
+Ross,"Rachel! Well, you-you're not at home, you're-you're-you're right here.",surprise,1010030,7
+Rachel,"Rachel.",neutral,5000000,4
+Ross,"Hi .",neutral,4100000,4
+Jill,"Hey!",joy,1400000,3
+Ross,"Hi Jill!",joy,1400000,3
+Jill,"Me too.",neutral,4000001,4
+Rachel,"Yeah well, I'm-I'm a slut.","non-neutral",0020102,5
+Jill,"It's yours!",neutral,3100010,4
+Monica,"What?!",surprise,0000050,7
+Chandler,"No-no-no-no-no-no-no-no!!! You can't come in here! R-r-r-r-Ross is naked.",surprise,0000050,7
+Ross,"Who cares? I repel women.",disgust,0010103,1
+Chandler,"Okay, is this lamp in the same place?",neutral,5000000,4
+Joey,"I think she's trying to pull a fast one on Big Daddy!",anger,1000400,0
+Joey,"She goes and makes a date with a guy on the same night she has plans with me?",anger,0000311,0
+Joey,"After she gave me that big speech?!",surprise,1000130,7
+Chandler,"That's what Monica said.",neutral,5000000,4
+Joey,"What?! Tonight?!",surprise,1000040,7
+Chandler,"Oh really? Uh, Monica said she had a date at 9:00.",surprise,1000031,7
+Chandler,"All right, but I should warn you, I'm not going. I'm going.",neutral,4000100,4
+Monica,"Chandler what do you say?",neutral,5000000,4
+Phoebe,"Yeah that's great! Next to that, Chandler won't look so stupid.",neutral,3100100,4
+Monica,"That's a good idea! I bet they have one of those wind machines! Y'know",joy,1400000,3
+Phoebe,"Hey, why don't you guys go get portraits done by a professional photographer.",neutral,5000000,4
+Monica,"I know, but look at me: all tan.",joy,1400000,3
+Chandler,"Yeah, I'm not in that.",neutral,3020000,4
+Monica,"Oh, here's a great one.",joy,2300000,3
+Chandler,"I don't know what it is, I just can't take a good picture.",sadness,2030000,6
+Phoebe,"Oh my God! That's the creep that you're with at the",surprise,0000041,7
+Chandler,"No, there are great pictures of you standing next to a guy who's going like this",neutral,4000010,4
+Monica,"That's not true, there are great pictures of us!",surprise,0000230,7
+Chandler,"Oooh, I'm afraid that does not exist.",neutral,4000001,4
+Monica,"Oh, my mom called, they're gonna run our engagement announcement in the local paper, so we're looking for a good picture of us.","non-neutral",2200010,5
+Chandler,"What are you guys doing?",neutral,5000000,4
+Phoebe,"Oh Willie's still alive!",surprise,0100040,7
+Chandler,"Someone on the subway licked my neck! Licked my neck!!",disgust,0000113,1
+Monica,"What's the matter?","non-neutral",2002010,5
+Chandler,"Hey.",neutral,3010001,4
+Monica,"All right. We're gonna go.  It's not for another six hours. We're gonna go then.",neutral,3100001,4
+Rachel,"Fine.",neutral,4000100,4
+Chandler,"Fine.",neutral,4000100,4
+Joey,"Fine.",neutral,4000100,4
+Ross,"Fine.",neutral,4000100,4
+Joey,"Yeah!",joy,0500000,3
+Chandler,"Yeah! You wanna come?",joy,1300010,3
+Joey,"Yeah, are you just going down there to gawk at that hot girl with the belly button ring again?","non-neutral",2000102,5
+Monica,"Well, if you don't have anything to copy, why are you going down there?","non-neutral",2000012,5
+Chandler,"Okay listen, just give me anything I can make two of.",neutral,4001000,4
+Ginger,"Joey I can see you okay? You're hiding behind the coats.",neutral,3000110,4
+Ginger,"Joey? Joey Tribbiani?",neutral,3000020,4
+Joey,"Ah, he can't make it, he said he had to his...  Whoa-oh!",surprise,1000031,7
+Phoebe,"Where's Chandler?",neutral,3001010,4
+Emily,"Well, up yours too!",anger,0100400,0
+Ross,"Whoa-whoa-whoa! Emily,  honey, okay?",surprise,0100040,7
+Emily,"We're not gonna be",neutral,3010100,4
+Emily,"Oh, and the chilliest has carpel-tunel syndrome.",neutral,4000100,4
+Emily,"And then the florist phoned to say there aren't any tulips.",neutral,3010100,4
+Emily,"The caterer rang and said it was going to be Chicken Kiev instead of Chicken Tarragon.",neutral,3000110,4
+Emily,"and that was all before 10 o'clock.",neutral,3000110,4
+Chandler,"Yeah, like that thought never entered my mind.",neutral,4000001,4
+Joey,"Oh my God! He's trapped in an ATM vestibule with Jill Goodacre!  Chandler, listen.","non-neutral",0102020,5
+Chandler,"I'm trppd... in an ATM vstbl... wth",fear,0103010,2
+Joey,"What's up man?","non-neutral",2100020,5
+Chandler,"Put Joey on the phone.",neutral,4000100,4
+Monica,"I have no idea what you just said.",neutral,3000011,4
+Ross,"You're not serious, I mean, you really... you really talk to it?",surprise,0000050,7
+Susan,"What, you don't think they can hear sounds in there?","non-neutral",1000121,5
+Ross,"The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?",surprise,0001040,7
+Susan,"Actually, I'm reading it to the baby.",neutral,4100000,4
+Ross,"Hey, hey, Yertle the Turtle. A classic.",joy,1300010,3
+Susan,"Well, you know, you have to take a course. Otherwise, they don't let you do it.",neutral,4000001,4
+Ross,"Ok.  Wow, you guys sure have a lot of books about bein' a lesbian.",surprise,0000050,7
+Susan,"Yes, I'm familiar with the concept. We can just look for it.",neutral,3000002,4
+Ross,"Kinda like a big face without skin.",neutral,4000001,4
+Susan,"What's it look like?",neutral,4000010,4
+Ross,"Thanks. Yeah, Carol borrowed it for a class, and I have to get it back to the museum.",neutral,3101000,4
+Susan,"Come in.",neutral,5000000,4
+Ross,"Oh, I uh, just came by to pick up my skull. Well, not mine, but...",neutral,3002000,4
+Susan,"No, she's at a faculty meeting.",neutral,5000000,4
+Ross,"Hi, is uh, is Carol here?",neutral,3001010,4
+Ross,"Alright. There's a theory, put forth by Richard Leakey-",neutral,4100000,4
+All,"Yeah! C'mon!",joy,1300010,3
+Monica,"We're kidding. C'mon, tell us!","non-neutral",2200010,5
+Ross,"Fine. Fine, alright, now you'll never know.","non-neutral",2000210,5
+Ross,"Well, y'know, monogamy can be a, uh, tricky concept. I mean, anthropologically speaking-",neutral,5000000,4
+Monica,"Ok.",neutral,5000000,4
+"Doctor Connelly","Ok, given your situation, the options with the greatest chances for success would be surrogacy, or insemination using a sperm donor.",neutral,4001000,4
+Monica,"Don't worry, after a while he'll tune it out.",neutral,4000001,4
+Chandler,"Oh, DAMN IT!",anger,0000401,0
+"Doctor Connelly","So, keep having sex on a regular basis.",neutral,4100000,4
+"Doctor Connelly","Above all, even though your chances of conceiving through natural means aren't great, you never know!",neutral,3010010,4
+Monica,"Ok.",neutral,4010000,4
+"Doctor Connelly","I'm sorry there wasn't better news from your test last week but I wanted to talk to you about your options.",neutral,3020000,4
+Monica,"Hi.",neutral,5000000,4
+Chandler,"Hi.",neutral,5000000,4
+"Doctor Connelly","Hi there.",neutral,5000000,4
+Chandler,"!",surprise,0000140,7
+Chandler,"Oh, I can't believe my sperm have low motility because, let me tell you, when I was growing up they sure seem to be in a hurry to get places!",surprise,0010031,7
+Monica,"Oh, I so can't believe this! My uterus is an inhospitable environment? I was trying so hard to be a good hostess!",surprise,0010130,7
+Chandler,"Wow! Fortunately she has a",surprise,1100030,7
+Joey,"Bye.",neutral,5000000,4
+Director,"Have fun.",neutral,3200000,4
+Joey,"It's ah, step-ity, step and jazz hands.","non-neutral",1102010,5
+Director,"Y'know, it's hand, hand, head, head,  up, pas de bouree, pas de bouree, big turn here, grand sissone, sissone, sissone, slide back, step, step, step, and jazz hands!",neutral,3200000,4
+Director,"Aw come on Joey, it's easy.",neutral,4000010,4
+Joey,"What?!",surprise,0001040,7
+Director,"Listen Joey, seeing as you've got the most experience, I want you to take these dancers and show them the combination.",neutral,5000000,4
+Joey,"So, does that mean the audition is off?","non-neutral",1021010,5
+Director,"Listen Joey, I got a problem, I just got a call from my dance captain, he's having a relationship crisis and can't get out of Long Island.",neutral,5000000,4
+Director,"Joey Tribbiani.",neutral,4000010,4
+Director,"Ah Joey.",neutral,4000010,4
+Ross,"Yeah, the phone was facing the other way.  And that goes back up there.",neutral,4000100,4
+Chandler,"It's, all good! Okay bye-bye Mon!  She's-she's gonna kill me.",fear,0004010,2
+Monica,"Well, are you just hanging out with Ross?",neutral,3000110,4
+Rachel,"Ohh wow! I'm sorry, but Ross you kicked off your shoes!",surprise,0000050,7
+Ross,"No! No!  No!  No-no-no-no.","non-neutral",0000122,5
+Rachel,"Noo!! No! You thought, you actually thought I wanted to have sex with you?!","non-neutral",0000122,5
+Ross,"You weren't trying to entice me with your nakedness.","non-neutral",2010020,5
+Rachel,"Oh God, you saw me?! Oh!",surprise,0000041,7
+Ross,"Oh so-so you weren't trying to entice me just now with your-your nakedness?",surprise,0100031,7
+Rachel,"What?! Are you crazy?",surprise,0000140,7
+Ross,"The physical act of love.",joy,1310000,3
+Rachel,"And um, what-what is that Ross?","non-neutral",2001020,5
+Ross,"I just want this to be  about what it is!","non-neutral",1101110,5
+Ross,"Okay?",neutral,3011000,4
+Ross,"I don't to go through with this if it's going to raise the question of Us.",neutral,3011000,4
+Ross,"This is just about tonight.",neutral,4000100,4
+Ross,"Okay Rach, before anything happens  I just want to lay down a couple of ground rules.",neutral,4000100,4
+Ross,"So do I.",neutral,4010000,4
+Rachel,"Yeah, sure?",neutral,3000020,4
+Ross,Do,neutral,5000000,4
+Rachel,"Uh, yeah, if you want too.",neutral,4000010,4
+Ross,"May I come in?",neutral,4000010,4
+Rachel,"Julie! Julie, isn't that great? I mean, isn't that just kick- you-in-the-crotch, spit-on-your-neck fantastic?","non-neutral",2000111,5
+Ross,"But we haven't seen each other since then. Well I land in China, guess who's in charge of the dig.",surprise,2000030,7
+Chandler,"I sure did.",neutral,3100010,4
+Joey,"Oh my God! What happened here? Did you do all this?",surprise,1000040,7
+Chandler,"Hang on buddy!","non-neutral",2001020,5
+Joey,"Aww man! I can't believe I locked myself out again!",anger,0000320,0
+Ross,"I'm gonna have to give him up.",sadness,0050000,6
+Chandler,"So what does this mean?",neutral,3010010,4
+Ross,"She says as time goes on, he's gonna start getting agressive and violent.",sadness,0050000,6
+Joey,"Hey! He beat ya.",joy,0400010,3
+Ross,"She says Marcel's humping thing's not a phase. Apparently he's reached sexual maturity.","non-neutral",2020001,5
+Chandler,"She's not gonna make you wear one of those big plastic cones, is she?",fear,1013000,2
+Ross,"At the vet.",neutral,5000000,4
+Joey,"Where've you been?",neutral,3000020,4
+Joey,"Hey.",neutral,5000000,4
+Ross,"Hi.",neutral,5000000,4
+Monica,"What?! Oh.",surprise,0100040,7
+Pete,"I bought a restaurant and I would like you to be the head chef.",joy,2300000,3
+Monica,"So what did you do today Pete?",neutral,4000010,4
+Pete,"So ask me what I did today.",neutral,3200000,4
+Monica,"Okay.",neutral,5000000,4
+Pete,"Ah, which ever is closest.",neutral,5000000,4
+Monica,"Regular or decaf?",neutral,5000000,4
+Pete,"Yeah, sure, that'd be great.",neutral,3200000,4
+Monica,"You want some coffee?",neutral,5000000,4
+Monica,"Oh, these are gonna go in my permanent collection.",joy,0500000,3
+Monica,"Awww, hotel toiletries from Japan.","non-neutral",1200020,5
+Monica,"Oh, what'd ya bring me?!","non-neutral",1200020,5
+Pete,"Well...",neutral,4000010,4
+Monica,"Wow! You're a lot sturdier that Chandler. He crumpled like a piece of paper. So how was you're trip?",surprise,0000050,7
+Pete,"Wow! Skates!",joy,1400000,3
+Monica,"Hi! Hey, Pete you're back! Hey, check this out.",joy,2300000,3
+Pete,"Hi!",neutral,3200000,4
+Joey,"Oh.","non-neutral",1020020,5
+Ross,"Or Joseph.",neutral,3001001,4
+Joey,"It's not.",neutral,5000000,4
+Ross,"And it can't be Joey.","non-neutral",2001002,5
+Joey,"Done!",joy,1400000,3
+Ross,"All right, we'll start off slow. The only thing you have to do tonight is come up with the name of your main character.",neutral,5000000,4
+Joey,"Thanks!",joy,0500000,3
+Ross,"Yeah!",joy,1300010,3
+Joey,"Really? You'd-you'd do that for me?!",surprise,1000040,7
+Phoebe,"Then don't touch one!!",anger,0000311,0
+Joey,"Yes!",joy,1400000,3
+Phoebe,"Give me your hands.  Strings. Gimme it!  Pick. Do you want to learn to play guitar?","non-neutral",1200110,5
+Joey,"No.",neutral,3020000,4
+Phoebe,"Did you, did you","non-neutral",2100020,5
+Joey,"Yeah listen so, I thought I was getting better, so on my way home today I stopped by this guitar store and",neutral,5000000,4
+Phoebe,"Ooh, you nailed the Old Lady!",surprise,0100040,7
+Joey,"Hey, Pheebs! Check-check this out.","non-neutral",2100020,5
+Rachel,"Even when I found out...umm, all right, well let's just say I found something out something about someone and let's just say she's gonna keep it.",neutral,3100010,4
+Rachel,"I didn't!",joy,0310100,3
+Phoebe,"Hey everybody, Rachel was so good today. She didn't gossip at all.","non-neutral",2100011,5
+Chandler,"Is not.",anger,1000400,0
+Ross,"It's your joke.",neutral,3000110,4
+Monica,"The joke sucks!",anger,0000302,0
+Monica,"Now let it go!",anger,0000401,0
+Monica,"You shouldn't be arguing over who gets credit, you should be arguing over who gets blamed for inflicting this horrible joke upon the world!",anger,0000302,0
+Monica,"The joke is not funny, and it's offensive to women, and doctors, and monkeys!",disgust,0000203,1
+Monica,"You are both idiots.",disgust,0000203,1
+Monica,"All right, I've heard enough. I've made my decision.","non-neutral",2000102,5
+Chandler,"I'm not arguing with that.",neutral,5000000,4
+Ross,"I'm Doctor Monkey!","non-neutral",1200200,5
+Ross,"Plus, I'm a doctor, and I had a monkey.",neutral,3000101,4
+Ross,"Monkey into man?","non-neutral",2001101,5
+Ross,"Remember, evolution?","non-neutral",2000111,5
+Ross,"I-I studied evolution.","non-neutral",2011100,5
+Ross,"Okay, look.",neutral,4010000,4
+Ross,"Are you kidding?",surprise,0000050,7
+Chandler,"Oh yes! Bye Bye Birdie, starring Joseph Stalin. Joseph Stalin is the Fiddler on the Roof.",joy,0400010,3
+Joey,"Joseph Stalin. I think you'd remember that!","non-neutral",1200020,5
+Chandler,"Might wanna try Joseph.",neutral,4000010,4
+Joey,"Joe Stalin. Y'know, that's pretty good.","non-neutral",1200020,5
+Chandler,"Well, it does not ring a bell with me...",neutral,4000010,4
+Joey,"Stalin...Stalin...do I know that name? It sounds familiar.",neutral,4000010,4
+Chandler,"Joe...Joe...Joe...Stalin?","non-neutral",1101020,5
+Joey,"Which I'm not.",neutral,3010001,4
+Joey,"Y'know, Joey makes me sound like I'm, I dunno, this big.","non-neutral",1020002,5
+Joey,"Plus, y'know, I think it should be Joe.",neutral,5000000,4
+Chandler,"Joey... Switzerland?",neutral,3001010,4
+Joey,"No, still too ethnic. My agent thinks I should have a name that's more neutral.",neutral,4010000,4
+Chandler,"How about Joey... Pepponi?",neutral,3100010,4
+Monica,"I think you look fine.",neutral,5000000,4
+Ross,"Monica you really think I should try this phasing out thing?","non-neutral",2011010,5
+Rachel,"Of course they're listening to you! Everybody listens to you.",neutral,3100010,4
+Ross,"They're not listening too me?",surprise,1010030,7
+Rachel,"Yeah, I mean, come on Ross, no one will even notice. I mean they're probably not even listening!",neutral,3001010,4
+Monica,"Yeah, fade the accent out and people will think you're, y'know, that you're adjusting to life in America.","non-neutral",2100002,5
+Monica,"Why don't you phase it out?",neutral,4000010,4
+Rachel,Well,neutral,5000000,4
+Ross,"Look, I really need some help, okay? Why? Why did I have to speak in a British accent?! What do I do?","non-neutral",1011011,5
+Rachel,"Yeah that seems fair. We never use them.",neutral,5000000,4
+Monica,"You just wanna each take one?",neutral,4000100,4
+Monica,"Gimme them!",anger,0000500,0
+Rachel,"You stole them from me!!",anger,0000500,0
+Monica,"You stole them from me!",anger,0000410,0
+Rachel,"No! They are mine!",anger,0000320,0
+Monica,"Gimme 'em!",anger,1000310,0
+Joey,"Ben! Ben! Ben!",joy,0500000,3
+Chandler,"Oh, sure, they love us over there.",neutral,3200000,4
+Joey,"Hey, look, since we're neighbors and all, what do you say we uh, get together for a drink?",neutral,3101000,4
+Chandler,"You know it?",surprise,1000040,7
+Joey,"Oh, yeah, yeah, sure. We live in the building by the uh sidewalk.",neutral,5000000,4
+Duncan,"Oh, yeah, um, alright, I kinda need a divorce.","non-neutral",1022000,5
+Phoebe,"So um, so what's up, you came to see me yesterday.","non-neutral",2001020,5
+Monica,"Hey dad, what's up?  Oh God. Ross, it's Nana.","non-neutral",2010002,5
+Rachel,"Monica, your dad just beeped in, but can you make it quick? Talking to Rome.  I'm talking to Rome.","non-neutral",2200010,5
+Ross,"So he's calling from Rome. I could do that. Just gotta go to Rome.",neutral,4000001,4
+Rachel,"Oh my God! Calling from Rome!",surprise,0010040,7
+Monica,"Hello? Hello? Oh! Rachel, it's Paolo calling from Rome.","non-neutral",2110010,5
+Chandler,"Oh, oh, a quality, good, because I was worried you guys were gonna be vague about this.",neutral,3000101,4
+All,"Yes. Absolutely. A quality.",neutral,4100000,4
+Monica,"Okay, I-I d'know, you-you just- you have a quality.","non-neutral",2102000,5
+Chandler,"WHAT IS IT?!","non-neutral",1100120,5
+Rachel,"Rossy, Rossy.",neutral,5000000,4
+Chandler,"Here we go, here we go.",neutral,3101000,4
+Joey,"All right, I'm going. I'm going.","non-neutral",2000102,5
+Ross,"That's nice. Get out Let's go, come on.",disgust,1001003,1
+Monica,"I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.",joy,0400010,3
+Ross,"Monica, come on now. Let's go, baby coming.",neutral,3001001,4
+Chandler,"Okay, hating this.",disgust,1000103,1
+Ross,"Save it.",neutral,4000001,4
+Chandler,"Yeah, like in a cab...",neutral,3000011,4
+Joey,"For the ride.",neutral,4000010,4
+Ross,"What is that?",surprise,2000030,7
+Joey,"All right, all right.","non-neutral",1010102,5
+Ross,"Joey, get out of the fridge.",anger,0000401,0
+Rachel,"What, so I can't lokk nice? There might be doctors there.",neutral,3000011,4
+Ross,"What are you doing? We're going to a hospital.",surprise,0000041,7
+Ross,"Yeah, save it for the cab, okay.",disgust,1000103,1
+Chandler,"Hey Ross, look what I've got going here.",neutral,4001000,4
+Ross,"Monica, let's go. Come on now people, woman in labor.",neutral,4001000,4
+Chandler,"Well, I don't really know what that is, but",neutral,4001000,4
+Mike,"Maybe, before the game we could enjoy some eight year old some small batch Basel Hadens.",neutral,4100000,4
+Chandler,"Oh well, that's uh, a little later than I uh, generally care to stay, but sure!","non-neutral",1201010,5
+Drew,"Hold on, y'know I",neutral,3001010,4
+Mike,"Hey, Chandler, why don't we talk this over at the Ranger game tomorrow?",neutral,4001000,4
+Drew,"Oh, wait a second! I didn't say I wasn't free!",surprise,0000140,7
+Mike,"Oh wow! I'm free for her!",joy,0500000,3
+Chandler,"Oh, by the way, that is her full name.",neutral,4100000,4
+Mike,"Whoa-whoa-whoa-whoa! Is this, hot Rachel, that you took to the Christmas party, Rachel?",surprise,0000050,7
+Chandler,"Oh, y'know what, that might be okay even if it was just kind of a fling, that might be all right with Rachel.",neutral,3200000,4
+Drew,"Ahh, I just got out of a big relationship, I'm not looking for any thing serious.",sadness,2030000,6
+Chandler,"See my friend-my friend, Rachel, she wants to be set up.",neutral,4001000,4
+Drew,"I didn't think you were gay. I do now.","non-neutral",2000021,5
+Joey,"It's between us and the sea, Ross!",neutral,4000100,4
+Ross,"What the hell happened on that beach?!",surprise,1000040,7
+Joey,"A lot of things happened on that trip that we should never,  ever talk about.",neutral,3001100,4
+Joey,"But that doesn't mean you have to talk about it!",neutral,3000101,4
+Joey,"Sure, it's hard to forget!",neutral,3000101,4
+Ross,"But you-you understand how-how hard it is to forget about this.",sadness,2030000,6
+Ross,"Yeah I guess I'll let it go.",neutral,3020000,4
+Ross,"I mean, no, you're right.",sadness,2030000,6
+Ross,"Yeah, I know.",sadness,2030000,6
+Chandler,"If you bring this up now you're gonna wreck the best thing that even happened to you.",neutral,3011000,4
+Chandler,"Look, Ross, you have what you want, you're back with Rachel.",neutral,4010000,4
+Joey,"No?",surprise,2000030,7
+Ross,"!",anger,1000400,0
+Ross,"Does it?!",anger,1000400,0
+Ross,"Does that seem like something you can do.",anger,1000400,0
+Ross,"...I can begin to trust you again.",anger,2000300,0
+Ross,"But this break-up was not all my fault, and she, she says here, ""If you accept full responsibility..."" Full responsibility!",anger,1000400,0
+Ross,"Fine!",anger,1000400,0
+Ross,"Fine!",anger,1000400,0
+Chandler,"Oh my God! If you say that one more time,",anger,1000301,0
+Ross,"She wants",neutral,5000000,4
+Alan,"Yeah, well, I had a great time with you.. I just can't stand your friends.",neutral,3000101,4
+Monica,"Relieved?",surprise,2000030,7
+Alan,"Yeah, I'm sorry too. But, I gotta tell you, I am a little relieved.",neutral,3110000,4
+Monica,"I'm, I'm really sorry.",neutral,3020000,4
+Alan,"Wow.",surprise,1000040,7
+Monica,"Yeah, sure.",neutral,5000000,4
+Phoebe,"Very cold, hard, unyielding, y'know nothing,",neutral,3000101,4
+Phoebe,"Once you, once you betray me, I become like the ice woman, y'know.",neutral,3000200,4
+Phoebe,"Well okay, let this be a lesson to all of you, all right.",neutral,4000100,4
+Joey,"Wow, that was kinda brutal.",surprise,1010030,7
+Leslie,"Okay, ah, see ya Pheebs.",neutral,4010000,4
+Phoebe,"Okay. No. But thanks.",neutral,4000001,4
+Leslie,"Aw come on Phoebe would you just think about it?",sadness,1040000,6
+Phoebe,"No. But thanks.",neutral,5000000,4
+Leslie,"Well, I y'know, I was just, umm, I was just thinking and hoping, that umm, maybe you'd want to get back together?",fear,1003010,2
+Rachel,"Oh thank you so much Mr. Kaplan, thank you so much.",joy,0400010,3
+"Mr. Kaplan","Come on over here, sweetheart.",neutral,3200000,4
+Rachel,"Oh, that sounds great.",joy,0400010,3
+"Mr. Kaplan","How does that sound?",neutral,3100010,4
+"Mr. Kaplan","Well, I've got a project for you that's a lot more related to fashion.",neutral,4100000,4
+"Mr. Kaplan","Well, don't think I haven't noticed your potential.",neutral,4100000,4
+Rachel,"Oh, you got me.",neutral,3000020,4
+"Mr. Kaplan","Eh.","non-neutral",2010011,5
+Rachel,"Op.",neutral,5000000,4
+"Mr. Kaplan","I'll bet your thinking, 'What's an intelligent girl who wants to be in fashion, doing making coffee?' Eh?",surprise,2000030,7
+Rachel,"I know!","non-neutral",2100020,5
+"Mr. Kaplan","I'm not supposed to drink coffee, it makes me gassy.",neutral,5000000,4
+Rachel,"Yeah, right away Mr. Kaplan.",neutral,5000000,4
+"Mr. Kaplan","How's that coffee comin,' dear?",neutral,5000000,4
+"Tour Guide","Op, this is saved.  Gift shop.",neutral,5000000,4
+Ross,"That's okay, I'm cool over here. I'll catch up with you later, Joey.",neutral,3020000,4
+Joey,"Anyway, look, I don't know about you and your jackets and your separate tables, but Ross is one of my best friends, and if I save him a seat, I'm telling you, he",neutral,3000101,4
+Joey,"I-I think everybody's pretending they don't hear you.",neutral,3000011,4
+"Tour Guide","I gave you my",neutral,4000100,4
+"Tour Guide","I shared my puddin' which you man!","non-neutral",2100200,5
+"Tour Guide","From PS-129!",neutral,4100000,4
+"Tour Guide","It's me Rhonda!",neutral,3200000,4
+"Tour Guide","Hey, Peter!",neutral,3100010,4
+"Tour Guide","See that scientist in the classes, he and I used to play together all the time in grade school, but now... Peter!",neutral,3100010,4
+"Tour Guide","Maybe it's crazy in a perfect world, a world without lab coats and blazers, but you not in a perfect world, you in a museum now.",neutral,4100000,4
+Joey,"That's crazy.",surprise,2000030,7
+"Tour Guide","That's just the way it is.",neutral,4010000,4
+Joey,"Well, how-how come?",neutral,3000020,4
+Monica,"No-no-no, no!","non-neutral",0001211,5
+Monica,"Oh, just some pictures I made and hung up. I thought they'd brighten up the place. They do don't you think?",joy,1301000,3
+Rachel,"What-what are-what are these?","non-neutral",2000021,5
+Monica,"Hi!",neutral,3200000,4
+Rachel,"Hey!",neutral,3200000,4
+Ross,"Yeah, y'know how I have you guys, well she doesn't really have any close friends that are just hers, but last week she meet this woman at the gym, Susan something, and they really hit it off, and I-I-I think it's gonna make a difference",joy,2300000,3
+Phoebe,"Oh, really?",surprise,1000040,7
+Ross,"Oh, better, actually. Y'know I-I-I think I finally figured out why we were having so much trouble lately.",neutral,4100000,4
+Chandler,"Umm, how's it going with you guys?",neutral,5000000,4
+Ross,"I have to go. Yeah, Carol should be home by now, soo...",neutral,5000000,4
+Monica,"What?",neutral,4000010,4
+Ross,"Sure, your dresser is missing but this she notices.","non-neutral",1000022,5
+Monica,"Ross , foot on the floor or come over no more!",neutral,4000100,4
+Chandler,"And this actor guy, who I'm not sure about, because when he called and I answered the phone 'Chandler Bing,' he said 'Whoa-whoa, short message.'",neutral,4010000,4
+Chandler,"This photographer, who seemed really dull.",neutral,4010000,4
+Chandler,"Two.",neutral,5000000,4
+Ross,"So how many more do you have tomorrow?",neutral,5000000,4
+Chandler,"Nice to meet you, Chandler Bing",neutral,3100100,4
+Chandler,"Oh-ho, and yes, the guy that enjoyed my name so much he felt the need to make a little noise every time he said it.","non-neutral",1100102,5
+Chandler,"The spitter.",disgust,1000004,1
+Chandler,"Well let's see, there was the guy with the ferrets, that's plural.",disgust,2000003,1
+Phoebe,"Why, nobody good?",neutral,3000020,4
+Chandler,"I'm never gonna find a roommate, ever.",sadness,0040001,6
+Ross,"Hey.",neutral,5000000,4
+Chandler,"Hey.",neutral,5000000,4
+Phoebe,"Okay, well maybe not on those levels.",neutral,5000000,4
+Ross,"Phoebe, she doesn't know that you sneak out every night, she doesn't know that you sneak back every morning, and she doesn't know that you've been living with your Grandmother's for a week now.",neutral,4010000,4
+Rachel,"In the afternoon. Mr. Zelner came into my office after lunch. He put them on my desk, and then I put a",neutral,4001000,4
+Tag,"So when do you imagine you gave them to me? In the morning or in the afternoon?","non-neutral",1000220,5
+Rachel,"Okay, very cute braces. Anyway y'know what, the",neutral,4000010,4
+Tag,"It's my sister.",neutral,5000000,4
+Rachel,Oh,neutral,4000010,4
+Tag,"Okay! Feel free to look, but I'm telling you those contracts are not on this desk.",anger,1100300,0
+Chandler,"Yeah, about 300 guys I went to high school with.",neutral,3010001,4
+Jill,"Would you like to call somebody?",neutral,4000010,4
+Chandler,"You're definitely scaring here.","non-neutral",2102000,5
+Chandler,"There you go!",joy,0500000,3
+Chandler,"Just make contact, smile!","non-neutral",2200100,5
+Chandler,"Oh God, do something.","non-neutral",1002101,5
+Chandler,"It's been fourteen and a half minutes and you still have not said one word.","non-neutral",1002101,5
+Chandler,"Alright, alright, alright.",neutral,4100000,4
+Joey,"Oh, let me get this.    These are for you.",neutral,4100000,4
+Waitress,"$4.50 please.",neutral,5000000,4
+Joey,"Hm-mmm.",neutral,4000010,4
+Woman,"Really?!",surprise,0000050,7
+Joey,"Yeah.",neutral,5000000,4
+Woman,"Wow!",surprise,0100040,7
+Joey,"Oh! Maybe it's because I'm on television. I'm an actor on","non-neutral",2200010,5
+Woman,"I don't think so.",neutral,4000010,4
+Joey,"Y'know, you look familiar. Do I know you from somewhere?",surprise,2000030,7
+Woman,"Hi!",joy,1300010,3
+Joey,"Yeah! Okay!  Hey! Hi!",joy,0300020,3
+Phoebe,"Yeah, I understand.",neutral,5000000,4
+Joey,"Listen uh, not that I'm y'know insecure about my manhood or anything y'know, but I think I need to hook up with a woman like right now.","non-neutral",0001022,5
+Joey,"Much!",joy,0400010,3
+Joey,"Yeah!",joy,1400000,3
+Phoebe,"Feel better?",neutral,5000000,4
+Joey,Umm,neutral,3002000,4
+Cecilia,"Which one? Was it bald or was it tall?",surprise,0000230,7
+Joey,"Oh uh, one of the writers.","non-neutral",2002010,5
+Cecilia,"Who told you that?",surprise,0000140,7
+Joey,"I don't know. Why? Did you hear something?",neutral,3001010,4
+Cecilia,"I-I-I'm leaving the show?",surprise,0000050,7
+Joey,"An-an-anyway I-I just wanted to say that since I'm getting your brain when you leave the show, I was wondering if there was any tips you can give me","non-neutral",2011010,5
+Cecilia,"Oh that was a real person?!",surprise,1000040,7
+Joey,"No. No, I'm Joey Tribbiani; we did a scene together yesterday. I-I'm the guy in the coma!","non-neutral",2100020,5
+Cecilia,"I'm supposed to meet and hug a fan who's dying, but that's not supposed to be until  later!",neutral,3001010,4
+Joey,"Say what?",surprise,1000040,7
+Cecilia,"You're not the fan who's dying are you?","non-neutral",2002010,5
+Joey,"Oh anyway, I just wanted to say how wonderful I think you are.",joy,2300000,3
+Dina,"Can I get some ice here?!","non-neutral",2001110,5
+Cecilia,"Oh, just years of experience.",neutral,4100000,4
+Joey,"That was a great scene! And-and-and that slap looks so real! How do you do that?",surprise,1100030,7
+"Jessica Lockhart","Oh, my baby!","non-neutral",0021020,5
+Dina,"Well, at least I'm not a murderer!",anger,0000401,0
+"Jessica Lockhart","That was an accident! And so were you.",anger,0000410,0
+Dina,"What are you going to do? Kill him? Like you did with Charles?!",anger,0000401,0
+"Jessica Lockhart","Oh yes there is!",anger,1000400,0
+Dina,"I'm going to keep dating him Mother, and there's nothing you can do about it!",anger,0000500,0
+Gunther,"Someone in here.",neutral,5000000,4
+Chandler,"Yes, I do have to go to the bathroom.",neutral,4000010,4
+Chandler,"Yes, I do.",neutral,3001010,4
+Chandler,"Nope, nope, I'd just ah, I'd rather talk to you.",neutral,3101000,4
+Ginger,"Don't you have to use the bathroom?",neutral,3000011,4
+Chandler,"Ginger. I'm talking to Ginger, so....",neutral,4100000,4
+Woman,"Ginger.",neutral,5000000,4
+Chandler,"Y'know what Gunther, go ah, go ahead, I'm-I'm talking to ah, .  This is the part where you say your name.",neutral,4001000,4
+Woman,"Someone was in the lady's room, I couldn't wait. I left the lid up for ya though.",neutral,5000000,4
+Chandler,"Jeez, man did you fall.. Hi! So ah, did ya, did-did-did ya fall high?",surprise,0002030,7
+Chandler,"No. This is just part of a dare devil game that I play called 'wait until the last moment before I burst and die.'","non-neutral",2100200,5
+Gunther,"Someone in there?",neutral,3002000,4
+Ross,"Here's my retainer!",neutral,3100010,4
+Ross,"I don't see why not.",neutral,5000000,4
+"Mrs. Geller","Sweetie, you think you can get in there?",neutral,5000000,4
+"Mrs. Geller","Well, that doesn't mean she can't look nice!","non-neutral",2200100,5
+Ross,"I thought it was gonna be a closed casket.",neutral,3000020,4
+Chandler,"Ooh, you know, I had a grape about five hours ago, so I'd better split this with you.",neutral,3100001,4
+Monica,"Here you go, maybe this'll cheer you up.",joy,1310000,3
+Rachel,"Oh Chandler, I know, I know... oh, hey! You can see your nipples through this shirt!","non-neutral",0200021,5
+Chandler,"Can you believe it? I mean, don't I seem like somebody who should be doing something really","non-neutral",1020110,5
+Phoebe,"That's so great! 'Cause you already know how to do that!",joy,0400010,3
+Chandler,"You are ideally suited for a career in data processing for a large multinational corporation.","non-neutral",2010101,5
+Chandler,"Eight and a half hours of aptitude tests, intelligence tests, personality tests... and what do I learn?",disgust,1000103,1
+Rachel,"My God! What happened to you?",surprise,0000050,7
+Joey,"I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?",disgust,1000004,1
+Monica,"Yeah, well, is that",neutral,5000000,4
+Joey,"It's creamier.","non-neutral",2100011,5
+Monica,"Is it better than the other salmon mousse?",neutral,4000010,4
+Joey,"Mmmm. Good.",joy,0400001,3
+Monica,"OK, try this salmon mousse.",neutral,4100000,4
+Chandler,"Ohh, that's a good one.","non-neutral",2200010,5
+Tommy,"Ooh, I don't know. Probably the smell of freshly cut grass.",neutral,3200000,4
+Rachel,"Tommyyyy! Say, what's your favourite thing about summer?",joy,2300000,3
+Tommy,"Hey!",surprise,0200030,7
+Rachel,Yeah,neutral,3200000,4
+Monica,"Umm, going to the beach. When it stays light real late.",neutral,4100000,4
+Rachel,"What's your favourite thing about summertime?",neutral,4100000,4
+Tommy,"!",anger,0000311,0
+Tommy,"Huh?","non-neutral",1000211,5
+Tommy,"What are you just some big, dumb, stupid, doofy idiot, with a doofy idiot hairdo, huh?!",anger,0000401,0
+Tommy,"You were gonna spill hot coffee all over me, huh?!!",anger,0000500,0
+Tommy,"You idiot!!",anger,0000302,0
+Tommy,"Hot coffee!!!",surprise,0000131,7
+Ross,"It's-it's hot",neutral,4000010,4
+Tommy,"Ice coffee? Tell me it's ice coffee!",surprise,0200030,7
+Ross,"Okay, it's coffee.",neutral,5000000,4
+Pete,"That's about 60 cents.",neutral,5000000,4
+Monica,"Why, how much is that?",neutral,3001010,4
+Pete,"Ahh, I'd throw another thousand on that.",neutral,4100000,4
+Monica,"Oh come on, it's only fair, you paid for the flight. Now is, is that enough lire?",neutral,3101000,4
+Pete,"You're, hey, you're not paying for the pizza!",surprise,0000140,7
+Rachel,"Um...  Done!",neutral,4100000,4
+Phoebe,"Great, all right, okay, and Monica ask me to make the drumming stop.",neutral,3200000,4
+Rachel,"Good, good, good, good, good.",joy,0500000,3
+Phoebe,"Yay, okay!",joy,0500000,3
+Rachel,"Oh, I would love to!",joy,0500000,3
+Phoebe,"Oh, anyway, they say, if we want, we can see it tonight.",neutral,4100000,4
+Rachel,"We did!",joy,1400000,3
+Phoebe,"We did have fun, didn't we?",joy,0500000,3
+Rachel,"Oh, it's so much more fun with you.",joy,1400000,3
+Phoebe,"Yes, but I wanted you to want to live with me, but okay, if you're having so much fun over here",sadness,1130000,6
+Rachel,"It wouldn't have mattered anyway, Phoebe, you and I are, are gonna live together, we're roommates; that's the deal.",neutral,4100000,4
+Phoebe,"Fish!",surprise,0000041,7
+Rachel,"Honey, if you wanted to do that, you might as well just gotten him a fish, you know how fish freaked me out!",disgust,0001103,1
+Rachel,"Did you get all this stuff for Joey to try and drive me out of the apartment?",anger,1000310,0
+"The Waiter","Hey!",neutral,3000020,4
+Monica,"All right, let's go say good-bye.",neutral,5000000,4
+Rachel,"Okay.",neutral,5000000,4
+Phoebe,"All right, well, I just can't think about that right now. I just wanna say good-bye to my Grandma.",neutral,3020000,4
+Ross,"Hi!","non-neutral",2200010,5
+Chandler,"Because I'm very happy for him!  And",joy,1400000,3
+Monica,"I might've said that.  Why is that funny?",neutral,3000020,4
+Chandler,"Really?! That's what you heard?  You said that?",surprise,0000140,7
+Rachel,"I don't care! I wanna meet this guy who's the best sex she ever had!","non-neutral",0200111,5
+Chandler,"Yeah, I don't think he's up to meeting everyone yet.",neutral,4001000,4
+Monica,"Ohh, he's really shy. I-I don't think he's up to meeting everyone yet.",neutral,4001000,4
+Rachel,"So Mon, when are we gonna meet this new secret waiter man?",neutral,5000000,4
+Chandler,"Uhh, yeah. She uh, she uh, she uh might've mentioned him.","non-neutral",2011010,5
+Rachel,"So Chandler, have you heard about Monica's secret boyfriend?",neutral,4000010,4
+Chandler,"Ohhh-hoo, funny story!",joy,1300001,3
+Chandler,"Thanks, I'm glad you see it that way.",joy,1300010,3
+Joey,"That's horrible! Well, you did the right thing man.",disgust,0000113,1
+Chandler,"Okay. And it's not just chicks y'know? It's all kinds of other animals!",disgust,1001003,1
+Joey,"Okay, good, good, good, 'cause, good, 'cause I was kinda having second thoughts too.","non-neutral",1021010,5
+Chandler,"If they can't find a home for her, they kill her! And I'm not gonna let that happen to little Yasmine!","non-neutral",0020102,5
+Chandler,"I did! But the store wouldn't take her back! So then I took her to the shelter, and you know what I found out?","non-neutral",0010121,5
+Joey,"(sees he's watching",neutral,5000000,4
+Chandler,"Hey!",surprise,1000040,7
+Joey,"Hey!",surprise,1000040,7
+Chandler,"But in very different ways.",neutral,5000000,4
+Chandler,"I love you both.",neutral,3200000,4
+Chandler,"That's Yasmine Bleeth, she's a completely different kind of chick.",neutral,4000010,4
+Chandler,"See, yes.",neutral,4000100,4
+Chandler,"I know.",neutral,5000000,4
+Phoebe,"Ewww!",disgust,0000005,1
+Chandler,"What stupid thing did you do?","non-neutral",2000120,5
+Rachel,"Well, I sorta did a stupid thing last night.",neutral,3010001,4
+Phoebe,"What's goin' on?",neutral,5000000,4
+Joey,"No-no-no-no-no,  I'm not fallin' for that again.",anger,1001300,0
+Rachel,"Uh, morning. Do you guys think you could close your eyes for just a sec?",neutral,5000000,4
+Phoebe,"I'm still on no.",neutral,5000000,4
+Monica,"Please, just a little bit off the back.",neutral,5000000,4
+Joey,"You know, I think I was sixteen.",neutral,5000000,4
+Rachel,"Yeah, it sure is!",joy,0500000,3
+Joey,"Yeah, life's pretty great isn't it?",joy,0500000,3
+Rachel,"Okay.  God y'know, if someone told me a week ago that I would be peeing in Joey Tribbiani's apartment","non-neutral",1200020,5
+Joey,"It's uh, right through there.",neutral,5000000,4
+Rachel,"Umm, can I use your bathroom?",neutral,5000000,4
+Joey,"But if you're thinking you can put a fish in there and it wouldn't get sucked up into the mechanism, well you'd be wrong.",neutral,3000011,4
+Joey,"Pretty cool, huh?",joy,2300000,3
+Rachel,"Oh, I probably shouldn't-so I will!  Oh! Wow! It's like it's raining!",surprise,0200030,7
+Joey,"Do you uh, do you-ready for a refill?",neutral,4000010,4
+Rachel,"Pat the dog. Oh! Oh! I get it!!",joy,0300020,3
+Joey,"I know.  Yeah, his name is Pat.",neutral,5000000,4
+Rachel,"Ohh, I mean it's just so realistic!","non-neutral",0100022,5
+Chandler,"Does this mean we're gonna have to start paying for coffee?",surprise,0001040,7
+Rachel,"Gunther, I quit.","non-neutral",2010101,5
+Gunther,"What?!",surprise,0000050,7
+Rachel,"I'm gonna give you my weeks notice.","non-neutral",2010101,5
+Rachel,"So I don't think I should do it anymore.","non-neutral",2020001,5
+Rachel,"I don't care which pot is regular and which pot is decaf, I don't care where the tray spot is, I just don't care, this is not what I want to do.","non-neutral",1010102,5
+Rachel,"I don't care.",neutral,3020000,4
+Rachel,"Because, I don't care.",neutral,3010100,4
+Rachel,"Gunther, y'know what, I am a terrible waitress, do you know why I'm a terrible waitress?","non-neutral",2010002,5
+Rachel,"Okay, fine.",neutral,4000100,4
+Gunther,"You would think.",neutral,4000001,4
+Rachel,"Can't I just look at the handles on them?",neutral,3000020,4
+Gunther,"Remind me to review with you which pot is decaf and which is regular.",neutral,4000001,4
+Rachel,"I also said number one.",neutral,5000000,4
+Joey,"You said number two.",neutral,3100010,4
+Rachel,"Monica, number one, I don't think Ben understands the concept of bribery, and number two, I...   What?!",surprise,0000131,7
+Monica,"Okay, Ben, I won't tell your daddy that you had ice cream for dinner, if you don't tell about our little bonking incident.",fear,2003000,2
+Rachel,"Hi!",joy,0500000,3
+Paul,"Hi honey.",neutral,3200000,4
+Phoebe,"No that's what you do when you want to get the truth out of someone.",neutral,4100000,4
+Rachel,"So what are you saying; I should run him under hot water and bang his head against a table?",surprise,2000030,7
+Phoebe,"That's easy! You just have to think of him as a-as a jar of pickles that won't open.",neutral,4100000,4
+Rachel,"Y'know, I wish I could get him to open up a little bit, share some feelings.",sadness,2030000,6
+Rachel,"Although y'know, he-he's a private guy.","non-neutral",2021000,5
+Rachel,"Good.",joy,1400000,3
+Phoebe,"So how are things going with Paul?",neutral,4100000,4
+Chandler,"Okay. I just wanted them to hear it from somebody else.",neutral,4010000,4
+Phoebe,"No.",neutral,5000000,4
+Monica,"Of course not.","non-neutral",2000012,5
+Chandler,"Hey! Can you take a duck and a chick to the theatre?",neutral,4100000,4
+Phoebe,"Yes!! Yes!! I'm the next caller! You were gonna have me hang up.",joy,0400100,3
+"Hold Voice","Thank you for your patience, you're the next caller.",neutral,5000000,4
+"Hypnosis Tape","A strong, confident woman.",neutral,3200000,4
+"Hypnosis Tape","You are a strong, confident woman, who does not need to smoke.",neutral,4100000,4
+"Hypnosis Tape","Cigarettes don't control you.",neutral,4000001,4
+"Hypnosis Tape","You don't need to smoke.",neutral,3000002,4
+"Hypnosis Tape","You are now completely asleep.",neutral,5000000,4
+"Hypnosis Tape","Deeper.",neutral,5000000,4
+"Hypnosis Tape","Deeper.",neutral,5000000,4
+"Hypnosis Tape","Deeper.",neutral,5000000,4
+"Hypnosis Tape","You are falling fast asleep.",neutral,5000000,4
+Phoebe,"If you would've let me finish, it goes on to say that he's probably not gay.",neutral,4000010,4
+Monica,"Phoebe!","non-neutral",1100120,5
+Phoebe,"Check it out. Okay, I can play this when the guests are coming in. Okay.",neutral,4100000,4
+Chandler,"Which is funny because in high school I uh, I-I failed Biology and tonight Biology failed me.","non-neutral",2020001,5
+Chandler,"Y'know it's like uh, Biology!",neutral,3001001,4
+Chandler,"I'm not worried, I'm uh, I'm fascinated.","non-neutral",2101001,5
+Monica,"Chandler! It happens to lots of guys! You-you-you were probably tired, you had a lot of champagne, don't worry about it!","non-neutral",1110020,5
+Rachel,"Wow, I really get crabby when I cook.",surprise,0010040,7
+Monica,"And then you realised if you  bitched about it, then you  would stop cooking, and you  would have to make your famous baked potato and Diet Coke.","non-neutral",2000201,5
+Monica,"Yeah, you were, but you decided to make salmon because you had some left over at the restaurant.",neutral,5000000,4
+Rachel,"I thought I was making him filet mignon?",surprise,0000050,7
+Monica,"Well, you're making him a frieze salad with goat cheese and pine nuts, wild nuts, wild rice, roast asparagus, and salmon au croup.",neutral,5000000,4
+Rachel,"What am I making him by the way?",neutral,4000010,4
+Monica,"Um-hmm.",neutral,3000002,4
+Rachel,"I'm making him a",joy,2300000,3
+Rachel,"I got new sheets!",joy,0500000,3
+Rachel,"I got my hair coloured!",joy,0500000,3
+Rachel,"I've been waiting for this for months!",joy,0500000,3
+Rachel,"I'm so exited!",joy,0500000,3
+Rachel,"Sorry.",neutral,3020000,4
+Monica,"Y'know what? It",neutral,3000110,4
+Rachel,"Hey, Mon, if you were hoping to sleep with Joshua the first time tonight, which one of these would you want to be wearing.",neutral,4100000,4
+Rachel,"Yeah, I know...  ..I'm I'm just not that bright either.",sadness,2030000,6
+Rachel,"Yeah, and and, I'm just gonna pay for this with a check.",neutral,4010000,4
+Monica,"I am. I'm",neutral,5000000,4
+Monica,"Um, okay. You just called a little while ago about needing a signature on the admissions form. Well, it turns out we need a",neutral,4000010,4
+Rachel,"Hi, remember us?",neutral,4100000,4
+Joey,"I know!","non-neutral",1100021,5
+Phoebe,"What's that smell?",disgust,1001003,1
+Monica,"Janice, what umm, what are you doing here?","non-neutral",1002020,5
+Chandler,"Did she see us yet? Did she see us?",neutral,3002000,4
+Janice,"Chandler?",neutral,4000010,4
+Chandler,"I say we go with",neutral,5000000,4
+Monica,"What are we gonna do?",neutral,4000001,4
+Ross,"Tell me about it.",neutral,3001001,4
+Rachel,"Ohh, I mean, we were really drunk. I'm just glad we didn't do anything stupid.",neutral,4000001,4
+Ross,"And we didn't have sex.",neutral,5000000,4
+Rachel,"Oh! I remember laughing! I laughed a lot.",joy,2300000,3
+Ross,"I mean, I don't remember much about last night, it was such a blur.",neutral,3001001,4
+Ross,"But we-we didn't have...sex-uh, did we?",fear,0005000,2
+Ross,"No!",neutral,3000020,4
+Rachel,"Really?!",surprise,0000050,7
+Ross,"Yeah.",neutral,5000000,4
+Rachel,"I don't know. Do-do you have any clothes on?",neutral,3001010,4
+Ross,"Why are we in bed together?",surprise,1000031,7
+Rachel,"Ohhh!",surprise,0000050,7
+Joey,"Monica and Rachel made out.",neutral,5000000,4
+Ross,"Yeah.",neutral,4100000,4
+Monica,"I can't believe you're getting married!",joy,0300020,3
+Joey,"Yeah! Yeah!",joy,0500000,3
+Chandler,"Oh, well, that's great!",joy,0500000,3
+Rachel,"Yeah, I-I heard.  I think it's great!  Ohh, I'm so happy for you!",joy,0500000,3
+Phoebe,"No, I do not hear that.",neutral,4000100,4
+Rachel,"Listen, I'm gettin' something from your grandmother, she said that since you get to keep the one bedroom apartment you should give Rachel the purple chair?","non-neutral",2101010,5
+Rachel,"Oh-oh, wait did you hear that-hear that?",surprise,0000050,7
+Rachel,"I know.",neutral,5000000,4
+Phoebe,"Okay, now's not the time Joey. All right? You can yell at me tomorrow.","non-neutral",2010101,5
+David,"Bye Phoebe.",neutral,3020000,4
+Phoebe,"I do too.","non-neutral",1210010,5
+David,"I-I do though.","non-neutral",2102000,5
+Phoebe,"You're right! You're right. Don't say it.","non-neutral",1020110,5
+David,"Yeah, I... Well I really actually wanted to say umm, that, but um, I figured I probably shouldn't because y'know, I...have to leave.",neutral,3020000,4
+Phoebe,"That's good. I got to admit, I thought it was something else.","non-neutral",2100020,5
+David,"Please, clean my beakers. I don't get out of the lab much.",neutral,4010000,4
+Phoebe,"That's really beautiful. What does it mean?","non-neutral",2100020,5
+David,"July. Umm,",neutral,5000000,4
+Phoebe,"Are you sure? I'll bet there's another flight to Minsk in like",neutral,4000010,4
+David,"Oh, I",neutral,4001000,4
+"Mr. Treeger",": Yeah!","non-neutral",0200120,5
+Joey,"Hey!","non-neutral",0200210,5
+Joey,"I mean, y'know, I'm not really that comfortable dancing with a- We-he!!","non-neutral",1111100,5
+Joey,"Plus, it was, it was probably mostly my fault, anyway.","non-neutral",2020001,5
+Joey,"Come on.",neutral,3000200,4
+Joey,"Here, come on, let's ahh, let's try it again.",neutral,4000100,4
+Joey,"You just ahh, you just need more practice.",neutral,5000000,4
+Joey,"Come on Treeger, don't say that.","non-neutral",2010011,5
+"Mr. Treeger",": I'm sure as hell a dancer, it's no use Marge will never go for me.","non-neutral",1012100,5
+Chandler,"All right, all right, I'll go sleep with my girlfriend. But I'm just doing it for you guys.",neutral,3110000,4
+Monica,"Go on.",neutral,4100000,4
+Rachel,"Yeah, you should, really.",neutral,4100000,4
+Monica,"Yeah, you should.",neutral,4100000,4
+Ross,"Just go for it Chandler.",neutral,4100000,4
+Rachel,"Yeah!",joy,2300000,3
+Chandler,"Yeah?",surprise,1100030,7
+Monica,"Sweetie, with you it's gonna be different. The sex is gonna be great, 'cause you-you guys are in love.",joy,1300010,3
+Chandler,"We share a wall! So either he's great in bed, or she just likes to agree with him a lot.",neutral,4000010,4
+Monica,"So big deal, so Joey's had a lot of girlfriends, it doesn't mean he's great in bed.",neutral,3000200,4
+Chandler,"Yes, and I was saying the actual words.",neutral,4000001,4
+Ross,"Yeah, I was going for the metaphor.",neutral,4000001,4
+Chandler,"No, I'm afraid I won't be able to make love as well as him.","non-neutral",2021000,5
+Janice,"On no! No! It's not good-bye, I'm not leaving until you get on that plane.","non-neutral",0110120,5
+Chandler,"Well, we're really not that close.  Okay, so I guess this is uh, good-bye then.",neutral,3020000,4
+Janice,"Besides, somebody had to ride in that other taxi with the rest of your luggage, and your friends don't really seem to care too much that you're leaving.","non-neutral",1120001,5
+Janice,"Y'know?",neutral,4010000,4
+Janice,"Every moment is precious.","non-neutral",2210000,5
+Janice,"Oh please.",neutral,4010000,4
+Chandler,"Y'know you, really didn't have to take me to the airport.",neutral,4100000,4
+Joey,"Yeah.",neutral,4001000,4
+Phoebe,"Well, we should go.",neutral,4001000,4
+"The Dry Cleaner","That's my wife!!! Get out!",anger,0000500,0
+Joey,"Whoa-whoa-whoa-whoa, I-I-Hey! I did","non-neutral",1002020,5
+Phoebe,"Joey!",surprise,0000140,7
+"The Dry Cleaner","He went out with my wife!",anger,0000500,0
+Phoebe,"Well, what did he do?",surprise,2000030,7
+"The Dry Cleaner","You, get out of my shop!",anger,0000500,0
+Phoebe,"Well actually, I know what time Chester and Marcia said.",neutral,5000000,4
+Chandler,"What?!",surprise,0000131,7
+Phoebe,"I know what time you said.","non-neutral",2000201,5
+Monica,"Ugh!",disgust,0000104,1
+Chandler,"Oh my good God.",disgust,0000113,1
+Phoebe,"Hi!",joy,1400000,3
+Monica,"Yeah and if I had seven, maybe I would've said something like this, Wow! My boyfriend's such a wise ass-seven!",anger,0000302,0
+Chandler,"The only way that I said six would be if the seven's, let meet at seven, not at six.",neutral,3000101,4
+Monica,"We said six!",anger,0000410,0
+Chandler,"We said seven!",anger,0000320,0
+Monica,"Chandler, we said we would meet at the coffeehouse at six.","non-neutral",2000201,5
+Bob,"I just found out this is Chandler's office! Come on Toby, give me a hand!",joy,1300010,3
+Chandler,"Bob. Bob! Bob!!!  What the hell are you doing?!",surprise,0000131,7
+Rachel,"I just never thought I would raise this baby all by myself. Pretty dumb huh?",sadness,1030100,6
+Joey,"Yeah, I guess so.",neutral,3010100,4
+Rachel,"I'm just saying that y'know, someday Ross is gonna meet somebody and...he's gonna have his own life. Right?",sadness,2030000,6
+Joey,"Okay, how long was I watching that woman?",neutral,4000010,4
+Rachel,"Oh please, he'll be with his real family, the twins and little miss new boobs.",sadness,1030100,6
+Joey,"What are you talking about alone? What about Ross?",surprise,0010040,7
+Rachel,"I've just been thinking about how my baby and I are gonna be all alone.",sadness,0041000,6
+Joey,"Rach come on, what?",neutral,3001010,4
+Rachel,"Really it's nothing. I'm just",sadness,1030010,6
+Joey,"What is it? Hey!","non-neutral",2001020,5
+Rachel,"Nothing.",neutral,3010010,4
+Joey,"What's the matter?",neutral,4000010,4
+Joey,"I just saw a woman breast feeding both of her twins at the same time; it is like a freak show up here.",neutral,3000101,4
+Joey,"Hey.",neutral,4100000,4
+Ross,"What. Oh no, you just rolled over the juice box.","non-neutral",2000120,5
+Rachel,"Ah, oh God. Oh, honey, oh that's OK.","non-neutral",2021000,5
+Ross,Pheebs,neutral,4000010,4
+Phoebe,"Well, kinda. Yeah. Yeah.",neutral,3011000,4
+Ross,"Is that true?",neutral,3000020,4
+Ross,"So Monica tells me that uh, you don't want to play anymore because me and y'know my talent.",neutral,3010010,4
+Ross,"Oh, thanks, thanks.",joy,0500000,3
+Phoebe,"Hey! You were really great! You were really, really great!",joy,0500000,3
+Ross,"Hey!",joy,2300000,3
+Rachel,"Oh!",surprise,1100030,7
+Monica,"Okay! Okay! Okay!  We'll see you in about 3 to 4 hours.","non-neutral",2100110,5
+Rachel,"What?!! Stop it! Stop it! Oh my God!",surprise,0000140,7
+Monica,"Go!!",joy,2300000,3
+Rachel,"Yep!",neutral,3200000,4
+Ross,"Hey Rach, can you pass me the",neutral,5000000,4
+Chandler,"Y'know, how did I get this reputation as a dropper? Okay? I'm",anger,1000310,0
+Rachel,"No, I meant with the dropper over here.",neutral,3000011,4
+Ross,"I know. My arm is killing me.","non-neutral",2020010,5
+Rachel,"Yeah, it is amazing it lasted that long.","non-neutral",1200020,5
+Joey,"Man that was great! Huh? Can you believe how long we threw that ball around?",joy,0500000,3
+Phoebe,"How can people do that?...  Oh, you guys, look! Ugly Naked Guy got gravity boots!",surprise,0000131,7
+Chandler,"I feel violated. And not in a good way.",disgust,0001004,1
+Rachel,"Oh, that is so sick.",disgust,0000005,1
+Ross,"I can't believe it! He's looking right at us!",surprise,0002030,7
+Monica,"Oh my God. You guys! You gotta come see this! There's some creep out there with a telescope!","non-neutral",0002021,5
+Ross,"I don't know, you don't wanna mess with corn nuts. They're craaazy.",neutral,3101000,4
+Joey,"No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.","non-neutral",1100120,5
+Chandler,"I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.",surprise,2000030,7
+Monica,"Yeah, well I might be if I had the supplies! I mean, I could do all this stuff. Only I don't.","non-neutral",1020200,5
+Rachel,"You're not an artist.",neutral,3000101,4
+Monica,"She spent three hundred dollars on art supplies.","non-neutral",1010120,5
+Monica,"She, she buys clothes from stores that I'm intimidated by the sales people.","non-neutral",1010111,5
+Monica,"She buys tickets for plays that I wanna see.","non-neutral",1010111,5
+Monica,"Look at this, look.","non-neutral",1000121,5
+Monica,"She's living my life, and she's doing it better than me!",anger,0010301,0
+Rachel,"What?",surprise,1000040,7
+Monica,"This woman's living my life.",anger,1000310,0
+Rachel,"Oh, Monica. You are not still going over that thing.","non-neutral",1010012,5
+Bonnie,"All right.",neutral,3200000,4
+Rachel,"Awww, stop. Come on. Now go shave that head!",neutral,3200000,4
+Bonnie,"Yeah, thank you Rachel, you are soo cool.",joy,0400010,3
+Rachel,"Yeah!",joy,1400000,3
+Bonnie,"Y'know what, I should do it.",joy,2300000,3
+Rachel,"I mean you definitely should do that.",neutral,3200000,4
+Bonnie,"Yeah!",joy,2300000,3
+Rachel,"Really?!",surprise,0100040,7
+Bonnie,"Because I think about shaving it all off again sometime.",neutral,4001000,4
+Rachel,"Ohh!",surprise,0000050,7
+Bonnie,"Really?!",surprise,0000050,7
+Rachel,"Y'know, I gotta tell ya, I just",neutral,5000000,4
+Bonnie,"I think I brought back half of the beach in my hair. It was so much easier when I used to shave my head.","non-neutral",0200102,5
+Erin,"Ohh, listen. I've got to get going. Today was great, thanks!",joy,1400000,3
+Joey,"Why wouldn't ya? Erin is great! Then-then there's you guys.",joy,2300000,3
+Rachel,"Yeah, we ended up spending the day together and had such a great time!",joy,0401000,3
+Joey,"Erin! Still here!",joy,2300000,3
+Erin,"Hey Joey!",joy,1400000,3
+Joey,"Hey-hey, who's your friend?  Hey!!",joy,0400010,3
+Rachel,"Hey!","non-neutral",1200020,5
+Joey,"Hey! What's up?",neutral,3200000,4
+Joey,"Sometimes I get in here just to get away from it! Hey, a nickel!!","non-neutral",1200020,5
+Joey,"Okay.  See?! I told ya!",surprise,0200030,7
+Guy,"All right, you have yourself a deal.",neutral,4100000,4
+Joey,"Oh yeah?  If I can't, I'll knock five bucks off the price off the unit.","non-neutral",2000120,5
+Guy,"No, you, you can't fit in that thing. That's not deep enough.",neutral,3000110,4
+Joey,"It was funny 'til I started feeling like I was in a coffin.","non-neutral",2011100,5
+Joey,"Yeah.",neutral,5000000,4
+Joey,"My roommate bet me five bucks that I couldn't, and then he stuck a board through the handles that locked me in.",neutral,3000011,4
+Joey,"I got in there myself once.",neutral,5000000,4
+Joey,"Oh yeah!",joy,0300020,3
+Guy,"What?!",surprise,0000050,7
+Joey,"This is the unit for you my friend. Sturdy construction, tons of storage compartments, some big enough to fit a grown man.",neutral,4000010,4
+Joey,"We're trying to think!",anger,1100300,0
+Joey,"Shh!",anger,1100300,0
+Joey,"And if she didn't take it, and I didn't take it; and you  didn't take it, then who did?","non-neutral",1001210,5
+Joey,"It was in my room all night!","non-neutral",0000221,5
+Joey,"I don't get it!",surprise,1000130,7
+Ross,"Hey!","non-neutral",0200120,5
+Monica,"Again. Y'know what? I think we all did.","non-neutral",1120010,5
+Rachel,"I guess I just figured that somewhere down the road, we would be on again.",sadness,1040000,6
+Rachel,"Well, yeah, y'know how Ross and I were on again, off again, on again, off again?",sadness,2030000,6
+Phoebe,"Any luck?","non-neutral",2011010,5
+Rachel,"And I-I am just trying to figure out why.",sadness,0050000,6
+Phoebe,"Yeah, maybe.",sadness,2030000,6
+Rachel,"Y'know, I know that I said that I am totally okay with Ross getting married, but as it turns out, I don't think I'm handling it all that well.",sadness,0050000,6
+Rachel,"I don't think he's the one I'm sad about.",sadness,0050000,6
+Rachel,"Yeah, maybe, but I don't think I even care.",sadness,2030000,6
+Monica,"Ohh, sweetie!  Hey, I bet you anything that he's gonna call you again.","non-neutral",1120010,5
+Rachel,"Well uh, his answering machine was","non-neutral",2020001,5
+Phoebe,"What did he say?",neutral,4000010,4
+Rachel,"Well, I did my best to convince him that I'm not some crazy girl who is dying to get married-I'm just going through a hard time.",neutral,3020000,4
+Phoebe,"Oh, how did it go?","non-neutral",2001020,5
+Rachel,"Well, I just called Joshua",neutral,5000000,4
+Chandler,"You pick up the pieces, and then you usher in the age of Ross!",joy,2300000,3
+Chandler,"You're there for her.",neutral,5000000,4
+Chandler,"She's distraught.",neutral,4010000,4
+Chandler,"My Catholic friend is right.",neutral,4000010,4
+Joey,"You're like, like the anti-Paolo!","non-neutral",1200011,5
+Joey,"You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not!",joy,2300000,3
+Joey,"Yes, now is when you swoop!",joy,2300000,3
+Ross,"What, now?",surprise,0000050,7
+Chandler,"What are you still doing here? She just broke up with the guy, it's time for you to swoop in!",surprise,1000130,7
+Ross,"Come on, two on one.",neutral,3100010,4
+Joey,"No-no, she kicked our butts. You could be on the Olympic standing-there team.","non-neutral",0200120,5
+Ross,"Ah...ooh! Well, looks like, uh, we kicked your butts.",joy,1300010,3
+Phoebe,"I think she took it pretty well. You know Paolo's over there right now, so...",neutral,3010010,4
+"The Fan","Can-can I get your autograph, I'm your biggest fan.",joy,0400010,3
+Phoebe,"Yeah.",neutral,4000010,4
+"The Fan","Are you Phoebe Buffay?",neutral,4100000,4
+Phoebe,"Yeah?",neutral,4000010,4
+"The Fan","Excuse me.",neutral,5000000,4
+Monica,"All right, let me see.  Will Chandler have sex tonight?  Don't count on it. Seems like it works to me.",neutral,3100010,4
+Ross,"It-it is broken!",anger,0000500,0
+Ross,"This is broken!",anger,0000500,0
+Ross,"What the hell!",anger,0000410,0
+Ross,"Ask again later.",neutral,3000101,4
+Ross,"Later is not good enough.",anger,1000301,0
+Ross,"Ask again later.",neutral,3010010,4
+Ross,"Magic 8 Ball, should I never see Rachel again?","non-neutral",2021000,5
+Ross,"Here we go.",neutral,3011000,4
+Ross,"Okay then.",neutral,3000101,4
+Ross,"All right, don't be shy, any suggestion will do.","non-neutral",2011100,5
+Ross,"'Cause I-I got nothing!","non-neutral",0020102,5
+Ross,"So-so if anyone has-has a better suggestion, let's hear it!","non-neutral",2002100,5
+Ross,"I mean, I either keep my wife and lose one of my-my-my best friends or I keep my friend and get divorced the second time before I'm 30!","non-neutral",0022100,5
+Ross,"Well, I don't know what else to do.",sadness,0031100,6
+Phoebe,"Ooh, it's not a toy.","non-neutral",1011110,5
+Monica,"A Magic Eight ball?! You can't be serious, you can't make this decision with a toy!",disgust,0000005,1
+Ross,"Okay, that's it. I cannot make this decision! It is",anger,0000302,0
+Monica,"All right, hold on okay? First thing's first.  Okay, now did Ross sit",neutral,4001000,4
+Chandler,"Oh well you're the best. You come here to me.","non-neutral",2200010,5
+Monica,"Of course!",neutral,3100010,4
+Chandler,"Really?",surprise,1000040,7
+Monica,"I know I have this weird thing where I want everything to be in the perfect place, but I'd never expect you to worry about that.","non-neutral",2120000,5
+Monica,"I mean gosh, Chandler what you did, it's, it's a wonderful thing and I really appreciate it.",joy,1310000,3
+Monica,"Of course not.",neutral,4010000,4
+Chandler,"Do you want me to be afraid of you?",neutral,3011000,4
+Monica,"It's okay. Chandler, are you afraid of me or something?",neutral,3010010,4
+Chandler,"So I moved everything around and then I forgot where it, where it went back and I'm sorry, I'm very sorry, I'm sorry, I'm sorry.",sadness,0041000,6
+Chandler,"But after I unpacked the boxes I wanted to do something nice for you, so, I-I-I cleaned the apartment.",neutral,3011000,4
+Chandler,"Okay look, don't...don't be mad okay?","non-neutral",2012000,5
+"Flight Attendant","Miss? May I help you?",neutral,5000000,4
+Rachel,"Hi!","non-neutral",2200010,5
+Ross,"What the? What",surprise,0000041,7
+Ross,"Hey! Y'know that teacher who had a baby with her student?",neutral,3000020,4
+Rachel,"Ross! What are you... I'm sorry sir. I just, I think he just really likes you.","non-neutral",1010120,5
+Rachel,"Yeah, all right. All right! Just keep walkin'! All right?","non-neutral",1010210,5
+Ross,"Okay,  umm, why don't, why don't you all start to read, while I-",neutral,5000000,4
+Ross,"Where...  Where you will see...a uh...a bunch of uh...red spots.",neutral,5000000,4
+Ross,"Okay, why don't we all uh,  open our books to page 23.",neutral,5000000,4
+Ross,"I'm on time!",joy,0400010,3
+Ross,"Yes, I made it!",joy,0400010,3
+Ross,"Yeah!!!!",joy,1400000,3
+Phoebe,"And how people will believe anything you tell them as long as it's a compliment.",neutral,3100010,4
+Phoebe,"And how none of it matters when the people really love each other.",neutral,4100000,4
+Monica,"What?! Excuse me!",surprise,0000140,7
+Phoebe,"Yeah, it's about relationships. Y'know? The traps, the pitfalls, what not to do, keep going. This stuff is great!",joy,2300000,3
+Chandler,"This is going in your book?",surprise,1100030,7
+Phoebe,"You guys, I'm sorry, could you please talk a little slower?",neutral,5000000,4
+Monica,"Why would the little girl creep you out?","non-neutral",1000121,5
+Chandler,"Why would the baby creep me out?","non-neutral",2000021,5
+Monica,"You said the baby.",neutral,3000110,4
+Chandler,"No, the little girl creeps me out.","non-neutral",2002001,5
+Monica,"No, you said the baby creeps you out.",neutral,5000000,4
+Chandler,"Hey honey, you got the kind with the little girl, you said we were gonna to get the kind with the baby.","non-neutral",2011010,5
+Chandler,"Yeah?",neutral,3000020,4
+Rachel,"Eh, do you believe that?","non-neutral",2010110,5
+Gunther,"Good one. Actually, ah, Terry wants you to take the training again, whenever.",neutral,3100001,4
+Rachel,"Oh, sure! Do you need me to train somebody new?","non-neutral",2200010,5
+Gunther,"Do you remember when you first came here, how you spent two weeks getting trained by another waitress?",neutral,4000010,4
+Rachel,"Yeah.",neutral,5000000,4
+Gunther,"Rachel?",neutral,4100000,4
+Chandler,"Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?","non-neutral",2012000,5
+Rachel,"What?",neutral,4000100,4
+Chandler,"Eh..., I don't, I don't know.","non-neutral",2011100,5
+Rachel,"Hmm.",neutral,5000000,4
+Chandler,"Hey, you know who used to have nails like that?",neutral,5000000,4
+Rachel,"Chandler, don't worry! This doesn't make you any less of a guy!",neutral,3200000,4
+Chandler,"That's a mailman! That's",surprise,2000030,7
+Rachel,"Chandler, there's a guy right over there.",neutral,4001000,4
+Chandler,"Y'know, I can't believe I'm getting my nails done!  And",surprise,0100040,7
+Joey,"Man,",neutral,3000011,4
+Chandler,"To Put the Camera Away!!!","non-neutral",1100111,5
+Joey,"Really? To what?",surprise,2000030,7
+Chandler,"I think it's great. It's great. Y'know, they're thinking of changing the name of this place.",neutral,4100000,4
+Joey,"What do you think of the Abbey, Chandler?",neutral,5000000,4
+Joey,"Okay.",neutral,5000000,4
+Joey,"Hey!",joy,1300010,3
+Joey,"Hands down, best Abbey I've ever seen.",joy,2300000,3
+Joey,"Westminster Abbey!",joy,1300010,3
+Joey,"All right!",joy,1300010,3
+Joey,"Hey, that woman's got an ass like Carol's!  What? Thought we were trying to find stuff.","non-neutral",2000021,5
+Ross,"Then, uh, then we got dressed, and I-I... I walked her to the-  -the bus stop... I'm fine.",neutral,5000000,4
+Chandler,"Could've been a peach.",neutral,5000000,4
+Ross,"Actually, nectarines, but basically...",neutral,5000000,4
+Joey,"-Peaches?",neutral,4000010,4
+Ross,"Peach pit. That night we, uh- we had-",neutral,5000000,4
+Chandler,"Yes, Bunny?",neutral,5000000,4
+Ross,"Peach pit.",neutral,5000000,4
+Joey,"What?",neutral,4000010,4
+Rachel,"Oh no, my dad's a doctor and he would always tell me just horror stories......about ghosts and goblins who totally supported the princess's right to smoke.",neutral,3011000,4
+Kim,"Rachel? Do you smoke?",neutral,5000000,4
+Kim,"So what do you say we take a break, we go outside, and we'll figure this out when we come back?",neutral,5000000,4
+Kim,"I don't know which one, but I do know I need a cigarette.",neutral,3010001,4
+Rachel,"Oh, what a fun office.",joy,2300000,3
+Nancy,"She is kidding, but don't ever disagree with her again. Okay, now I'm kidding!",joy,1310000,3
+Kim,"Oh don't be sorry, that's part of your job here to give your opinions and then I take credit for them--I'm kidding.",neutral,3200000,4
+Rachel,"Well umm, that one is pretty but uh, I just, I just love this fabric  Sorry.","non-neutral",2011010,5
+Kim,"So it's down to these two, Nancy I know you like this one and I think I agree. Rachel, what do you think?",neutral,5000000,4
+Joey,"I'm sorry I gotta cancel tonight baby",sadness,2030000,6
+Chandler,"I understand: who would cancel an actual date to go to a fake bachelor party?","non-neutral",1000022,5
+Ross,"Uh actually, sorry I can't even make it. I'm seeing Mona again tonight.",neutral,4010000,4
+Chandler,"Ah, no-no-no just Ross. Ross and Joey is embarrassing enough.",disgust,1001003,1
+Joey,"All right, well finish your coffee; let's go.",neutral,5000000,4
+Ross,"Sweet!",joy,0500000,3
+Joey,"No. But I got Knicks tickets for you, me, and Chandler.",neutral,4100000,4
+Ross,"Really?!",surprise,0000050,7
+Joey,"Hey Ross! Listen, do you want to go see that new Imax movie on tide pools?",joy,1300010,3
+Ross,"Ezel? Ezel? Ezel?",surprise,1000040,7
+Ross,"Yeah, we're done.",neutral,3000002,4
+Ross,"Thanks for the coffee, or bedankt voor de koffie, Gunter.",neutral,4100000,4
+All,"Surprise!!!",surprise,1100030,7
+Chandler,"Okay.",neutral,5000000,4
+Monica,"Okay. I can do that.",neutral,5000000,4
+Chandler,"That's still yours. Okay, now remember it's a surprise party. So, when you go in, act surprised.",neutral,5000000,4
+Monica,"What about",surprise,2000030,7
+Chandler,"Okay we have to do something about your breath.",neutral,3000002,4
+Monica,"Okay. I love you so much.",joy,0500000,3
+Chandler,"Yeah, I'll take care of it.",neutral,5000000,4
+Monica,"Really?! You promise?","non-neutral",0201020,5
+Chandler,"Okay, here's the thing. We're gonna get you some coffee and they will never know that you're drunk.",neutral,5000000,4
+Monica,"Oh no! My parents have never seen me drunk!  That they know of.",fear,0005000,2
+Chandler,"Yes!!","non-neutral",2000120,5
+Monica,"Noo!!","non-neutral",0002210,5
+Chandler,"Yes!","non-neutral",2100110,5
+Monica,"Noo!!!","non-neutral",0002210,5
+Phoebe,"Great! Okay, if you'll just excuse me.  So, did you hear something you liked?",joy,1400000,3
+Monica,"I guess.",neutral,5000000,4
+Phoebe,"Yes.",neutral,5000000,4
+Monica,"Are you sure?",surprise,2000030,7
+Phoebe,"Well not clients, lovers. But let's just y'know, try it again. Come back and-and we'll work through it.",neutral,4000010,4
+Monica,"Really?!",surprise,0000050,7
+Phoebe,"No look, I have, I have lots of clients that make the same noises you do!",neutral,4001000,4
+Phoebe,"No, you can't let this stop you from getting massages!","non-neutral",1002020,5
+Monica,"Oh my-This is so embarrassing. Oh my God, I'm never gonna get massaged again!","non-neutral",0011102,5
+Phoebe,"I mean hi.",neutral,4000010,4
+Phoebe,"What are you looking at?!","non-neutral",1000121,5
+Phoebe,"Ohh.","non-neutral",1200101,5
+Phoebe,"Ohhhh.","non-neutral",1200011,5
+Phoebe,"Ohh.","non-neutral",1200101,5
+Phoebe,"Oo God!","non-neutral",1200011,5
+Phoebe,"Oooh.","non-neutral",2100110,5
+Phoebe,"There's nothing sexual about this?","non-neutral",1000022,5
+Phoebe,"Really?",surprise,1000040,7
+Monica,"What?! You're crazy! There's nothing sexual about the noises I make!",surprise,0000041,7
+Phoebe,"Yeah, and it really freaked me out! And after a while I even tried to hurt you and it just spurred you on.","non-neutral",0000221,5
+Joey,"Oh really? Well, maybe you and I go out for drinks?  You're the other one right?",neutral,4000010,4
+"Female Clerk","Y'know, there are two people who could put your picture up there.",neutral,5000000,4
+Joey,"I'm an actor; I'm kinda getting my picture up there on the wall.",neutral,5000000,4
+Joey,"Okay?",neutral,5000000,4
+Joey,"All-all right, well make sure you tell him that Joey Tribbiani stopped by to drop off all of these clothes.",neutral,5000000,4
+Joey,"Oh, you're kidding me!",anger,0100310,0
+"Female Clerk","He's not here right now.",neutral,5000000,4
+Joey,"Uh yeah, where-where's the guy who decides who's pictures go up on the wall?",neutral,4000010,4
+"Female Clerk","Can I help you?",neutral,5000000,4
+Phoebe,"It's nine o'clock in the morning!",surprise,0100130,7
+Phoebe,"What is that?!",surprise,0001040,7
+Phoebe,"Whoa!",surprise,0001040,7
+Phoebe,"Thank you, I need that.",joy,1400000,3
+Phoebe,"Oh good!",joy,0401000,3
+Phoebe,"Help!",fear,0005000,2
+Phoebe,"The charity's on fire!",fear,0004010,2
+Phoebe,"Hey!!","non-neutral",0001220,5
+Phoebe,"Now, that's trash. Young lady, you can't...  Hey! Stop that young lady, she donated trash!",anger,0000401,0
+Phoebe,"Thank you, Happy Holidays.",joy,0500000,3
+Joey,"You talked to him. Are you crazy?",surprise,0001040,7
+Phoebe,"Hey, oh, you know that guy who's been following me? I talked to him today.",neutral,5000000,4
+All,"Hey, Phoebe.",neutral,5000000,4
+Phoebe,"Hi!",joy,1400000,3
+Rachel,"You're so pretty.",joy,2300000,3
+Joey,"Remember when you where a kid and your Mom would drop you off at the movies with a jar of jam and a little spoon?",neutral,4100000,4
+Chandler,"I mean,... how needy is that?",disgust,1000004,1
+Chandler,"Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay?","non-neutral",2001011,5
+Rachel,You,neutral,4000010,4
+Chandler,"...I dunno.",neutral,4001000,4
+Ross,"Second date!",joy,0500000,3
+Monica,"Yeah, there you go!",joy,1400000,3
+Phoebe,"Whoo-hoo!",joy,0500000,3
+All,"Bye.",neutral,4010000,4
+Chandler,"Okay.",neutral,4010000,4
+Chandler,"That sounds good. I'll call you- or you call me, whatever...",neutral,3110000,4
+Chandler,"...I'm, I'm okay.",neutral,4010000,4
+Joey,"Uh,",neutral,3001010,4
+Chandler,"Uh, what was that?",surprise,0000041,7
+Joey,"Well, I'm totally over it Chandler. Friends forever! Don't come out here!",anger,0000410,0
+Chandler,"Forgive me? You haven't been taking my calls in a week!",anger,0000500,0
+Monica,"What do you mean?",surprise,2000030,7
+Chandler,"See that's where I think that you're wrong. We've been playing these babies man for man; we should really be playing a zone defense.",neutral,3010001,4
+Phoebe,"Na-uh, no, we are all responsible for our own babies.",neutral,4000001,4
+Chandler,"When you're done over there, we kinda have a situation over here too.",fear,1003001,2
+Chandler,"Do you know what Pheebs?",neutral,4000010,4
+Chandler,"Oh right, Coach Ruben.",neutral,4000010,4
+Chandler,"Little baby girl Chandler, where I have heard that before?",neutral,4000010,4
+Monica,"Nope, sound like me. Pheebs, it's going great. Look at Chandler with little baby girl Chandler.",joy,1300010,3
+Phoebe,"I'm doing okay. I think it's going well. Do you think they're having fun? Am I talking to fast?",neutral,4000010,4
+Monica,"Pheebs, how's it going?",neutral,4100000,4
+Phoebe,"To see if know what these guys are talking about.",neutral,5000000,4
+Monica,"About what?",neutral,3000020,4
+Phoebe,"Oh and I need to talk to you.",neutral,5000000,4
+Ross,"Nice to meet you.",neutral,3200000,4
+Joey,"Hey Ross, this is one of my co-stars, Dirk.  Dirk, this    is my good friend Ross.",neutral,4100000,4
+Rachel,"Okay get your coat!  Oh! When did you unhook this?  Nice work!",joy,0300110,3
+Tag,"Okay I understand.  I wouldn't want to be proved wrong either.",neutral,3000101,4
+Rachel,"No! Come on its late, we're not gonna go down to the office.",anger,1000310,0
+Tag,"You wanna go down to the office right now?",neutral,4000100,4
+Rachel,"Or maybe you would see me looking embarrassed because you are talking on the phone with your crotch!",disgust,0000203,1
+Tag,"No, I would see you looking embarrassed because they are","non-neutral",2000102,5
+Rachel,"Y'know what Tag, if we went down to the office you would see those contracts sitting on your desk.",anger,1000400,0
+Tag,"I'm telling you, you never gave them to me.",neutral,3000110,4
+Rachel,"Yes I did! And I put a little",anger,1000310,0
+Tag,"Rach, I'm sorry, but you didn't give me any contracts!",surprise,1010030,7
+Rachel,"Those contracts absolutely had to go out today!",anger,1100300,0
+Rachel,"This isn't funny!",anger,1000400,0
+Rachel,"I'm serious!",anger,0100400,0
+Rachel,"Tag!",anger,1100300,0
+Rachel,"Y'know, like the thing when you put the phone in your pants?",disgust,1000013,1
+Tag,"Like what?",neutral,3000020,4
+Rachel,"Okay please tell me that this is just one of your jokes that you do that I don't get.","non-neutral",1001201,5
+Tag,"What contracts?",neutral,4000010,4
+Rachel,"No seriously, y'know the contracts I gave you, did you overnight them?","non-neutral",1012010,5
+Tag,"If this is your idea of sexy talk?",surprise,0100031,7
+Rachel,"Okay.  Oh wait! Umm, did you send those contracts to Milan?",surprise,2000030,7
+Tag,"Sure.",neutral,4100000,4
+Rachel,"You wanna go in the bedroom? It's a little more comfortable.",neutral,3100010,4
+Chloe,"Oh, okay.  Hey, two beers.",neutral,5000000,4
+Ross,"Look, I don't feel like dancing, I feel like having a drink. Okay?","non-neutral",0020201,5
+Chloe,"Hey, you don't have to smile. You just have to dance.",neutral,3010100,4
+Ross,"Ah, that's okay, thanks.","non-neutral",2021000,5
+Chloe,"Hey, dinosaur guy, look at you, so sad. Come dance.","non-neutral",2110010,5
+Ross,"Yeah! Got it!","non-neutral",1200110,5
+Rachel,"Umm, honey, look he just came over to....",neutral,3002000,4
+Ross,"Is that Mark?",neutral,3000011,4
+Mark,"Is it okay if I finish the apple juice?",neutral,5000000,4
+Rachel,"Nobody.",neutral,4000100,4
+Ross,"Who's that?",surprise,2000030,7
+Mark,"Hey, what do you want to drink?",neutral,5000000,4
+Ross,"Really? I've been thinking, this is crazy, I mean don't, don't you think we can work on this?","non-neutral",1011020,5
+Rachel,"Hi! Oh, I'm so glad you called.",joy,1400000,3
+Ross,"Hi! It's me.","non-neutral",2200010,5
+Rachel,"Hello.",neutral,5000000,4
+Rachel,"Oh, thank you that's very helpful, I'm glad you came over.","non-neutral",2200001,5
+Mark,"Well, then he's, he's probably just, out.",neutral,4000010,4
+Rachel,"No.  And then I called him, and he wasn't there.",neutral,4010000,4
+Chandler,"Well, I did put a lot of thought in the tape.",neutral,4010000,4
+Monica,"I-I am going to",neutral,5000000,4
+Monica,"I will!","non-neutral",1200020,5
+Monica,"Y'know I'm just gonna-I, I am gonna make this up to you!",joy,1310000,3
+Monica,"You went through all this time and effort to make this tape for me!","non-neutral",1210010,5
+Monica,"I mean you were just... You're so incredible!","non-neutral",1110020,5
+Monica,"It's not!","non-neutral",0010211,5
+Monica,"No-no, it's not okay!","non-neutral",1010201,5
+Chandler,"Oh, it's okay. I don't",neutral,5000000,4
+Monica,"I totally forgot about tonight and the fact that we're supposed to",neutral,3011000,4
+Monica,"I'm sorry!",sadness,1031000,6
+Monica,"I didn't make it!","non-neutral",1011020,5
+Monica,"Okay!",surprise,0010130,7
+Monica,"Okay!",surprise,1000130,7
+Monica,"They are completely different-Okay!",anger,0001310,0
+Monica,"Uh Phoebe, what she makes-that's uh-they're sock rabbits.",neutral,4001000,4
+Monica,"No, she doesn't.",neutral,4001000,4
+Monica,"No!",surprise,1000130,7
+Chandler,"I see. Y'know umm, Phoebe makes sock bunnies.",neutral,5000000,4
+Paul,"Good. Good. Not that we don't want you to stay, obviously you're welcome-How much more homework do you have?",neutral,5000000,4
+Elizabeth,"Oh no-no believe me, I'm leaving as soon as possible!",neutral,3000020,4
+Paul,"So Lizzie, are-are-are you planning on staying the night?",neutral,4000010,4
+Director,"Okay, here's where we go to the live shot of Times Square, nice work everyone that's a wrap!",joy,0500000,3
+Joey,"No! Year! Happy No Year!",joy,1300010,3
+Director,"Cut!",neutral,3200000,4
+All,"Three, Two, One!",neutral,3100010,4
+Director,"Alright we're back! Ten seconds left here we go! Ten! Nine! Eight! Seven!",joy,1300010,3
+Monica,"Ross, I think we should stick to the routine, we don't wanna look stupid!","non-neutral",1001021,5
+Ross,"Hey, when the music starts up again, I was thinking of maybe goind into the robot, y'know?",neutral,4100000,4
+Monica,"Me too!","non-neutral",1200011,5
+Ross,"No!",anger,0002300,0
+Phoebe,"Eww! Oh, it's all dirty. You should throw this out.",disgust,0000005,1
+Joey,"Yeah.",neutral,4000100,4
+Phoebe,"I wanna see what's in your hand. I wanna see the trash.",disgust,2000003,1
+Monica,"Why do you want to see my hand?",neutral,3000020,4
+Phoebe,"Ohh, let me see it! Let me see your hand!",surprise,0200030,7
+Joey,"Oh my God, you're back!",surprise,0000050,7
+Monica,"People have got to finish their stories!","non-neutral",2000210,5
+Phoebe,"Oh my God! I know who the father is",surprise,0000050,7
+Joey,"The guy left this.",neutral,4000001,4
+Phoebe,"Was that story over?",neutral,3001010,4
+Joey,"About a month ago this guy spent the night with Rachel, I didn't see who it was but",disgust,2000003,1
+Phoebe,"Who? Who is it?",surprise,0001130,7
+Joey,"Yeah.",neutral,5000000,4
+Monica,"There's a dude?",surprise,1000040,7
+Joey,"Ohh... I wonder if that dude.",neutral,4000010,4
+Phoebe,"We don't know.",neutral,3001001,4
+Joey,"Now I can't believe it! What? Rachel's pregnant?  Who's the father?",surprise,0000050,7
+Phoebe,"It's Joey!",surprise,0100040,7
+Monica,"Phoebe I think he would notice if you didn't have a baby in nine months!","non-neutral",2000111,5
+Phoebe,"Hey!","non-neutral",0100220,5
+Joey,"Oh my God.",surprise,0000050,7
+Monica,"She's not pregnant. It's Rachel. Rachel's the one who's pregnant.",neutral,4000001,4
+Phoebe,"I can and I will!","non-neutral",2200100,5
+Joey,"Why?! Why can't she marry me?!",surprise,0000140,7
+Monica,"Phoebe!",surprise,0100040,7
+Phoebe,"Hey lady, your day's over! It's my turn!","non-neutral",1100201,5
+Monica,"You can't marry him!",anger,0000311,0
+Phoebe,"Hell yeah! I'll marry you!",joy,0500000,3
+Monica,"Oh my God! Joey!",surprise,0000050,7
+Chandler,"Marry me.",neutral,3100010,4
+"The Stripper","I make $1,600 a week doing what I do; any of you guys make that?",anger,1000301,0
+"The Stripper","Look, I don't need to steal some stupid ring, all right?",anger,0000500,0
+"The Stripper","The Hardy boys?","non-neutral",2000201,5
+"The Stripper","Okay, who are you?",surprise,1000031,7
+Ross,"We know you took so just-just save yourself the time and confess!",anger,0000500,0
+"The Stripper","Wait, you guys think I stole some ring?",surprise,0001130,7
+Joey,"There was a ring, in a box, on my nightstand, after you left, it was gone!","non-neutral",0012110,5
+"The Stripper","What's he talking about?",neutral,3000020,4
+Chandler,"Way to be cool, man.",neutral,5000000,4
+Ross,"Where's my ring? My dead grandmother's wedding ring? Where is it? Where is it?",fear,0004010,2
+"The Stripper","Okay, which one of you guys is Gunther Central-Perk?  Hey, Joey?",neutral,4000010,4
+Chandler,"You be cool.",neutral,5000000,4
+"The Stripper","Did anybody call for security?",neutral,4001000,4
+Ross,"Diverse.",neutral,5000000,4
+Joey,"You be Mr. Gonzalez, and I'll be uh, Mr. Wong.",neutral,5000000,4
+Joey,"Uh, okay, and then you buzz Ross and I.",neutral,5000000,4
+Joey,"And-and when she comes in hopefully, she won't recognise you because, well, why would she?",neutral,4000001,4
+Joey,"All right, okay, this is great, uh, Chandler, you get behind the desk.",neutral,3200000,4
+Phoebe,"Okay then.",neutral,4000100,4
+"The Teacher","All right, let's move on.",neutral,3000200,4
+Phoebe,"Are you just repeating what",neutral,3000200,4
+"The Teacher","Are you just repeating what I'm saying?",anger,1000310,0
+Phoebe,Would,neutral,4000010,4
+"The Teacher","Would ya care to venture one?",neutral,3000101,4
+Phoebe,"I think that uh, yours is a question with many answers.",neutral,5000000,4
+"The Teacher","What do you think? You in the blue shirt.",neutral,5000000,4
+Phoebe,"Well how would you know?! You didn't even read it!",anger,0000500,0
+Rachel,"Well, honey that was pretty obvious.","non-neutral",2000201,5
+Phoebe,"You completely stole my answer!",anger,0000401,0
+"The Teacher","Excellent! What Rachel has shrewdly observed here",joy,1300010,3
+Rachel,"Oh-oh-oh, symbolism! And uh, the-the uh, wildness of the mores, which",joy,1300010,3
+"The Teacher","Well, that's sort of a given, but yes. Anyone else?",neutral,5000000,4
+Rachel,"Umm, well I would have to say that it's a, it's tragic love story.",neutral,3011000,4
+"The Teacher","How would you characterize the theme of this book, uh let's see here , Rachel Green?",neutral,4000010,4
+Phoebe,Which,neutral,4000100,4
+Phoebe,"Okay, umm, it's this tragic love story between Cathy and Heathcliff and umm, it takes place on like these really creepy mores in England.","non-neutral",2011001,5
+Phoebe,"What?!","non-neutral",1000220,5
+Rachel,"Okay, so just spoke to the nurse and the reason that your doctor is late is because uh, she's not coming.",neutral,3020000,4
+Rachel,"Hi, Pheebs?",neutral,5000000,4
+Joey,"Two people screwing in there  if you want to check that out.",neutral,4000010,4
+Joey,"Oh, by the  way.",neutral,5000000,4
+Joey,"I am a gentle person.",neutral,4010000,4
+Joey,"I can do that.",neutral,4010000,4
+Joey,"I-I'll go tell her now before Ross  finds out and I'll be gentle.",neutral,3020000,4
+Joey,"You're right.",neutral,3020000,4
+Joey,"You're right.",neutral,3020000,4
+Chandler,"Okay, look, just do it gently.",neutral,4010000,4
+Joey,"Look, it's not that easy. She said she wanted to marry me. I  don't want to hurt her.",sadness,1040000,6
+Chandler,"Go and tell Rachel right now before Ross finds out.","non-neutral",1100201,5
+Joey,"I didn't look at it. Stupid baby's head was blocking most of  it.","non-neutral",2010110,5
+Chandler,"Joey, you have to tell her what's going on! And what did it  look like?!",surprise,0100040,7
+Joey,"No! She had the ring on, she seemed so excited, and then she  took her breast out.","non-neutral",1120010,5
+Chandler,"You still haven't told Rachel you weren't really  proposing?",surprise,1000040,7
+Monica,"I can't believe we're living here!","non-neutral",0100121,5
+Rachel,"I don't know! But maybe if we keep that drawer shut, it'll die.",disgust,0002003,1
+Monica,"What is it?!",surprise,0002030,7
+Rachel,"Oh, I think I saw some in here.",neutral,4000010,4
+Monica,"I can't find garbage bags!",anger,0000410,0
+Ross,"Your joke? Well, I think 'the Hef' would disagree, which is why he sent me a check for one hundred ah-dollars.",neutral,3000110,4
+Chandler,"You are not allowed to laugh at my joke.","non-neutral",2000210,5
+Chandler,"And monkeys can't write out prescriptions.",neutral,5000000,4
+Ross,"What, you didn't get it? The doctor is a monkey.",neutral,3000020,4
+Joey,"Oh, you guys, with this joke. I gotta say, I know I cracked up, but I'm not even sure I got it.",neutral,3200000,4
+Chandler,"So, you heard it, you repeated it, so that must mean you wrote it.","non-neutral",2000012,5
+Ross,"You know, Barracuda was the first song I learned to play on the keyboard.",neutral,5000000,4
+Chandler,"Yeah.",neutral,5000000,4
+Joey,"You forget how many great songs Heart had.",neutral,5000000,4
+Monica,"Oh good God, Ross! How the hell do you do it?",surprise,0000050,7
+Ross,"I think she was.",neutral,4100000,4
+Ross,"And you know what?",neutral,4000010,4
+Ross,"Ohh, yeah she really would've wanted to be there.","non-neutral",2210000,5
+Ross,"And what you said about Nana.",neutral,4100000,4
+Ross,"And that picture of Chi-Chi with her mischievous grin.",neutral,3200000,4
+Ross,"All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad!",joy,1300010,3
+Ross,"Hey!","non-neutral",1100120,5
+Monica,"Oh, come on.",disgust,0000203,1
+Ross,"Y'know I don't understand why they didn't cry. It was a beautiful speech.","non-neutral",0201020,5
+Mike,"DO YOU?","non-neutral",2000120,5
+Monica,"Ah,",neutral,4000010,4
+Mike,Do,neutral,5000000,4
+Monica,"Ah,",neutral,4000010,4
+Mike,Do,neutral,5000000,4
+Monica,"Ooh! I'm sorry! I think, I THINK, that may have missed the table!","non-neutral",0012020,5
+Ross,"Ahhhh!!",surprise,0200030,7
+Ross,"Yes, you can, very much.",joy,2300000,3
+Rachel,"So what do you say? Can I be your girlfriend again?",neutral,4001000,4
+Ross,"Yeah, oh hey, you are right on time.",neutral,4100000,4
+Rachel,"Hi. Ohhh, you got my message.",neutral,4000010,4
+Ross,"Oh, thank you.  Hey, hey.  Rachel!!!!",joy,0500000,3
+Chloe,"Good luck, with your girlfriend.",neutral,4100000,4
+Ross,"Yeah!",joy,0500000,3
+Chloe,"That's so great for you guys!",joy,0500000,3
+Ross,"!",surprise,0200030,7
+Ross,"Oh, I found it!",joy,0300020,3
+Ross,"Well it turns out she ah, she wants to get back together with me.",neutral,3002000,4
+Ross,"Yeah, y'know the ah, the girlfriend I told you about last night?",neutral,4001000,4
+Chloe,"Do I know why we're rushing?",neutral,5000000,4
+Chandler,"Okay, I gotta ask, who calls us that?!","non-neutral",2000120,5
+Joey,"!","non-neutral",1020200,5
+Joey,"No more J-man and Channie's!",sadness,0030200,6
+Joey,"It's like the end of an era!",sadness,1030100,6
+Joey,"Come on!","non-neutral",1010111,5
+Joey,"I did not cry my eyes out!!",anger,0000410,0
+Joey,"Hey!","non-neutral",1000220,5
+Monica,"I mean we-we told Joey, he cried his eyes out!","non-neutral",2010101,5
+Monica,"Don't I deserve a few tears?!!","non-neutral",0020201,5
+Monica,"I mean do we not have as much fun?!","non-neutral",0021110,5
+Monica,"Are-are-are Rachel and I not as close as you guys?!","non-neutral",0021020,5
+Monica,"I mean what?","non-neutral",2000111,5
+Monica,"Is that too much to ask after six years?!",anger,0000401,0
+Monica,"I mean, all I'm asking for is just a little emotion!","non-neutral",1000211,5
+Chandler,"And you're upset because you didn't make your best friend cry?","non-neutral",1000121,5
+Joanna,"Because if you feel uncomfortable with your friend dating someone you work for, there are always ways to fix...that.",anger,2000300,0
+Rachel,"No. I...",neutral,3002000,4
+Joanna,"The only person that should feel awkward is you, and you didn't tell him not to call me, did you?","non-neutral",0020210,5
+Rachel,"Well...",neutral,4001000,4
+Joanna,"Awkward? Why should he feel awkward?",surprise,0010130,7
+Rachel,"Okay, okay. Umm, well ah, maybe he, maybe he feels awkward because you are my boss.",neutral,4001000,4
+Joanna,"Sophie, would you please climb out of my butt. Why hasn't he called, Rachel? Why?","non-neutral",0020210,5
+Sophie,"Maybe he's intimated by really smart, strong, successful women.",neutral,4010000,4
+Joanna,"Why?! Why?! He said he'd call. Why hasn't he called?","non-neutral",0001211,5
+Rachel,"No. Sorry.",sadness,2030000,6
+Joanna,"Did he call?",neutral,3110000,4
+Joey,"There you go sweetie...     This isn't over.",neutral,3200000,4
+Rachel,"Oh, oh thanks. Alright well, now that I'm up I'm going to go    to the bathroom.",neutral,5000000,4
+Joey,"Well, I heard Emma stirring, so I came to make sure she could    reach Hugsy.",neutral,4001000,4
+Rachel,"What are you doing?",neutral,3100010,4
+Joey,"It's okay, it's okay Rach, it's me. Put down the scrunchy.",neutral,4001000,4
+Rachel,": Step away from the crib,    I have a weapon!",anger,1001300,0
+Joey,"It's    okay, Emma, you stay asleep.",neutral,5000000,4
+Joey,"Look at you, all sweet and innocent, sleeping like an angel...    with Emma's chubby little hands wrapped around ya.",neutral,3200000,4
+Chandler,"Oh no-no-no, Monica would freak.  But to hell with that bitch.",anger,0000500,0
+Doug,"Now here's the plan, grab your coat, we're going to a strip club.",joy,2300000,3
+Doug,"Bing my boy, we're gonna get you over this.",neutral,3110000,4
+Chandler,"Y'know what would really help me through this tough time is choking something. Can I choke ya?",anger,0000401,0
+Doug,"And the way she looked at me, pure lust.",joy,1400000,3
+Doug,"Good God Bing I...well I can't say I'm altogether surprised, I saw the way she looked at you, and there was no love there.","non-neutral",1010021,5
+Chandler,"Because uh...we-we...we split up. Monica and I split up. Hold me.",sadness,0050000,6
+Doug,"So why can't the three of us go out together?",neutral,3010001,4
+Chandler,"Well now-now you're just talking crazy.","non-neutral",1000112,5
+Doug,"What's going on Bing? Does uh, your wife have a problem with me or something?","non-neutral",0012011,5
+Chandler,"It's the semi-finals...of her...botchy ball tournament.",neutral,5000000,4
+Doug,"Oh? Why not?","non-neutral",2000111,5
+Chandler,"Oh uh well tomorrow's no good for her either.",neutral,4010000,4
+Doug,"Oh, my ex-wife didn't work, unless you call turning into her mother work. Fine. Tomorrow night then.","non-neutral",1110101,5
+Chandler,"Oh uh, as it turns out, we can't do it. Monica has to work.","non-neutral",2020010,5
+Doug,"Bing! We're all set for tonight, 8 o'clock.","non-neutral",2200010,5
+Rachel,"No. A break from us.","non-neutral",2010200,5
+Ross,"Let's ah, let's take a break,  let's cool off, okay, let's get some frozen yoghurt, or something..",neutral,5000000,4
+Ross,"Fine, you're right.",neutral,3101000,4
+Rachel,"Oh my God. I cannot keep having this same fight with you Ross! Look, urrgh, maybe we should take a break.","non-neutral",1010210,5
+Ross,"Okay, it's not, it's not.",neutral,3002000,4
+Rachel,"Oh my God.",surprise,1000040,7
+Ross,"Is this about Mark?",neutral,3000101,4
+Rachel,"You want me to just quit my job so that you can feel like you've got a girlfriend?","non-neutral",2000120,5
+Ross,"I mean, I don't feel like I even have a girlfriend anymore.","non-neutral",2020100,5
+Mona,"Bye guys.",neutral,5000000,4
+Ross,"Uh sure, sure.",neutral,3001010,4
+Mona,"Oh, I gotta get to work. So call me later?",neutral,4000010,4
+Ross,"Okay.","non-neutral",2101010,5
+Mona,"Yeah, y'know. Happy holidays from Mona and Ross. It'll be cute, okay?",joy,2300000,3
+Ross,"Together? Like-like to people?",surprise,2000030,7
+Mona,"Do you wanna, do you wanna send this one out together?",neutral,4100000,4
+Mona,"Y'know, every year I say I'm gonna send out holiday cards and I never do it.",neutral,3110000,4
+Ross,"Wow, it looks like a, like a holiday card y'know, with the tree in the middle and the skaters and the snow.",joy,1400000,3
+Ross,"That is a good one!",joy,0500000,3
+Ross,"Wow!",joy,0300020,3
+Mona,"Okay. Okay, here's a good one of us.","non-neutral",2200010,5
+Phoebe,"Y'know she has a face Ross!",anger,0100400,0
+Joey,"I'm missin' picture time?!","non-neutral",2010020,5
+Mona,"Oh yeah, probably at the end.  Oh my God! He only took pictures of my breasts!",surprise,0000050,7
+Ross,"Hey where-where are the pictures that creepy pretzel vendor took of us together?",neutral,3000002,4
+Joey,"Oh uh, ordinarily I would love too, but I am just swamped right now.",neutral,3020000,4
+Ross,"Oh great! Hey-hey Joey, do you want to check out pictures of me and Mona ice skating?",joy,1400000,3
+Mona,"Hi! Look! I got our pictures developed from Rockefeller Center.",joy,0500000,3
+Ross,"Hi!",joy,0500000,3
+Mona,"Hey!  Hey!",joy,0400010,3
+Chandler,"Yeah, Joe, I assure you if I'm staring down the barrel of a gun, I'm pretty much peeing every which way.",fear,1103000,2
+Joey,"Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!",joy,1400000,3
+Chandler,"You think?",neutral,4000010,4
+Rachel,"Amazingly, that makes sense.","non-neutral",2200010,5
+Joey,"In this case, you have a fear of commitment, so I say you go in there and be the most committed guy there ever was.",neutral,4100000,4
+Joey,"Right.",neutral,5000000,4
+Joey,"If you're afraid of bugs.....get a bug.",neutral,5000000,4
+Joey,"It have a fear of heights, you go to the top of the building!",fear,0103010,2
+Joey,"But, it seems to me it's pretty much like anything else, you know, face your fear.",neutral,5000000,4
+Joey,"Well, I've never been through the tunnel myself, 'cause as I understand it, you're not allowed to go through with more than one girl in the car, right.",neutral,5000000,4
+Chandler,"Do we have any... Do we have any thoughts here?",neutral,5000000,4
+Ross,"Where there is no fear of commitment.",neutral,4010000,4
+Phoebe,"Oh right, yeah okay, my Mom could, and I can't. We don't have that....",neutral,4010000,4
+Frank,"Your not doing it.",neutral,5000000,4
+Phoebe,"Yeah, yeah. You can do it to.",surprise,1100030,7
+Frank,"What, wait, you mean like this?",neutral,4000010,4
+Phoebe,"Because I can, and my Mom couldn't, and I thought y'know, I figured that was something I got from our Dad.",neutral,5000000,4
+Phoebe,"Um, can you roll your tongue?",neutral,5000000,4
+Phoebe,"Yeah I know what I wanted to ask you.",neutral,5000000,4
+Frank,"What?",neutral,4000010,4
+Phoebe,"Oh, ew!",disgust,0100004,1
+Gunther,"Rachel has those in burgendy.",neutral,3001010,4
+Janice,"Good-bye Chandler Bing.","non-neutral",2110001,5
+Chandler,"You can't leave! I have your shoe!","non-neutral",0020120,5
+Janice,"Yeah, um, I'm, I'm leaving now.","non-neutral",2000102,5
+Chandler,"I don't care!  I don't care!!",anger,1000400,0
+Janice,"Honey, honey, people are looking.","non-neutral",2001101,5
+Chandler,"No. No! No! No!","non-neutral",0021101,5
+Janice,"No, I-I-I gotta go.","non-neutral",2010110,5
+Chandler,"Ohhh. Don't go.",sadness,0031010,6
+Janice,"I'm sorry.",sadness,0050000,6
+Joey,"Oh yeah!",joy,0500000,3
+Chandler,"One more game?",neutral,4010000,4
+Monica,"I'm going,  and I'm gone.",neutral,5000000,4
+Monica,"All right, ok, I gotta go.",neutral,5000000,4
+Monica,"Come on, wussies!",anger,0000302,0
+Monica,"Come on, I'll only use my left hand, huh?",anger,1100300,0
+Monica,"You guys are always hanging out in my apartment!",anger,0000401,0
+Chandler,"Yeah, get out!",anger,0100301,0
+Joey,"Uh, it's 2:30 in the morning!","non-neutral",1000121,5
