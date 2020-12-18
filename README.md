@@ -3,8 +3,8 @@
 
 
 
-1. 한국어 감정 분석기(Binary Classification) : korea_univ_bdc_nlp/NSMC/README.txt 파일 참고
-2. 영어 감정 분석(Multi-Class Classification) : korea_univ_bdc_nlp/FRIENDS/README.txt 파일 참고
+1. 한국어 감정 분석기(Binary Classification) : korea_univ_bdc_nlp/NSMC
+2. 영어 감정 분석(Multi-Class Classification) : korea_univ_bdc_nlp/FRIENDS
 
 
 
