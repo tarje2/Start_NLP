@@ -21,10 +21,11 @@ eval_data = pd.read_csv('./en_data.csv', engine='python', encoding='utf-8')
 > 수행 내용
 1. 데이터 다운로드 및 로드(아스키코드 값 제거 및 감정 클래스 값 코드화)
    -> anger(0), disgust(1), fear(2), joy(3), neutral(4), non-neutral(5), sadness(6), surprise(7)
+   -> friends_train_아스키제거_감정코드.csv / friends_dev_아스키제거_감정코드.csv / friends_test_아스키제거_감정코드.csv
 2. 데이터 전처리(중복 제거, Null값 제거, 영어와 공백, ' 를 제외한 문자 제거)
 3. 데이터 정제
-   -> 1)소문자로 통일, 2)축약문 교정, 3)영어, 공백, ?, ! 를 제외한 문자 제거 4)정제 후 Null값 제거
-   -> 결과 저장(train_data_set.csv / dev_data_set.csv / test_data_set.csv)
+   -> 1)소문자로 통일, 2)축약문 교정, 3)영어, 공백, ?, ! 를 제외한 문자 제거 4)정제 후 Null값 제거 5)결과 저장
+   -> train_data_set.csv / dev_data_set.csv / test_data_set.csv
 4. 토큰화
 5. 불용어(Stopword) 제거
 6. 표제어 추출(Lemmatization) / 어간 추출(Stemming)
