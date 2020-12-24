@@ -7,7 +7,8 @@
 
 
 > 실행 방법
-소스코드 하단의 'Private Data 평가 실행' 아래 코드 실행
+소스코드 순서대로 실행.
+학습 모델 생성 후, Private Data로의 평가는 하단의 'Private Data 평가 실행' 아래 코드 실행
 1) 함수(sentiment_predict(new_sentence)) 실행
 
 en_data.csv 부분에 평가할 새로운 데이터(Private Data) '디렉토리 및 파일명' 명시(아래 코드 참조)
