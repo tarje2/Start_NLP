@@ -1,0 +1,1091 @@
+speaker,utterance,emotion,annotation,emotion_code
+Monica,i know!,sadness,40010,6
+Rachel,i mean it is the end of an era!,sadness,50000,6
+Monica,i am going to miss you!,sadness,50000,6
+Rachel,what? oh my god! i am going to miss you so much!,sadness,40010,6
+Monica,no ,sadness,2030000,6
+Rachel,i mean we are not  we are not going to live together anymore?,sadness,40010,6
+Monica,yeah  sweetie ,neutral,3200000,4
+Rachel,it is? really?,surprise,50,7
+Monica,and it,neutral,5000000,4
+Monica,this is not something that we just  we just impulsively decided in in vegas  this is something we both really want ,neutral,3100100,4
+Monica,just let me finish  okay?,non-neutral,2101100,5
+Monica,no no  wait!,neutral,3101000,4
+Rachel,but i,non-neutral,1011011,5
+Monica,rachel  it is going to happen  chandler is going to move in here ,neutral,4100000,4
+Ursula,all right  hang on!,neutral,3100010,4
+Phoebe,noooo!!,non-neutral,1001120,5
+Ursula,well  it is pretty much the gist  well  except for the poem  you read the poem  right?,neutral,4000100,4
+Phoebe, good bye phoebe and ursula  i will miss you  p s  your mom lives in montauk   you just wrote this!,non-neutral,110210,5
+Phoebe,i  umm  shut up!,anger,410,0
+Chandler,i saw you checking me out during the game last night ,neutral,4100000,4
+Monica,huh?,neutral,3000020,4
+Chandler,so  you still do not think i am boyfriend material?,non-neutral,2110100,5
+Phoebe,white plains  oh  it sounds like such a magical place ,joy,2300000,3
+Rachel,yes! that i know  this is from white plains ,joy,2300000,3
+Phoebe,like you know where it was from or,neutral,5000000,4
+Phoebe,did they tell you anything?,neutral,4000010,4
+Phoebe,i bet it has a great story behind it too ,joy,2300000,3
+Phoebe,wow!,joy,300020,3
+Phoebe,god  oh it is just perfect!,joy,500000,3
+Phoebe,yes  yes i do ,neutral,4100000,4
+Rachel,uh  it is from yore  like the days of yore  y know?,neutral,5000000,4
+Phoebe,well  what period is it from?,neutral,5000000,4
+Rachel,yeah ,neutral,5000000,4
+Phoebe,ohh  okay  they gave you the old time pricing ,neutral,4000010,4
+Chandler,i could not find anything at joey  hey hey  oh hey!,non-neutral,2100020,5
+Joey,i am only eating the skin  so the chicken s up for grabs ,neutral,5000000,4
+Joey,all right  now  i am going to get back to my bucket ,neutral,5000000,4
+Joey,eh?,neutral,5000000,4
+Joey,well  i think we have all learned something about who is disgusting and who is not ,non-neutral,2000111,5
+Monica,i am monica  i am disgusting  i stalk guys and keep their underpants ,non-neutral,1010102,5
+Ross,unbelievable! i mean you really kept joey s underwear?! why? why would you do that?!,disgust,1000013,1
+Joey,but sadly i could not be enticed ,non-neutral,2120000,5
+Monica,i guess i set up the video camera to try and entice joey ,neutral,4000001,4
+Rachel,oh  honey  do not worry  she is going to make it on time ,neutral,5000000,4
+Frank,that was alice s mom  she said she left five hours ago  she should be here by now!,fear,4010,2
+Rachel,hi!,joy,1300010,3
+Frank,yeah  i love you  okay  bye!  hi!,joy,1300010,3
+Joey,all right  hey  but it better make me look really  really good   oh  and another thing  the video camera? nice!!,non-neutral,2200010,5
+Ross,hey  where are monica and rachel anyway?,neutral,5000000,4
+Phoebe,oh  i was kinda hoping that was it ,non-neutral,2020010,5
+Phoebe,ooh!,surprise,101030,7
+Phoebe,ow!,non-neutral,12011,5
+Phoebe,this one does not hurt either ooh  yes it does!,surprise,1001030,7
+Phoebe,oh  okay  i am having another one!,non-neutral,1201010,5
+Joey,ross! get a shot of this   he s carrying an issue of the,surprise,1000040,7
+Rachel,ugh  how can you even ask that question?!,surprise,32,7
+Joey,you really think so?,surprise,50,7
+Rachel,joey  what are you talking about? you are a terrific actor ,neutral,3000020,4
+Phoebe,i am ,neutral,5000000,4
+Chandler,oh  i do not know man  i have not talked to her in like ten years ,neutral,5000000,4
+Joey,oh well listen  anyway she is directing the new al pacino movie  you got to get me an audition!,joy,1300010,3
+Monica,it is chandler s way of pretending he did not take mime ,neutral,5000000,4
+Phoebe,what is a movement class?,neutral,4000010,4
+Chandler,oh yeah  dana keystone  she was in my movement class ,neutral,5000000,4
+Joey,hey chandler! you know that girl you went to college with who who became a movie director?,neutral,3000020,4
+Monica,we are good  interesting  funny people with,non-neutral,1110200,5
+Monica,you know what?,anger,320,0
+Monica,you know what greg?,anger,320,0
+Monica,the week after that?,non-neutral,2020100,5
+Monica,okay umm  the week after that?,non-neutral,2021000,5
+Monica,okay  how about sunday?,neutral,3011000,4
+Monica,say next saturday?,neutral,4001000,4
+Monica,hey listen umm  how would you like to get together?,neutral,4001000,4
+Chandler,jenny! that is so jenny!,non-neutral,1200011,5
+Monica,jenny s been giving it out since they moved!,anger,1000310,0
+Monica,listen  the number that you gave me            that is their old number!,anger,2000300,0
+Monica,hi  this is monica from the plane?,neutral,4000010,4
+Monica,hello greg?,neutral,4000010,4
+Chandler,no i don t! stop it! stop it! stop it! stop it!,anger,1400,0
+Monica,you love me!,joy,300020,3
+Chandler,no i didn t!,non-neutral,2201,5
+Monica,yes  you did!,non-neutral,200210,5
+Monica,you said you loved me! i cannot believe this!,surprise,110030,7
+Chandler,nothing! i said  i said  you re so great  and then i just  i just stopped talking!,non-neutral,1102010,5
+Monica,what?,surprise,1000040,7
+Chandler,you are so great! i love you!,joy,500000,3
+Monica,i bet this will work!,joy,1300010,3
+Chandler,this is not going to work ,non-neutral,1021001,5
+Monica,look!,surprise,1000031,7
+Chandler,look  monica,neutral,5000000,4
+Monica,wait  wait  wait!,non-neutral,112010,5
+Chandler,nice try ,non-neutral,2100002,5
+Chandler,oh oh  i am a duck! i go   quack  quack!  i am happy all the time!,joy,300110,3
+Monica,!,non-neutral,1200020,5
+Monica,you want a cousin right now?,non-neutral,1200020,5
+Monica,oh  you want a little cousin?,surprise,1100030,7
+Monica,oh what is that honey?,surprise,200030,7
+Monica,you are our little em ,joy,1400000,3
+Monica,yeah  that is you ,neutral,3200000,4
+Monica,i mean     oh  hi emma ,neutral,3100010,4
+Monica,so i am screwed ,non-neutral,1110101,5
+Monica,besides y know  nothing goes with bing ,neutral,3100100,4
+Monica,yeah  but i love you more ,joy,500000,3
+Rachel,oh honey  but you love that name ,non-neutral,2120000,5
+Monica,it is clearly an emma ,neutral,4100000,4
+Monica,take it ,neutral,4100000,4
+Rachel,emma!  see? i do not want it ,non-neutral,1000022,5
+Monica,okay  it is emma ,neutral,5000000,4
+Chandler,of course  i did not get to enjoy any of that  because joanna s such a,disgust,203,1
+Rachel,hmm ,neutral,5000000,4
+Chandler,well  the movie was great  dinner was great  and there is nothing like a cool  crisp new york evening ,neutral,3200000,4
+Rachel,o o o okay  how did it go? tell me everything ,neutral,3200000,4
+Chandler,hey  my father s house does that!,surprise,100040,7
+Ross and Rachel,ahhhh!!,surprise,50,7
+Phoebe,and  and!,non-neutral,1210010,5
+Ross and Rachel,ooohhhh!!,surprise,50,7
+Phoebe,watch  watch ,non-neutral,2200010,5
+Ross and Rachel,uh huh ,neutral,5000000,4
+Monica,hey  guys  guys  did you see my new  china cabinet?!,joy,500000,3
+Ross,i would!,non-neutral,100220,5
+Monica,would you please go?,non-neutral,1000112,5
+Jeannine,well  if you don t  i will ,non-neutral,1200110,5
+Monica,please  i am not going for anything ,disgust,10004,1
+Jeannine,all right  i just got changed in thirty seconds so you can be alone with him  you would better go for it ,non-neutral,2000201,5
+Ross,sure  what is up?,neutral,4000010,4
+Rachel,i need to talk to you!,non-neutral,1100120,5
+All,hello ,neutral,5000000,4
+Rachel,hey!,surprise,100040,7
+Phoebe,okay  obviously you do not know much about the u s  government ,neutral,3000011,4
+Ross,wait a minute  the house was built on radioactive waste  and an ancient indian burial ground? that would never happen ,surprise,1001030,7
+Phoebe,well  nobody wants a ghost  but you have got one  because the house is sitting on an ancient indian burial ground ,neutral,4000001,4
+Monica,i do not want a ghost ,fear,4001,2
+Phoebe,no  no  that is the ghost for the attic ,neutral,4000001,4
+Chandler,and is this in case the house sneezes?,surprise,1000031,7
+Phoebe,well  maybe it is so big because the house was built on radioactive waste ,non-neutral,2100011,5
+Monica,not one that can pee on the roof ,surprise,1001030,7
+Phoebe,that is a dog  every house should have a dog ,joy,2300000,3
+Monica,what is this?,surprise,1000040,7
+Phoebe,i brought a bunch of stuff for the house  so check it out  ha ha ,joy,1400000,3
+Monica,okay ,neutral,4100000,4
+Phoebe,so  i am here  ready to play ,joy,2300000,3
+Monica,i know!!!,joy,300020,3
+Phoebe,oh! ooh! oh monica! it is so beautiful ,joy,300020,3
+Monica,look at it! ohhh! wallpaper s a little faded  that is okay  carpet s a little loose  hardwood floors!!,joy,1300010,3
+Phoebe,relax  it is not like we are forking ,non-neutral,2100011,5
+Cliff,wow! i usually get to know a girl a little better before i let her spoon me ,surprise,1000040,7
+Phoebe,oh  i will get it ,neutral,4000010,4
+Cliff,no  i am sorry  it is just my foot itches like crazy ,neutral,3020000,4
+Monica,what about my questions?,non-neutral,1000121,5
+Chandler,well maybe it was all of your questions ,non-neutral,2000102,5
+Monica,joke  joke  blah! blah!,non-neutral,2100002,5
+Chandler,i thought you said those jokes were funny  joke! joke! joke!,surprise,1100030,7
+Monica,i know! although  you did tell an awful lot of jokes ,non-neutral,2000021,5
+Chandler,i still do not get it  we did not do anything wrong ,surprise,10031,7
+Phoebe,regina philange ,neutral,4100000,4
+Joey,oh yeah?  hi  ken adams  nice to meet you ,neutral,3200000,4
+Monica,okay  maybe people give out fake numbers  but they do not give out fake names ,non-neutral,2000111,5
+Joey,y know  if they knew what they were doing they probably did not give you real names either ,neutral,4000001,4
+Monica,i still do not get why greg and jenny would give us a fake number ,non-neutral,221,5
+Ross,gimme the bottle   gimme the towel ,non-neutral,2001002,5
+Susan,you can keep saying it  but it will not stop being true ,neutral,4000001,4
+Ross,oh  you have tasted it ,non-neutral,2000111,5
+Susan,uh huh ,neutral,3100010,4
+Ross,you have tasted it? you have tasted it ,surprise,2000030,7
+Joey,exactly ,non-neutral,2200010,5
+Susan,cantaloupe juice ,non-neutral,2200010,5
+Joey,yeah  it is kinda sweet  sorta like  uh   ,non-neutral,2200010,5
+Phoebe,come on  it does not taste bad ,neutral,4000010,4
+Ross,that would be no ,disgust,1001003,1
+Carol,ross  you are being silly  i have tried it  it is no big deal  just taste it ,non-neutral,2100011,5
+Chandler,of course the packaging does appeal to grown ups and kids alike ,neutral,4010000,4
+Joey,how re you doing?,non-neutral,2120000,5
+Phoebe,your hair looks too good  i think it would upset her  ross  why do not you come on in ,sadness,1031000,6
+Joey,can we see her?,neutral,3020000,4
+Phoebe,i put a clip on one side  which seems to have stopped the curling ,neutral,3110000,4
+Phoebe,i am not going to lie to you  ross  it does not look good ,sadness,1031000,6
+Ross,how is the hair?,neutral,3002000,4
+Phoebe,it is too soon to tell  she is resting  which is a good sign ,neutral,3011000,4
+Rachel,how is she?,non-neutral,2012000,5
+Phoebe,oh ross  calm down  i will give you the    cents ,non-neutral,1200002,5
+Ross,of course not  it smells like wine  which you spilled! and thanks for wrecking my sheet by the way ,anger,500,0
+Phoebe,well this does not even smell like opium ,disgust,14,1
+Rachel,oh yes ,neutral,3100001,4
+Phoebe,wow! oh my god  well if they have ripped off our table ours must be much more than one and fifty dollars!,non-neutral,100220,5
+Rachel,oh my god  phoebe ,non-neutral,1000121,5
+Ross,i got it at,neutral,5000000,4
+Phoebe,ross  where did you get this?!,surprise,1000040,7
+Rachel,noooooo!!,non-neutral,1211,5
+Phoebe,what?!,surprise,1000130,7
+Ross,my apothecary table!!!,surprise,230,7
+Rachel,ohh!!,surprise,50,7
+Phoebe,oh sure!  noo!,non-neutral,1001021,5
+Ross,hey pheebs  could you please not put your feet up on my new      old sheet?,disgust,5,1
+Rachel,that is funny ,joy,500000,3
+All,aww!,surprise,100040,7
+Ross,not even if carol s breast had a picture of a missing child on it ,disgust,1000004,1
+Phoebe,not even if you just pretend that it is milk?,neutral,3000020,4
+Ross,no!,disgust,113,1
+Phoebe,you will not even taste it?,neutral,3000020,4
+Ross,ok  would people stop drinking the breast milk?,disgust,1000004,1
+Chandler,what did you just do?,surprise,1000130,7
+Joey,what is the big deal?,non-neutral,2000120,5
+Rachel,phoebe  that is juice  squeezed from a person ,neutral,4000001,4
+Phoebe,so?,neutral,3000011,4
+Ross,it is breast milk ,neutral,4000001,4
+Phoebe,i licked my arm  what?,surprise,1000031,7
+Rachel,oh god  i know i am a pathetic loser ,non-neutral,1020002,5
+Joey,whoa  whoa  and the fact that you dumped him because he hit on phoebe?,non-neutral,1000022,5
+Rachel,at his apartment  is this juice?,neutral,5000000,4
+Phoebe,where?,neutral,4000010,4
+Rachel,i do not know  i just kinda ran into him last night ,non-neutral,2020010,5
+Monica,rachel  how did this happen?,non-neutral,1011020,5
+Rachel,ok  paulo  why do not you just go get dressed  and then you be on your way  ok  bye bye ,non-neutral,2000102,5
+Ross,celebrate ,neutral,5000000,4
+Ross,which we can celebrate later ,neutral,4010000,4
+Ross,i got my s s back!,non-neutral,1010120,5
+Ross,sorry!,non-neutral,21101,5
+Ross,sorry ,sadness,41000,6
+Ross,oh  i am sorry  i am really sorry ,sadness,41000,6
+Doctor,no  it is just a good bone bruise  and  right here  is the puncture wound from your ring ,neutral,5000000,4
+Monica,are you sure he did not break it because it really hurts?,neutral,3100010,4
+Joey,stop the bus! wait! wait! wait!,fear,1004000,2
+Chandler,oh  that is good  maybe he will hear you and pull the cord ,non-neutral,2100002,5
+Joey,ben!,non-neutral,102020,5
+Chandler,well  phoebe i thought i d  yeah  what the hell ,neutral,3000200,4
+Phoebe,okay oop! too late! i am leaving! come on chandler let us go!,anger,302,0
+Monica,phoebe  do not get upset!,non-neutral,1011110,5
+Phoebe,oh  it has a name?,surprise,2000030,7
+Monica,well umm  alexandra has been,neutral,5000000,4
+Phoebe,i cannot believe this! how long as this been going on?,surprise,1000130,7
+Charlie,stop it  stop it! he talks slow but he might pee fast! ok     let us go!!,non-neutral,1101101,5
+Ross,when we exit should we walk  or run  or prance     or stroll   ,neutral,5000000,4
+Ross,i just have one question for you     ehm   ,neutral,5000000,4
+Ross,but    ehm   ,neutral,5000000,4
+Ross,oh    ok  fine ,neutral,5000000,4
+Phoebe,hi  sorry i am late  i could not find my bearings ,neutral,5000000,4
+Ross,some days it is all i can think about ,neutral,4000001,4
+Monica,mom already called this morning to remind me not to wear my hair up  did you know my ears are not my best feature?,neutral,4000010,4
+Ross,how we doing  you guys ready?,neutral,5000000,4
+Joey,ken adams!!,surprise,140,7
+Rachel,no  no  she told me his name was ken adams ,neutral,4001000,4
+Joey,some guy!!,surprise,140,7
+Rachel,i heard it from my friend irene who heard it from some guy!,neutral,3101000,4
+Joey,how do,neutral,4000010,4
+Rachel,how do you know about that story?!,surprise,50,7
+Chandler,that is the magic story you use when you want to have sex!,non-neutral,2200100,5
+Monica,you used the europe story!,non-neutral,2000120,5
+Rachel,what are you talking about?!,surprise,50,7
+Ross,now i am so happy ,joy,500000,3
+Phoebe,oh  you came on to ross!,surprise,140,7
+Rachel,okay  get ready to see some beggin !,non-neutral,2110100,5
+Rachel,ross did i ever tell you about the time that i went backpacking through western europe?,neutral,5000000,4
+Ross,and in about five seconds you are going to see why ,neutral,3000011,4
+Rachel,okay  in about ten seconds you are going to see him kiss me ,joy,2300000,3
+Rachel,oh yeah  sure ,neutral,5000000,4
+Phoebe,well  i said  i told him y know  that i was the executor person of francis  will and that i needed to talk to him so i am going to meet him at the coffee house later ,neutral,3010100,4
+Joey,what did you say to him?,neutral,4000010,4
+Phoebe,he is going to stick around and talk to the daughter he abandoned!,non-neutral,10112,5
+Phoebe,what do you think?,neutral,3001010,4
+Phoebe,come on  you saw the way he ran out of here!,non-neutral,2111,5
+Rachel,why?! why not?!,surprise,140,7
+Phoebe,he said   nice to meet you glenda    well  obviously i could not give him my real name?,neutral,4010000,4
+Ross,wh what did he say?!,surprise,2030,7
+Monica,oh  did you catch him?!,surprise,50,7
+Chandler,we are really good ,joy,2300000,3
+Chandler,we are good ,neutral,3200000,4
+Chandler,i am not saying it has to be right now  but i am starting to think that we can handle it ,neutral,4000010,4
+Chandler,look  we have always talked about having babies someday ,neutral,5000000,4
+Chandler,i am not crazy about babies  i am crazy about us ,non-neutral,1200110,5
+Monica,what is going on with you? since when are you so crazy about babies?,surprise,1000130,7
+Monica,oh good god! if you want a baby so bad just go steal it!,non-neutral,1000112,5
+Estelle,uh oh!,surprise,1040,7
+Joey,i am the lead in mac and c h e e s e !!,non-neutral,2200100,5
+Estelle,it is the lead in a series  mac and c h e e s e ,neutral,5000000,4
+Estelle,the actor who has the part does not know he might be fired ,neutral,5000000,4
+Estelle,the thing is it is kinda on the q t ,neutral,5000000,4
+Estelle,joe! i am glad i found ya  i got an audition for ya!,non-neutral,2200010,5
+Joey,joey tribbiani ,neutral,5000000,4
+Joey,excuse me ,neutral,4000001,4
+Joey,there is a limit to how many sandwiches i can eat off the floor ,neutral,3000101,4
+Joey,y know?,neutral,3000011,4
+Joey,i may have to  i hate to do it  but i am the star!,non-neutral,1000211,5
+Phoebe,well  why do not you just get him fired?,non-neutral,2000021,5
+Joey,ohh!,surprise,50,7
+Joey,knock over the sandwich right when i was reaching for one!,non-neutral,110201,5
+Joey,he had c h e e s e ,neutral,4000001,4
+Joey,yeah  he does not like me ,non-neutral,2010101,5
+Joey,anyway  it was not the robot  it was the guy who controls him ,neutral,4000001,4
+Chandler,damn those robots  they are supposed to be our,non-neutral,1000211,5
+Joey,pretty great! except i did get a little attitude from the robot ,joy,1300001,3
+Ross,oo oo!,non-neutral,102020,5
+Ross,yes  yes! please  come in ,neutral,3200000,4
+Elizabeth,you wanted to see me professor geller?,non-neutral,2001020,5
+Max,january first ,neutral,4100000,4
+Phoebe,so when  when do you leave?,neutral,4010000,4
+Max,we got the grant  three years  all expenses paid ,joy,2300000,3
+Phoebe,i know where minsk is ,neutral,4000001,4
+Max,minsk  it is in russia ,neutral,4100000,4
+Phoebe,minsk?,surprise,50,7
+Max,well  if you see him  tell him to pack his bags  we are going to minsk ,neutral,4100000,4
+Phoebe,no  no  he has not been around ,neutral,4000010,4
+Max,no  have you seen david?,neutral,5000000,4
+Phoebe,oh  hi max! hey  do you know everybody?,neutral,3200000,4
+Chandler,but i do not want to do it in a cup!,non-neutral,1002002,5
+Monica,i think    it is a good idea to find out if everything s ok  just a few routine tests ,neutral,3011000,4
+Monica,honey  we have been trying to have a baby for over a year ,neutral,3020000,4
+Chandler,we really need to take those tests?,non-neutral,2010020,5
+Monica,besides  tomorrow we are doing those fertility tests and until then you need    to keep your tadpoles in the tank ,neutral,4100000,4
+Monica,know your audience!,non-neutral,2200001,5
+Monica,ok  trying to turn me on by making a mess?,non-neutral,2100011,5
+Chandler,oh  well    maybe we could   ,neutral,3200000,4
+Monica,yeah   what d you want to do tonight?,neutral,3200000,4
+Chandler,oh  yeah?,surprise,100040,7
+Monica,hey honey! i missed you today!,joy,500000,3
+Ross,i was talking to myself! you are going down!,non-neutral,1101011,5
+Rachel,really? you think so?,fear,3020,2
+Ross,okay  stay calm  nothing is going to happen to you  you are not in that much trouble ,neutral,4001000,4
+Rachel,uh oh ,fear,3020,2
+Rachel,i am not horsing around  okay? i am porsching around ,joy,1300001,3
+Ross,what what are you doing?! are you okay that is not funny! just stop horsing around!,non-neutral,212,5
+Rachel,oh ross you are so tense! you just got to relax  okay? just need to relax all right? just need to relax,neutral,3000011,4
+Ross,you do not have a,neutral,5000000,4
+Rachel,god  i forgot how much i love driving  i have,joy,1400000,3
+Phoebe,right   or you might get everything you have wanted since you were fifteen ,neutral,3100001,4
+Ross,yeah  exactly ,neutral,3020000,4
+Phoebe,i know  i know  i know  i know  and if you try to make it more you might wreck it ,neutral,4001000,4
+Ross,since rachel and i we are doing really  we are doing really well right now ,non-neutral,1220000,5
+Ross,what do they put something in the water in this place?,neutral,3000020,4
+Ross,i mean she she thinking everything  oh that s   now me ,sadness,2030000,6
+Ross,it is just if if we got together again and it did not work out   i could never do that to emma ,sadness,2030000,6
+Ross,and then apart  and then together  and then apart  and now we have a baby ,sadness,2030000,6
+Ross,okay?,neutral,3020000,4
+Ross,look  we have been together ,sadness,2030000,6
+Phoebe,yeah that is true  yeah  you love her  you always have  you have a child together  there is no right answer ,neutral,4010000,4
+Ross,it s   it s complicated okay?,sadness,1040000,6
+Phoebe,which would be fine  except you totally are ,neutral,4010000,4
+Phoebe,i know  because you are not in that place ,neutral,4010000,4
+Phoebe,no  i know ,neutral,4010000,4
+Phoebe,i am sorry  for the last time  why are not you two together again?,neutral,4000001,4
+Ross,oh what are you kidding? she is gorgeous  it is all rachel ,non-neutral,2200010,5
+Phoebe,i just cannot decide who she looks more alike  you or rachel?,neutral,5000000,4
+Ross,look at emma!,surprise,200030,7
+Phoebe,oh!,surprise,100040,7
+Ross,i said  ,neutral,5000000,4
+Chandler,you said   ,neutral,5000000,4
+Ross,your mom  your telling me  your telling me  about your mom  what is the matter with you?,disgust,113,1
+Chandler,you know     you do not know!,surprise,1000031,7
+Chandler,so it is kinda like  you re  you know ,neutral,3020000,4
+Chandler,you know  but of course  like  after that you cannot possibly think of anything else  and you can t  you know  stop what your doing ,non-neutral,2010110,5
+Chandler,and your like  mom  get outta here! ,anger,311,0
+Chandler,i know  and then all of the sudden your mom pops into your head ,non-neutral,1022,5
+Ross,with the belly button ring? oh  muhawa!,joy,300020,3
+Chandler,and you get all these like  mental images in your brain  you know  like elle macpherson  or that girl at the xerox place    ,joy,2300000,3
+Chandler,and  ah  you know  your fooling around with her ,joy,2300000,3
+Ross,hmph ,neutral,3100010,4
+Chandler,okay  you know  you know when your in bed  with a woman ,joy,2300000,3
+Ross,yes! wow  well  that that was easy  okay  you you go ,surprise,200030,7
+Rachel,we should defiantly play football more often  maybe there is a like league we could join or something ,neutral,3200000,4
+Rachel,i am pregnant   ross?  ross?  okay  whenever you are ready   and you are the father by the way but you got that,anger,100310,0
+Ross,oh sure ,neutral,4000010,4
+Rachel,okay  you know what? can i  can i talk now?,non-neutral,2000210,5
+Ross,in fact  i have some time right now ,neutral,3200000,4
+Ross,i mean i d i d be okay with that ,neutral,3001010,4
+Ross,if you want to  we can do it one more time ,neutral,3200000,4
+Rachel,seriously  what?!,surprise,140,7
+Ross,i mean look  that that one night we had was fun and   and certainly passionate  but do not you think it is better if we just stayed friends?,non-neutral,2021000,5
+Ross,okay   uh  ross and rachel  rachel and ross  that is been one heck of a see saw has not it?,neutral,5000000,4
+Ross,yeah  and to save you from any embarrassment umm  i think maybe i should talk first ,neutral,5000000,4
+Rachel,you do?,surprise,50,7
+Ross,i think we do  why do not we go inside?  look uh  i know why you are here ,sadness,1031000,6
+Rachel,hi   umm  i think there is something that we really need to talk about ,non-neutral,1012100,5
+Ross,hi ,neutral,5000000,4
+Ross,no! ah ah ah ah ah! you can have this back when the five pages are done!  ahh!,non-neutral,1211,5
+Ross,and shame on you! you should know better  joey needs to work   now come on!,anger,401,0
+Phoebe,oh  fine! take his side!,anger,401,0
+Rachel, baddest man in the whole damn town  ,neutral,4010000,4
+Phoebe,fine! you go learn from your qualified instructor! but do not come crying to me when everyone s sick and tired of hearing you play,anger,401,0
+Joey,andy cooper  he teaches guitar and look ooh  there is a nice picture of him with a little kid and,neutral,4000100,4
+Joey,here!,anger,2000300,0
+Joey,right here!,non-neutral,2000210,5
+Joey,look  maybe i need to try a real teacher!,anger,500,0
+Phoebe,yeah  well  you know maybe you just need to try a little harder!,anger,1000400,0
+Joey,your other student  was you!,anger,2000300,0
+Phoebe,you know none of my other student thought i was stupid ,non-neutral,2010101,5
+Monica,thank you ,neutral,4100000,4
+Joey,no  i am not questioning it  i am saying it is stupid!  what?!,anger,401,0
+Phoebe,no  but you are questioning my method!,anger,100400,0
+Joey,what?! i did not touch a guitar!,surprise,230,7
+Phoebe,g,neutral,5000000,4
+Joey,g sharp ,neutral,4000100,4
+Phoebe,then do iceberg!,non-neutral,2100200,5
+Joey,yes! yes  i did ,non-neutral,2200100,5
+Phoebe,tiger!  dragon! iceberg!!  joseph  did you even study at all last night?,anger,410,0
+Joey,my chair heals itself ,neutral,4100000,4
+Rachel,yeah! you can hook it up to your tv,non-neutral,2200010,5
+Joey,no  really?,surprise,2000030,7
+Rachel,yeah? wow! y know  that this thing has speakers in the headrest!,surprise,100040,7
+Joey,fine ,neutral,5000000,4
+Rachel,hey  how s   how s the uh  miracle chair?,neutral,5000000,4
+Joey,yeah  me too ,neutral,3200000,4
+Rachel,i am so psyched i kept this chair for myself!,joy,400010,3
+Chandler,hey  look  we are on that tv thing!,surprise,200030,7
+All,shoot! shoot! shoot!,joy,400010,3
+Chandler,he is open!,joy,400010,3
+Ross,pass it! pass it!,joy,400010,3
+Chandler,see buddy  that is all you need  a bunch of toothless guys hitting each other with sticks ,neutral,3100001,4
+Ross,get him! get him! get him! get  yesss! not laughing now  are ya pal!,non-neutral,200210,5
+Rachel,okay  well  that is one less thing we have to do on monday ,neutral,5000000,4
+Tag,yeah  so  please do not fire me for doing this ,non-neutral,2012000,5
+Rachel,really?,surprise,1000040,7
+Tag,no  you didn t  the only thing that freaked me out was you saying that nothing could ever happen between us ,sadness,1030010,6
+Rachel,oh  god  i knew it  that i freaked you out ,sadness,40001,6
+Tag,um  i am not ,neutral,5000000,4
+Rachel,i mean we work together  so nothing could really ever happen between us  and what i would love is just to go to work on monday  and and never talk about this again  okay?,sadness,2030000,6
+Rachel,it just does not matter how i feel ,sadness,2030000,6
+Rachel,it y know what?,neutral,4000010,4
+Rachel,ah  i i never should have said what i said ,sadness,1040000,6
+Rachel,look  um  i think we should talk about what happened on the terrace ,neutral,4001000,4
+Ross,ah  what good are you ,neutral,3000101,4
+Tag,colorado ,neutral,5000000,4
+Ross,uh  so  where did you say you are from again?,neutral,4000010,4
+Ross,uh we didn t  uh we did not get the chance to talk ,neutral,5000000,4
+Ross,y you re going?,non-neutral,2010020,5
+Ross,tag?,neutral,4000010,4
+Tag,thanks for having me over  you guys ,neutral,4100000,4
+Rachel,oh ,neutral,3010010,4
+Tag,i am okay  i got to go down to the police station and look at mug shots ,sadness,2030000,6
+Rachel,oh  hi! how are you doing?,joy,300020,3
+Monica,we know how tough those parent teacher conferences can be ,neutral,4000001,4
+Ross,thanks!,joy,500000,3
+All,of course we will help! yeah! we will be here!,joy,1300010,3
+Ross,it it would really help me out if you guys were here to make me look good ,non-neutral,2102000,5
+Ross,come on guys  i i really want this guy to like me ,fear,14000,2
+Chandler,wait a minute  hold the phone! you are not elizabeth s dad?!,surprise,50,7
+Ross,i just found out that elizabeth s dad wants to meet me ,non-neutral,2100011,5
+Phoebe,i want to see what he wants first ,neutral,5000000,4
+Rachel,we do?,surprise,50,7
+Phoebe,oh  rachel and i have appointments to get our hair cut ,neutral,4100000,4
+Ross,what are you guys doing later?,neutral,5000000,4
+Phoebe,well  what kind of guy are you looking for?,neutral,4000010,4
+Rachel,yeah! it is weird  but the thing is need to find a date ,surprise,1000040,7
+Monica,does ralph mumble when you are not paying attention?,neutral,5000000,4
+Rachel,i do not know  something either trees or disease ralph mumbles a lot ,neutral,5000000,4
+Monica,what is the charity?,neutral,4000010,4
+Rachel,anyway  there is this big charity ball this weekend and ralph lauren bought a table  so i kinda have to go,neutral,4100000,4
+Joey,oh  i am sorry  thank you chandler ,non-neutral,1120100,5
+Chandler,well  of course i do! my good friend joey over here ,joy,2300000,3
+Rachel,do you guys know any cute guys?,neutral,4100000,4
+All,hi! hey!,joy,300020,3
+Ross,i will  i will find him ,neutral,4001000,4
+Phoebe,okay,neutral,5000000,4
+Ross,you you make sure monica does not find out  okay?,neutral,3002000,4
+Ross,look okay  i am just gonna i m going to have to go find him and bring him back!,neutral,3002000,4
+Rachel,okay  phoebe  i i think ross is right  what are we going to do?,non-neutral,2001020,5
+Phoebe,do not be so negative! good god! is not it possible that sorry is sitting in there  right now?!,non-neutral,212,5
+Ross,i think it means he freaked out and left!,surprise,1130,7
+Phoebe,or maybe he he was writing to tell her that that he is changed his name  y know? tell monica i am sorry ,neutral,3010010,4
+Rachel,yeah but  maybe it is not what we think  maybe it is tell monica i am sorry i   drank the last of the milk ,neutral,4001000,4
+Phoebe,oh my god! chandler just left though!,surprise,50,7
+Joanna,kidding! god  i feel wild today!,joy,500000,3
+Rachel,well  i  umm,non-neutral,2002010,5
+Joanna,although  i might need some convincing ,neutral,4000001,4
+Joanna,i mean  no no no no no  do not you worry  i am sure with your qualifications you will not need to sleep with some guy to get that job ,neutral,3000002,4
+Joanna,no ho ho!,non-neutral,200021,5
+Rachel,really?!,surprise,50,7
+Joanna,you know  junior miss is where i started  oh  i had to sleep with the,neutral,5000000,4
+Rachel,ohh! that is great!,joy,400010,3
+Joanna,that is fine  actually i am on the hiring committee  so there ll be at least one friendly face ,neutral,3200000,4
+Rachel,and that is i am so glad    there is no problem ,joy,1400000,3
+Joey,okay  so we went to the beach  because phoebe found out about this lady who knew her mom and dad  and i do not really know what happened with that ,neutral,5000000,4
+Joey,nope  got it and i got yours  too ,neutral,4100000,4
+Mrs. Geller,well we left ours in monica s bedroom ,neutral,4000001,4
+Joey,no it isn t  i ate that ,neutral,4100000,4
+Monica,well actually  i i did not eat mine  it is still in the bathroom ,non-neutral,2010002,5
+Rachel,you guys! it was bananas  cream  and beef! i i just cannot believe that you ate that so that i would not feel bad!,surprise,110030,7
+Ross,that is all i am askin ,neutral,5000000,4
+Rachel,i will think about it ,neutral,5000000,4
+Ross,even if the sidecar had a windscreen so your hair would not get messed up?,neutral,3000020,4
+Rachel,goodnight,neutral,5000000,4
+Ross,it is a good thing i did not do it  because it sounds like it would have been a very expensive wedding   okay  good night,neutral,3110000,4
+Rachel,well  that would have been very hard to say no too ,neutral,3110000,4
+Ross,it is how i imagined i uh  i would ask you to marry me ,neutral,4100000,4
+Ross,no  actually i thought about it when  when we were going out ,neutral,3200000,4
+Rachel,did you just make that up?,surprise,2000030,7
+Rachel,it was   really wonderful!,joy,500000,3
+Rachel,with the  with the lilies  and and the song  and the stars!,joy,1400000,3
+Rachel,are you kidding?!,surprise,1000040,7
+Ross,i know  i know it was stupid ,sadness,41000,6
+Rachel,that proposal  at the planetarium,neutral,3101000,4
+Rachel,okay ross  can i uh  can i ask you something?,non-neutral,2002010,5
+Ross,yeah! and! and  it was the easiest     bucks i have ever made ,joy,500000,3
+Rachel,it was really fun being married to you tonight ,joy,2300000,3
+Ross,but having a dove place the ring on your finger would have been no problem?,non-neutral,1000121,5
+Rachel,ross  it just would not have been feasible ,neutral,4010000,4
+Ross,and then  we could have gone from the ceremony to the reception with you in the sidecar!,joy,400100,3
+Carol,oh  me too ,neutral,4100000,4
+Ross,oh  i know   y know  just just talking about it is getting me kinda,neutral,3100010,4
+Carol,yeah  ooh  and i know gail rosten is in there twice  but she is so,neutral,3200000,4
+Ross,oh   wow!  huh   boy!  well  someone s been doing their homework ,surprise,100040,7
+Carol,ooh  actually i have been making a list of all the women i know who might be into doing this!,joy,1300010,3
+Ross,so honey this uh  this threesome thing umm  i mean how how are you going to start to find,neutral,4001000,4
+Phoebe,wait wait wait! wait!!,non-neutral,100220,5
+Phoebe,ohh  monica  i am so excited for you ,joy,500000,3
+Monica,i am checking out the restaurant with pete ,neutral,5000000,4
+Monica,hey  guess what i am doing tonight ,neutral,5000000,4
+Chandler,no! you are the sweetest!,joy,1400000,3
+Monica,you are just the sweetest ,joy,2300000,3
+Monica,the way you look tonight,joy,2300000,3
+Chandler,oh  the mixed tape ,neutral,4000010,4
+Monica,i will! but not tonight  for dinner music  i thought we could listen to that tape you made me ,joy,2300000,3
+Chandler,look  you have done enough! okay? you have to stop this now ,anger,100310,0
+Monica,hey! continuing the countdown of your favorite meals  tonight  no     macaroni and cheese with cut up hot dogs ,neutral,3200000,4
+Chandler,oh my good god ,surprise,1000040,7
+Phoebe,not you joey ,neutral,5000000,4
+Phoebe,when the revolution comes  i will have to destroy you all ,neutral,3100100,4
+Phoebe,but you know what?,neutral,5000000,4
+Phoebe,well you all know that i am a pacifist so i am not interested in war in any way ,neutral,3001001,4
+Joey,yeah  hero sandwiches ,neutral,5000000,4
+Chandler,yes  if the foxhole was lined with sandwiches ,neutral,5000000,4
+Ross,oh yeah!,joy,400010,3
+Joey,listen also we are uh  we are watching the game here saturday night  if people want to come over ,neutral,4001000,4
+Chandler,okay  okay  but do not worry  because we also have cereals  muffins  waffles ,neutral,4100000,4
+Joey,no no  stay right there   gettin  closer ,neutral,4001000,4
+Joey,yep! grab a plate ,joy,500000,3
+Monica,you made pancakes?,surprise,1100030,7
+Joey,hey mon! want some pancakes?,joy,1400000,3
+Ross,oh no no no  i am there ,neutral,3200000,4
+Chandler,yeah  i know but,neutral,3020000,4
+Ross,you know what  i do not know how comfortable i am going to see how hot the sex is between some guy and your girlfriend ,disgust,5,1
+Chandler,so uh  man  are you going to go to the play with me tonight?,neutral,4001000,4
+Phoebe,but then i realized where would a mouse or a opossum get the money to make the phone call ,non-neutral,1010012,5
+Phoebe,i got a call at two in the morning  but all i could hear was  like  this high squeaky sound  so i thought okay its like a mouse or a opossum ,neutral,3010001,4
+Phoebe,oh  okay that explains it ,neutral,3010001,4
+Ross,yeah  she finally stopped crying yesterday  but then she found one of richard s cigar butts out on the terrace  so ,neutral,3020000,4
+Rachel,no  it is been three nights in a row ,neutral,4010000,4
+Ross,nope ,neutral,3020000,4
+Phoebe,oh my god  has she slept at all?,surprise,50,7
+Rachel,hey mon!,joy,1400000,3
+Phoebe,hi monica!,joy,1400000,3
+Rachel,what song was that  pheebs?,neutral,4000010,4
+Phoebe,see  i i think that one that elton john wrote for  um  that guy on,neutral,3011000,4
+Rachel,nooo way! the most romantic song ever is,non-neutral,1210010,5
+Ross,i have to say,neutral,5000000,4
+Lauren,so long  vic!,sadness,40001,6
+Joey,so you tell your great great granddaughter to look me up  because adrienne  baby  i am going to want to meet her ,neutral,3110000,4
+Joey,but i will not have aged at all ,neutral,4010000,4
+Joey,but when i return      years from now  you will be long gone ,sadness,1040000,6
+Joey,and so    i am going to get on this spaceship   and i am going to go to blargon   in search of alternative fuels ,sadness,2030000,6
+Joey,but  you have got things you have to do now  and so do i ,sadness,1040000,6
+Joey,one thing you got to know  is that i will never forget you ,sadness,50000,6
+Joey,listen  i ah  i got to say good bye  and and i got to say it quick because this is killing me ,sadness,50000,6
+Joey,yeah  i guess it is ,sadness,1040000,6
+Lauren,so this is it? victor?,sadness,1040000,6
+Joey,in a minute!!,anger,1000301,0
+Lauren,vic! vic!,non-neutral,1001111,5
+Kate,flight s in an hour  i i got to go ,sadness,1040000,6
+Lauren,where are you vic?,neutral,3002000,4
+Joey,i mean  i will go to the airport with ya  i i want to say good bye ,sadness,50000,6
+Joey,well can you at least stay to the end of the play?,sadness,1031000,6
+Stage Manager,joey  onstage!,non-neutral,2100110,5
+Kate,i am sorry ,sadness,50000,6
+Joey,you,neutral,4100000,4
+Ross,joey  uh ,surprise,1001030,7
+Joey,hey  if little joey s dead  then i got no reason to live!,sadness,30011,6
+Monica,  excuse me?,surprise,1000040,7
+Joey,probably kill myself!,non-neutral,2000102,5
+Monica,hey  joey  what would you do if you were omnipotent?,neutral,4000010,4
+All,hey joey  hi  hey  buddy ,neutral,4100000,4
+Rachel,see  there is always one guy    if i had a wish  i would wish for three more wishes  ,disgust,1000004,1
+Chandler,uh  if i were omnipotent for a day  i d   make myself omnipotent forever ,neutral,4000001,4
+Ross,yeah  see   you took mine  chandler  what about you?,neutral,3000110,4
+Phoebe,if i were omnipotent for a day  i would want  um  world peace  no more hunger  good things for the rain forest   and bigger boobs!,joy,1400000,3
+Phoebe,okay  okay ,neutral,4000100,4
+Monica,alright  phoebe?,neutral,4000010,4
+Rachel,wow    wow!,surprise,50,7
+Joey,uh  yeah  okay  except i sorta felt like i needed a couple of seconds to get ready ,non-neutral,2100020,5
+Janine,joey  you do not have to count down every time we kiss ,non-neutral,1100021,5
+Joey,     ,neutral,4100000,4
+Janine,me neither ,neutral,3200000,4
+Janine,sure  new year s eve is only two weeks away  can you wait?,neutral,4000010,4
+Joey,but only in the moment  so do ya want to kiss again?,non-neutral,1200020,5
+Janine,in the moment  yeah ,neutral,5000000,4
+Joey,really? in the moment  i really wanted to kiss you too  in the moment ,joy,300020,3
+Waitress,come on in ,neutral,5000000,4
+Monica,sure  i love this part!,joy,500000,3
+Waitress,hey monica  there is a customer who wants to complement the chef  should i let him in?,neutral,4100000,4
+Joey,pizza!! we like pizza!! get out!!!,anger,500,0
+Carl,hey  uh can i get a little piece of that cake?,neutral,5000000,4
+Joey,yeah  he is the reason i did not get that big,neutral,4000100,4
+Monica,the,neutral,5000000,4
+Joey,okay  i know it sounds crazy  but i think it might work  y know? the only problem is  carl s acting is,neutral,5000000,4
+Chandler,you know sometimes the good ideas are just right in front of you  are not they?,non-neutral,2000021,5
+Joey,oh  did i not mention? carl is a guy i hired to be my identical twin for a medical research project ,neutral,5000000,4
+Phoebe,okay  maybe ask this guy ,neutral,5000000,4
+The Dry Cleaner,son of a bitch!,anger,1000400,0
+Joey,i did not do that! who would have done that?!,surprise,230,7
+Phoebe,oh! here it is!  ooh  joey! why did you sign it   son of a bitch? ,surprise,1000130,7
+Phoebe,ok  who wants to hear something ironic?,neutral,5000000,4
+Phoebe,do not make me do this again  i do not like my voice like this ,anger,1001300,0
+Ross,yeah  susan ,neutral,3000200,4
+Phoebe,so just stop all the yelling  just stop it!,anger,401,0
+Phoebe,there are children coming into the world in this very building and your negative fighting noises are not the first thing they should be hearing ,anger,1000301,0
+Phoebe,my god  you guys  i do not believe you ,non-neutral,2000201,5
+Phoebe,come on ,neutral,3000200,4
+Phoebe,get in here ,anger,2000300,0
+Phoebe,hey  hey  ok  all right  that is it!,anger,1000310,0
+Susan,yes ,anger,2000300,0
+Ross,oh  i am threatened by you?,anger,1000310,0
+Susan,you know what your problem is? you are threatened by me ,anger,1000400,0
+Ross,you tryin  to be clever? a funny lady?,anger,500,0
+Susan,yeah? well  there is a lot of things carol never did before i came along ,anger,1000400,0
+Ross,look  carol never threw me out of a room before you came along ,anger,1000400,0
+Susan,how  how is this my fault?,surprise,1000130,7
+Ross,please  this is so your fault ,anger,1000400,0
+Rachel,oh  it is just like a bloodbath in here today ,non-neutral,120002,5
+Monica and Rachel,oh!!,surprise,50,7
+Monica,give it  give it ,neutral,3000110,4
+Rachel,oh god  oh god  it is sowed on though ,non-neutral,2100020,5
+Monica,because he will know what to do?  oh my god  you are a genius!,joy,400010,3
+Rachel,oh  oh  oh  i will get  rainy day bear !!,joy,400010,3
+Monica,where are we going to find a tiny little hat?,neutral,3100010,4
+Carol,sooo!! anyway   ,neutral,3000020,4
+Ross,ah!  oh ,surprise,2000030,7
+Carol,it is not that kind of anniversary ,neutral,4100000,4
+Ross,oh! i thought you guys got married in uh  january?,surprise,50,7
+Carol,umm  yeah  actually  susan s going to be home any minute  it is kinda an anniversary ,non-neutral,2200010,5
+Ross,ahh   ooh  is this a ah  is this a bad time?,surprise,2000030,7
+Carol,he is sleeping ,neutral,4010000,4
+Ross,where is ben?,neutral,3010010,4
+Carol,ah yeah  but now it is susan and me in mexico and the hostages coming home ,neutral,4010000,4
+Ross,well  oh just ah  i was just wondering  when you and i split up  did you get the tape that was half the last episode of,neutral,4001000,4
+Carol,hey  what are you doing here?,neutral,3000020,4
+Ross,hey ,neutral,4100000,4
+Phoebe,well  you could wait  til i go to the dentist  maybe,neutral,5000000,4
+Joey,it will kill him  i mean it ll  it will just kill him ,non-neutral,1020101,5
+Rachel,joey  you cannot keep this to yourself  if you know about this  you have to tell him ,neutral,4000010,4
+Joey,well  i was thinking about that and i  i think the best way would be  to not ,neutral,4001000,4
+Ross,what?  so what are you going to do? i mean how  how are you going to tell chandler?,surprise,2000030,7
+Monica,you guys  joey just saw janice kissing her ex husband ,surprise,10040,7
+Ross,no  no he is not ,neutral,5000000,4
+Joey,hey  is  is  is chandler here?,neutral,5000000,4
+Phoebe,although  do not feel like you cannot visit ,neutral,5000000,4
+Rachel,i promise ,neutral,5000000,4
+Chandler,my lighter s in there!,fear,1003010,2
+Joey,what is going on?,neutral,3000020,4
+Chandler,oh  no no no no no no!!,fear,3110,2
+Phoebe,no  you know what do not close it  because the    keys   are in there ,neutral,4000010,4
+Rachel,well  they never have any paper in there y know  so my rule is  no tissue  no tuschy    well  if everybody s going ,neutral,3000002,4
+Monica,no  rachel never pees in public restrooms ,neutral,4000001,4
+Rachel,no  thank you ,neutral,3000002,4
+Phoebe,are not you going to go?,neutral,3000020,4
+Chandler,here we go  okay  brace yourselves ,neutral,3002000,4
+Jen,i forgot my paper ,neutral,5000000,4
+Ross,okay!,joy,300020,3
+Jen,i will see you later ,neutral,5000000,4
+Ross,i will give you a call ,neutral,4100000,4
+Jen,oh! my number is on there   give me a call ,non-neutral,1200020,5
+Ross,umm?,neutral,5000000,4
+Jen,sure! that would be nice ,joy,500000,3
+Ross,jen  i know this may sound a little    but uh  would you maybe want to grab a cup of coffee sometime  or,neutral,4001000,4
+The Hot Girl,jen ,neutral,5000000,4
+Ross,i,neutral,5000000,4
+The Hot Girl,no  i i actually thought it was unfair the way everyone reacted  i mean you had just moved in ,neutral,3000002,4
+Ross,nevermind!,anger,1010300,0
+The Hot Girl,i know  you are the guy who would not chip in for the handyman ,non-neutral,1000202,5
+Monica,hey  call me when you get there  okay?,neutral,5000000,4
+Ross,oh no no no! oh no!  no! no! emily!,anger,1310,0
+Ross,emily ,neutral,5000000,4
+Rachel,okay  wait! wait!,neutral,3001100,4
+Ross,you tell them to wait!,anger,1400,0
+Rachel,oh  wait wait wait,neutral,4001000,4
+Ross,ah! ah! i forgot my jacket!,anger,1000310,0
+Ross,she is still in there enjoying her fake party and uh  it is too late to do any of the things i had planned  so,neutral,3010100,4
+Ross,that is okay ,neutral,5000000,4
+Rachel,ohh  here you are  i was looking for you before  joshua s gone so you and emily are free to go ,neutral,4000010,4
+Rachel,okay  you go do it! i will come back to that set! i will meet more actors! i will meet  em all!,joy,300110,3
+Joey,rach look  i really do not think that is such a great,sadness,2030000,6
+Rachel,good good  do not tell him  do not tell him  just have him call me okay?,non-neutral,1210100,5
+Joey,i did not tell him  i did not know if you were telling people  this is back when i thought kash was still people ,non-neutral,2002010,5
+Rachel,okay joey  first of all kash ford is not people  second of all  what did he say when you told him i was pregnant?,anger,320,0
+Joey,what? i   i just figured since you are pregnant you are not going to be seeing people ,surprise,1000040,7
+Joey,i said no ,neutral,4100000,4
+Rachel,oh! oh  i think i am going to throw up a little bit  what did you say?,disgust,1013,1
+Joey,hey  i am with you  he even asked me if i thought you would go out with him ,neutral,4000010,4
+Rachel,i thought i was a complete idiot ,non-neutral,1100021,5
+Chandler,well let me think about that  while i remove my pants!,joy,500000,3
+Monica,we could  or we can have sex in it ,joy,2300000,3
+Chandler,should we tell rachel there is an empty private room right next door to hers?,neutral,3000020,4
+Joey,dude  you do not have to brag! we got nothing here!!,anger,10310,0
+Ross,of your last two boyfriends  richard did not want to have kids  and from the looks of it  now pete can t ,neutral,3000020,4
+Ross,well  this is ironic ,surprise,2000030,7
+Phoebe,wait  if that is his favourite area  why is he being so mean to it?,surprise,10040,7
+All,oh! oh!,non-neutral,1002020,5
+TV Announcer,uh oh  bruiser has becker on the canvas and is going for his favourite area ,fear,4010,2
+Joey,no o o!!,fear,13100,2
+Joey,check it out  he is winning!  pete s winning!,surprise,200030,7
+Rachel,oh  i cannot watch this ,fear,5000,2
+Chandler,run! run you crazy  rich freak!,fear,3200,2
+TV Announcer,pete becker is circling the ring now  it looks like  he is just trying to feel him out  oh  bruiser is just   ,neutral,3101000,4
+Rachel,i am sorry  i just cannot go to the hospital lookin  like this ,disgust,1000103,1
+Ross,what?! i wh   what is wrong?,non-neutral,1002020,5
+Rachel,thank you   oww!!!! god!,surprise,131,7
+Ross,of course i am  i just have to make a call ,surprise,2000030,7
+Rachel,okay  oh wait  wait wait  you are not going to come with me?,non-neutral,1002020,5
+Ross,okay  i am going to get your coat and then i ll i ll put you in a cab ,neutral,4001000,4
+Rachel,i really do ,non-neutral,2012000,5
+Rachel,okay  i do ,neutral,3020000,4
+Ross,easy  easy  you have to go to the hospital  okay?,fear,1003010,2
+Rachel,ow! ow!,surprise,1130,7
+Ross,rach?,neutral,5000000,4
+Mark,what? is it my breath?,fear,1003010,2
+Mark,oh  hi  it is mark ,neutral,5000000,4
+Rachel,hello!,joy,1300010,3
+Ross,hello  baby  hello  hello ,joy,2300000,3
+Carol,so do not do it  it is fine  you do not have to do it just because susan does it ,neutral,4000010,4
+Ross,i feel stupid ,sadness,1030001,6
+Ross,uh  this is too weird ,disgust,2003,1
+Ross,you know  i  you know  cannot do this ,fear,1103000,2
+Ross,ok  ok  ok  ok  here goes ,neutral,4001000,4
+Carol,just aim for the bump ,neutral,5000000,4
+Ross,i mean  uh  well  there is one way that seems to offer a certain acoustical advantage  but   ,neutral,5000000,4
+Ross,ok  where am i talking to  here?,neutral,4000010,4
+Ross,ok  ok  here we go ,neutral,4001000,4
+Carol,anytime you are ready ,neutral,5000000,4
+Monica,oh she misunderstood  she thought she was moving to tulsa ,neutral,5000000,4
+Chandler,what is wrong with emma?,non-neutral,1002020,5
+Dr. Long,okay  there is an herbal tea you can drink ,neutral,5000000,4
+Rachel,well  we are ready to try anything ,neutral,4000100,4
+Dr. Long,actually  they are things you can do  just some home remedies  but in my experience i have found that some of them are quite effective ,neutral,5000000,4
+Ross,do them!!,non-neutral,2000210,5
+Dr. Long,if you are anxious there are a few ways to help things along ,neutral,5000000,4
+Dr. Long,it still could last a little while longer ,neutral,5000000,4
+Dr. Long,you are about    percent effaced  so you are on your way ,neutral,5000000,4
+Rachel,eh  just a tad ,neutral,4000100,4
+Dr. Long,you must be a little uncomfortable ,neutral,4000010,4
+Dr. Long,so  eight days late huh?,surprise,1000040,7
+Dr. Long,we will do a quick check ,neutral,4000100,4
+Ross,did you hear that? kori weston had a crush on me!!,non-neutral,200120,5
+Kori,you sick freak  who does that? i cannot believe i had a crush on    you!,anger,302,0
+Ross,i mean  the fact that you are here means more    to me than if this room were filled with people!,joy,1400000,3
+Ross,it is a long story but the things    you just said really made my day!,joy,500000,3
+Ross,kori  i know this is a big surprise for you ,joy,2300000,3
+Ross,i am still alive!!,joy,500000,3
+Ross,but you didn t!,joy,1400000,3
+Kori,i thought so many times about calling him and asking him out     i guess i really missed my chance ,sadness,50000,6
+Chandler,and if heaven has a    door  i am sure he is pressing his ear up against it and listening intently ,neutral,3110000,4
+Chandler,i am sure that would mean a lot to him ,neutral,4010000,4
+Kori,we were not but we had one class together  he was such a great    guy and he talked so passionately about science  i always remembered him ,sadness,1130000,6
+Chandler,i did not know ross and you were so close ,surprise,1000040,7
+Kori,i cannot believe that ross is gone  it is just so sad ,sadness,50000,6
+Phoebe,you will,neutral,4000100,4
+Phoebe,you will see!!,anger,100400,0
+Phoebe,i am going to make it on my own!,anger,100400,0
+Phoebe,i do not need you or anybody else!,anger,302,0
+Phoebe,i will do it without you!,anger,401,0
+Phoebe,fine!,anger,311,0
+Joey,you know what? i think that is enough for now  yeah  i do not want to be over rehearsed ,neutral,4000100,4
+Phoebe,oh yeah  you are solid  yeah  you are just no me ,neutral,3100100,4
+Joey,yeah  i thought i was pretty good too ,joy,1300001,3
+Phoebe,no  i mean i was really acting my ass off ,non-neutral,200120,5
+Joey,yeah  you are great! okay  let us take it from,joy,500000,3
+Phoebe,i am,neutral,5000000,4
+Phoebe,oh my god ,non-neutral,1001021,5
+Joey,no you are not! not to me!,non-neutral,21020,5
+Phoebe,do not worry about me  i am a robot! i am just a machine!!,non-neutral,2011010,5
+Joey,no! i will not leave you!,fear,14000,2
+Phoebe,you have got to get out of here! save yourself!,fear,5000,2
+Joey,the reactor s going to blow in three seconds  we are never going to make it!,fear,5000,2
+Rachel,done ,joy,1400000,3
+Monica,i put a roof over your head  and if that means nothing to you     twenty dollars an hour ,non-neutral,1000202,5
+Monica,you know  rachel  when you ran out of your wedding  i was there for you ,non-neutral,1000112,5
+Rachel,mon  i wish i could  but i have made plans to walk around ,neutral,4100000,4
+Monica,twelve dollars an hour ,neutral,4000001,4
+Monica,ten dollars an hour ,neutral,4000001,4
+Rachel,oh    that is too bad  bye bye ,non-neutral,1120001,5
+Monica,wendy bailed  i have no waitress ,non-neutral,1010201,5
+Rachel,who was that?,neutral,5000000,4
+Monica,wendy  we had a deal!  yeah  you promised! wendy! wendy! wendy!,anger,320,0
+Chandler,it is,neutral,5000000,4
+Joey,hey  it is not like it sounds ,neutral,5000000,4
+Rachel,what?! joey got a turkey stuck on his head?!,surprise,50,7
+Phoebe,oh no  i know! i know! it is the one where joey got monica s turkey stuck on his head!,non-neutral,200120,5
+All,oh  come on!,non-neutral,1001201,5
+Monica,oh  let us not tell this story ,non-neutral,1002101,5
+Rachel,i know monica s worst thanksgiving ,neutral,4010000,4
+Phoebe,of course you do not sweetie  you are brand new ,neutral,5000000,4
+Joey,man  it must be so cool remembering stuff like that! i do not have any past life memories ,non-neutral,1210010,5
+Phoebe,oh  this life! oh okay no  chandler s is worse ,sadness,30110,6
+Ross,in,neutral,5000000,4
+Phoebe,what?! well he never said that to me!,surprise,230,7
+Chandler,as in barbara streisand s husband james brolin?,surprise,1000040,7
+Phoebe,okay  okay  it is james brolin  james brolin is the father of my baby ,non-neutral,2201000,5
+Monica,phoebe  come on  you have to tell us ,non-neutral,1101020,5
+Rachel,oh my god  who is it?!,surprise,1040,7
+Phoebe,i cannot say because he is famous ,neutral,3011000,4
+Chandler,why not?,non-neutral,2010020,5
+Monica,why?!,surprise,50,7
+Phoebe,i cannot say ,neutral,4000100,4
+Monica,yeah!,non-neutral,2200100,5
+Rachel,ok  monica  i just have to know one thing  did you go with her to,sadness,1030001,6
+Monica,did it ever occur to you that i might just be that stupid?,non-neutral,2010101,5
+Rachel,oh  so you just sort of happened to leave it in here?,anger,1000400,0
+Monica,that is not true!,anger,1000310,0
+Rachel,oh  please  you wanted to get caught ,anger,1000301,0
+Monica,i never meant for you to find out!,sadness,31010,6
+Monica,look  i am sorry  all right ,sadness,1031000,6
+Monica,really  rachel  i was thinking of you the whole time ,non-neutral,2021000,5
+Rachel,yeah  right  sure!,anger,1000400,0
+Monica,honey  wait  we only did it once  it did not mean anything to me ,non-neutral,2011100,5
+Rachel,oh  oh my god ,surprise,1031,7
+Monica,and then  one thing led to another and  before i knew it  we were   shopping ,neutral,4000010,4
+Monica,look  when it started i was just trying to be nice to her because she was my brother s girlfriend ,neutral,4000100,4
+Rachel,you were with julie?,neutral,3010010,4
+Monica,jody!,surprise,2000030,7
+Monica,julie ,neutral,5000000,4
+Phoebe,would you relax? i know what i am doing  this is how he wears it ,anger,2000300,0
+Monica,i am sorry  i am sorry  phoebe  it is just a little shorter than what we had discussed ,non-neutral,2020001,5
+Phoebe,ok  this  is the face of a person who  you know  does not trust a person ,non-neutral,1010102,5
+Phoebe,yeah  but this  is not the face of a person who trusts a person ,non-neutral,1000112,5
+Monica,what? i did not say anything ,surprise,10040,7
+Phoebe,all right  that is it  i quit ,anger,401,0
+Joey,cookie  now you can punch him!,anger,2000300,0
+Chandler,you have got it ,neutral,5000000,4
+Joey,all right ,neutral,5000000,4
+Chandler,okay  absolutely!,joy,1400000,3
+Joey,but   you have got one more apology to make  all right  you have got to apologize to mary angela ,non-neutral,2010200,5
+Joey,look he knows he did a terrible thing and i believe him  he is sorry ,sadness,2030000,6
+Joey,no you won t ,neutral,3001100,4
+Cookie,i will do it ,neutral,5000000,4
+Phoebe,aw  god ross  oh ,sadness,50000,6
+Ross,i mean we have been together seven years  she is the only woman who is ever loved me  and the only woman i ve i ve ever    ,sadness,1040000,6
+Ross,seven years ,sadness,2030000,6
+Ross,well  now i do!!,surprise,1000130,7
+Phoebe,aw! hey  do you think that susan person is her lover?,neutral,3001010,4
+Ross,i mean shoulda seen it  i mean carol and i would be out and she d  she would see some beautiful woman  and  and she would be ross you know look at her  and i would think  god  my wife is cool!,non-neutral,20012,5
+Ross,i am an idiot ,disgust,104,1
+Phoebe,oh my god! i do not believe it! oh  you poor bunny ,surprise,20030,7
+Ross,because carol s a lesbian   and  and i am not one  and apparently it is not a mix and match situation ,sadness,1040000,6
+Phoebe,oh no! why?,surprise,10040,7
+Ross,my marriage  i think my marriage is um  is kinda over ,sadness,50000,6
+Phoebe,oh  it is already closed  chris gave me the keys to lock up what is wrong?,non-neutral,1011020,5
+Ross,hi  where is everybody?,neutral,4000010,4
+Joey,whoah  boy  hockey was a big mistake! there was a whole bunch of stuff we could have done tonight!,non-neutral,1010120,5
+Chandler,so in your whole life  you have only been with one  oh ,surprise,1000040,7
+Joey,with carol?  oh ,surprise,50,7
+Ross,it was my,neutral,5000000,4
+Ross,my first time with carol was   ,neutral,5000000,4
+Chandler,then what?,neutral,4000010,4
+Ross,little louder  okay  i think there is a man on the twelfth floor in a coma that did not quite hear you   ,anger,1000301,0
+Chandler,that she left you for another woman that likes women?,neutral,3000020,4
+Chandler,that she likes women?,neutral,3000020,4
+Chandler,that she left you?,surprise,2000030,7
+Chandler,what is it?,neutral,5000000,4
+Chandler,well  what?,neutral,4000010,4
+Chandler,what are you doing here?,surprise,2000030,7
+All,hi  hi ,neutral,5000000,4
+Chandler,danielle! hi! uh  everybody  this is danielle  danielle  everybody ,neutral,4100000,4
+Ross,i just want to clarify this  are you outing mr  peanut?,neutral,3000020,4
+Phoebe,you know he is gay?,neutral,3000020,4
+Joey,i mean he is got the monocle  he is got the top hat   ,neutral,5000000,4
+Joey,all right  i will give you this  mr  peanut is a better dresser ,neutral,5000000,4
+Joey,what?! wait wait wait! the handsome man was about to enter!!,surprise,110030,7
+Rachel,i am not reading this!,disgust,203,1
+Monica,this is disgusting!,disgust,5,1
+Rachel,oh  you know joey  you are sick!,disgust,113,1
+Monica,it is my new perfume  why do not you come closer where you can,neutral,3200000,4
+Rachel,i am doing just fine! god  tiffany  you smell so great!,joy,400010,3
+Monica,hi  how are you doing kelly?,neutral,4100000,4
+Joey,okay  it is a typical new york city apartment  two girls are just hanging out ,neutral,5000000,4
+Phoebe,i am sorry  you were fighting ,sadness,2030000,6
+Phoebe,it is just  it is just the luckiest baby in the whole world ,joy,1400000,3
+Phoebe,and it is not even born yet ,non-neutral,2210000,5
+Phoebe,and here is this little baby who has like three whole parents who care about it so much that they are fighting over who gets to love it the most ,joy,1310000,3
+Phoebe,i mean  well  because when i was growing up  you know my dad left  and my mother died  and my stepfather went to jail  so i barely had enough pieces of parents to make one whole one ,sadness,1040000,6
+Ross,you want to explain that?,neutral,3000020,4
+Phoebe,this is so great ,joy,400001,3
+Ross,every day is lesbian lover day ,neutral,3100100,4
+Susan,there is mother s day  there is father s day  there is no    lesbian lover day ,sadness,40001,6
+Susan,who am i?,non-neutral,2020010,5
+Susan,everyone knows who you are ,neutral,5000000,4
+Susan,you get to be the baby s father ,neutral,4000010,4
+Ross,where does that leave me?,sadness,31010,6
+Ross,when this day is over  you get to go home with the baby  ok?,non-neutral,2010101,5
+Ross,and you know what the funny thing is?,neutral,3000110,4
+Ross,no one has been waiting for this as much as i have  ok?,anger,2000300,0
+Ross,no no no  believe me ,non-neutral,1001111,5
+Susan,the woman i love is having a baby today  i have been waiting for this just as much as you have ,non-neutral,1210100,5
+Ross,my son is being born  and i should be in there  you know  instead of stuck in a closet with you ,anger,20300,0
+Ross,this is supposed to be  like  the greatest day of my life  y know?,non-neutral,10211,5
+Ross,this is all your fault ,anger,401,0
+Ross,damnit  damnit  damnit  damnit ,anger,500,0
+Ross,come on  come on ,neutral,4000100,4
+Monica,well rachel s not here!,anger,1000400,0
+Phoebe,rachel said that!,surprise,131,7
+Monica, y know  harm can it do if you go and put your name down? ,neutral,3001001,4
+Monica,well  i am never going to listen to you again  that is for sure!,anger,1000301,0
+Phoebe,what are you going to do?,neutral,3001010,4
+Monica,i know! i know! and he totally freaked out and i cannot find him anywhere!,fear,4010,2
+Phoebe,well for the regular guy  it is bad  but chandler  oh dear god!,fear,4010,2
+Monica,how bad is this?,fear,1004000,2
+Monica,the woman from the museum called and said that there was a cancellation and that we could move up our wedding and chandler heard!,fear,2003000,2
+Phoebe,no! why?,neutral,4000010,4
+Monica,have you seen chandler?!,neutral,4000001,4
+Phoebe,yeah?,neutral,4000010,4
+Monica,phoebe!,neutral,3200000,4
+Rachel,okay  oh wait! one more thing umm  do do we still need to uh settle the question of  us? ,fear,1013000,2
+Ross,all right i guess i m  going to go pack ,neutral,3010001,4
+Rachel,yes of course  absolutely! you are right  i am sorry ,sadness,2030000,6
+Ross,can we  can we just forget this ever happened?,non-neutral,2000102,5
+Rachel,well  you ripped the paper out of the court reporter s machine!!,anger,500,0
+Ross,my fault?! you threatened the judge!,anger,500,0
+Rachel,this is totally your fault!,anger,500,0
+Joey,porsche ,neutral,3101000,4
+Passerby,maybe because you have got the keys?,non-neutral,2000201,5
+Joey,why is not that valet back with my porsche?,anger,1001300,0
+Phoebe,potato  potaato ,neutral,4100000,4
+Ross,divorced men s club ,sadness,1030010,6
+Phoebe,and y know  even if they break up again  you would better not let him in your sad men s club!,anger,1010300,0
+Ross,yeah  we are better off without them ,non-neutral,2010200,5
+Phoebe,oh  y know  he hums while he does other stuff to ,neutral,3100001,4
+Ross,i am sorry  ugh  pheebs  you were  you were right about her  y know  she,sadness,30002,6
+Kyle,yeah  we are going to go ,neutral,3010001,4
+Phoebe,yeah  and you know what? i do not give a tiny rat s ass ,anger,10400,0
+Ross,that is all right  we we do not need you  in fact  hey i am over it already ,non-neutral,1020101,5
+Whitney,we are so sorry ,sadness,50000,6
+Ross,it makes him miss the bowl  but whatever ,disgust,1000004,1
+Whitney,i do know ,neutral,4000001,4
+Ross,y know  he hums when he pees!,non-neutral,1200011,5
+Phoebe,oh right  because you are so capable of change ,non-neutral,1000202,5
+Whitney,i am going to work on that ,neutral,3110000,4
+Phoebe,what about her whining and her constant need for attention?!,non-neutral,1000022,5
+Kyle,we are going to give it another try ,joy,2300000,3
+Ross,oh just say it kyle!,surprise,100130,7
+Kyle,we talked through most of the night and we realized that the reason we were so angry at each other was because there are still feelings there  so,non-neutral,2120000,5
+Whitney,well  i went over to kyle s last night to pick up a few things and we got to reminiscing,neutral,3020000,4
+Joey,ooh! ah! okay!,fear,103010,2
+Rachel,it is still  it s got a tail! get it out of here! get it out of here!!,fear,5000,2
+Joey,ew ,disgust,2003,1
+Rachel,it is moving ,non-neutral,1002020,5
+Joey,i do not know ,neutral,4000010,4
+Rachel,wow! whoa whoa what is under the covers?,surprise,100040,7
+Rachel,are you serious really?! it is in such good condition ,surprise,50,7
+Joey,i know! i found it on the street ,joy,300020,3
+Rachel,thank you   oh joey and look at this crib! it is so cute!,joy,400010,3
+Bob,toby! i am not going to let you cover for him  anything you say right now will just get me more upset with chandler!,anger,410,0
+Chandler,bob!,non-neutral,1001120,5
+Bob,toby don t ,non-neutral,2000201,5
+Chandler,okay bob listen uhh  i am the reason you did not get the job up here ,non-neutral,2002001,5
+Bob,i want to talk to that bastard  see what his problem is ,anger,500,0
+Chandler,uhh yeah  yeah  it is  right  right down there   right there  yeah  can i ask you why?,neutral,3001010,4
+Bob,it is bob actually  hey  you work up here  can you tell me where this chandler,neutral,3000101,4
+Chandler,hey bobby ,neutral,4001000,4
+Bob,hey toby!,joy,1400000,3
+Alice,oh  we have our babies ,joy,500000,3
+Alice,we have our babies?,surprise,100040,7
+Frank,no no ah  everything s okay  everybody s healthy there is    fingers and    toes ,joy,500000,3
+Alice,am i too late?!,neutral,3002000,4
+Chandler,okay  keep saying it!,joy,300101,3
+Frank,chandler s a girl!,surprise,200030,7
+Frank,because they  because they thought it was a boy  but chandler s a girl!,surprise,50,7
+Frank,they musta read the sonogram wrong ,surprise,230,7
+Chandler,oh god  kindergarten flashback ,surprise,10031,7
+Frank,hey  where is his thing?,surprise,1040,7
+Dr. Harad,all right  he is coming  he is coming!,joy,300020,3
+Frank,come on little chandler  it is time to be born  come on little chandler! come on!,joy,500000,3
+Frank,how scary is that?,surprise,2030,7
+Frank,oh my god  i cannot believe i have two two children ,surprise,100040,7
+Frank,we got another one!,surprise,200030,7
+Frank,little leslie is here!,joy,1400000,3
+Frank,yeah!!,joy,500000,3
+Frank,okay  okay  come on  you can do it  you can do it!,joy,1400000,3
+Phoebe,i already had a baby  leave me alone ,anger,10400,0
+Dr. Harad,okay  you ready to push again?,neutral,4001000,4
+Phoebe,oh my god! why would you play hide and seek with someone you know is a flight risk?!,non-neutral,101120,5
+Ross,chandler s gone again!,surprise,101030,7
+Ross,uh phoebe  can i see you for a second?,neutral,5000000,4
+Monica,oh that is sweet  do not touch me ,disgust,2000003,1
+Ross,these these are beads of joy ,joy,2300000,3
+Monica,well  you re you re sweating ,neutral,5000000,4
+Rachel,because i lose her stuff!,non-neutral,1002200,5
+Rachel,nooo! nooooo! you lent me monica s earrings?! i am not allowed to borrow her stuff!,anger,1400,0
+Phoebe,these,neutral,5000000,4
+Rachel,tell her to wear her own earrings ,non-neutral,2000102,5
+Phoebe,well  what am i going to tell monica? she wants to wear them tonight!,fear,1003100,2
+Rachel,i know it is in the apartment  but i,neutral,3011000,4
+Rachel,okay  okay  okay  look  just do not freak out  but i kinda lost it ,fear,13001,2
+Phoebe,rachel karen green  where is the other earring?!,anger,1000400,0
+Rachel,oh what  you you want both of them?,surprise,1000040,7
+Phoebe,wait  rach! where is the other one?,neutral,3000020,4
+Rachel,here you go  thank you!,neutral,3100100,4
+Phoebe,i guess so ,neutral,5000000,4
+Ross,hello! i am in the front seat  okay? i am gary s partner!,neutral,4100000,4
+Chandler,how do you figure that?,non-neutral,1000121,5
+Ross,hey  i am more cop than you two!,anger,1000301,0
+Joey,oh what? like your mr  cop!,anger,1000301,0
+Ross,yeah  no one talks like that!,non-neutral,2000012,5
+Gary,it is a witness not a perp  and no one talks like that!,non-neutral,2000102,5
+Joey,come on man!  listen so uh  are you going to squeeze the perps shoes a little bit before he lawyers up?,non-neutral,2101001,5
+Chandler,sur surprise him? we are not  we are not going to make anybody mad are we?,fear,4010,2
+Gary,this witness will not return my calls so we are going to see if we can surprise him coming home ,neutral,4000001,4
+Ross,so where are we going next?,neutral,5000000,4
+Joey,and what is more different than me  a guy who is,neutral,4100000,4
+Joey,someone i can learn from  someone someone who is different than me ,neutral,4100000,4
+Joey,i just figured y know  after living with you it would be an interesting change of pace to have a female roommate  y know?,neutral,4100000,4
+Chandler, wanted  female roommate  non smoker  non ugly   nice!,joy,2300000,3
+Joey,but you are still moving in together  right? because my ad came out today ,neutral,3001010,4
+Chandler,nothing  monica and i had a stupid fight ,sadness,40100,6
+Joey,hey  what is up?,neutral,5000000,4
+Joey,it is really sweet and and tender ,joy,2300000,3
+Joey,so we go into this barn and undress each other and hold each other ,neutral,5000000,4
+Joey,who run away together and they get caught in this big rainstorm ,neutral,4100000,4
+Joey,my character s catholic and he falls in love with this jewish girl ,neutral,4100000,4
+Joey,plus it sounds really great ,neutral,3200000,4
+Joey,and i am only naked in one scene ,neutral,4000010,4
+Joey,well that is true ,neutral,4000010,4
+Monica,no! no you should! a lot of major actors do nude scenes! i mean  the chance to star in a movie? come on!,non-neutral,2100020,5
+Joey,you are right  maybe i should not even go on the call back ,neutral,3010001,4
+Monica,that is what you say about porn ,neutral,4000010,4
+Joey,and the nudity is really important to the story ,neutral,5000000,4
+Joey,this is a serious  legitimate movie ,neutral,5000000,4
+Joey,it is not like it is porn!,neutral,3000002,4
+Joey,i do not know!,neutral,4001000,4
+Monica,hey! what did you decide to do about the movie?,neutral,5000000,4
+Ross,hi roomie!,joy,500000,3
+Mrs. Green,hi ross!,joy,400010,3
+Ross,she will drive us totally crazy ,disgust,1004,1
+Ross,i mean she is a very nice woman  but there is no way we can take eight weeks of her ,non-neutral,1001012,5
+Ross,what you re not serious ,non-neutral,1112,5
+Rachel,yes! she is going to help us take care of the baby! woo hoo ,joy,500000,3
+Ross,uh  what?,surprise,50,7
+Rachel,no  she is going to live with us for eight weeks ,neutral,4100000,4
+Ross,a,neutral,5000000,4
+Rachel,oh we did  but my mom got us the greatest gift of all ,joy,1400000,3
+Ross,wow! it looks like we got a lot of good stuff ,joy,400010,3
+Joey,why would they take away our keys?,surprise,10040,7
+Phoebe,what?! they took mine to give to you!,surprise,50,7
+Joey,i do not have a key  they took mine to give to you ,neutral,4000010,4
+Phoebe,well you can let me in later ,neutral,5000000,4
+Phoebe,i left my guitar in their apartment ,non-neutral,1020011,5
+Phoebe,oh shoot!,surprise,1000040,7
+Phoebe,all in good time ,neutral,4100000,4
+Phoebe,all in good time my love ,neutral,4100000,4
+Joey,y know  monica and chandler are married  ross and rachel are having a baby  maybe you and i should do something ,neutral,4010000,4
+Phoebe,oh  it is so romantic to send people off on their honeymoon ,joy,500000,3
+Rachel,good ,anger,1000400,0
+Rachel,because i do not need your stupid ship ,anger,500,0
+Rachel,alright  fine  you go ahead and you do that  alright ross ,non-neutral,1010201,5
+Ross,this ship has sailed ,non-neutral,2100200,5
+Ross,it  it is too late  i am with somebody else  i am happy ,non-neutral,220100,5
+Ross,i do not need this right now  ok ,anger,401,0
+Ross,the point is i   ,non-neutral,1021100,5
+Rachel,hey  i was doin  great before i found out about you  you think it is easy for me to see you with julie?,anger,20300,0
+Ross,i was doing great with julie before i found out about you ,anger,10400,0
+Ross,you had no right to tell me you ever had feelings for me ,anger,10400,0
+Ross,well i uh  i skipped forth grade ,neutral,4100000,4
+Woman,y know  you look nothing like i would have thought  you re   you re so young ,surprise,100040,7
+Ross,yes! you are the person who checked out my book?!,surprise,50,7
+Woman,ross geller  why do i know that name? it is uh wait!  did you write this?,surprise,1000040,7
+Ross,i am a professor here uh  ross   geller ,neutral,3100010,4
+Woman,i am sorry  who are you?,surprise,1000040,7
+Ross,i find marion s views far too progressionist ,neutral,3000011,4
+Woman,uh  actually i find marion s views far too progressionist ,neutral,4000010,4
+Ross,ah    ah   get out of here!  uh  meeting someone? or or are you just here to brush up on marion s views on evolution?,non-neutral,1000211,5
+Guy,uhh    ,neutral,3000020,4
+Ross,perhaps   perhaps dr  chester stock s musings on the smiledon californicus?,neutral,4000001,4
+Ross,what exactly were you looking for  hmm?,neutral,4000001,4
+Ross,oh oh  you re you re fellow scholars ,surprise,1000031,7
+Guy,yeah  we were   we were just looking around ,neutral,5000000,4
+Ross,yes? yes?! how can i help you?,neutral,3000011,4
+Chandler,tonight? you you did not say it was going to be at nighttime ,surprise,1001030,7
+Gary,okay  you guys free tonight?,neutral,5000000,4
+Estelle,oh well  no harm  no foul ,neutral,5000000,4
+Joey,what are you talkin  about? i never left you! you have always been my agent!,surprise,200030,7
+Estelle,well! well! well! joey tribbiani! so you came back huh? they,surprise,100130,7
+Joey,hey estelle  listen,neutral,5000000,4
+Joey,no no  thank you ,neutral,3100001,4
+Chandler,thank you  joey ,neutral,4100000,4
+Joey,yeah! yeah! yeah! like like when i am doing something exciting and i do not want to get,joy,2300000,3
+Monica,well  next time your massaging him  you should try and distract yourself ,neutral,3010010,4
+Phoebe,i i m sorry  but the moment i touch him  i just want to throw out my old oath and take a new  dirty one ,non-neutral,2200010,5
+Phoebe,no  i know!,surprise,2000030,7
+Ross,and,neutral,3000020,4
+Phoebe,on the touchy ,neutral,5000000,4
+Rachel,where?!,surprise,50,7
+Phoebe,ohh  you guys  remember that cute client i told you about? i bit him ,neutral,4100000,4
+Chandler,now  there is two reasons ,neutral,4000010,4
+Joey,aww  man  now we will not be bank buddies!,sadness,40100,6
+Chandler,you are a genius!,joy,500000,3
+Ross,or! or  we could go to the bank  close our accounts and cut them off at the source ,neutral,3000200,4
+Phoebe,oh my god  he is lost it  he is totally lost it ,non-neutral,2120,5
