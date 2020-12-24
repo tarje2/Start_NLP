@@ -3,7 +3,7 @@
 본 연구에서는 공개되어 있는 FRIENDS 데이터를 8가지 감정(anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise)으로 분류하는 Multi-Class Classification 을 수행하였다.
 
 
-> 전체 소스코드 : [영어 감정분석기]_FRIENDS_RNN_LSTM
+> 전체 소스코드 : [영어 감정분석기]_FRIENDS_RNN_LSTM.ipynb
 
 
 > 실행 방법
