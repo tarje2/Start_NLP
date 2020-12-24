@@ -3,6 +3,20 @@
 본 연구에서는 공개되어 있는 FRIENDS 데이터를 8가지 감정(anger, disgust, fear, joy, neutral, non-neutral, sadness, surprise)으로 분류하는 Multi-Class Classification 을 수행하였다.
 
 
+> 전체 소스코드 : [영어 감정분석기]_FRIENDS_RNN_LSTM
+
+
+> 실행 방법
+소스코드 하단의 'Private Data 평가 실행' 아래 코드 실행
+1) 함수(sentiment_predict(new_sentence)) 실행
+
+en_data.csv 부분에 평가할 새로운 데이터(Private Data) '디렉토리 및 파일명' 명시(아래 코드 참조)
+----------------------------------------------------------------------------
+eval_data = pd.read_csv('./en_data.csv', engine='python', encoding='utf-8')
+----------------------------------------------------------------------------
+최종적으로 result_2019512014_이동환.csv 파일로 결과를 확인할 수 있다.
+
+
 > 수행 내용
 1. 데이터 다운로드 및 로드(아스키코드 값 제거 및 감정 클래스 값 코드화)
    -> anger(0), disgust(1), fear(2), joy(3), neutral(4), non-neutral(5), sadness(6), surprise(7)
@@ -16,19 +30,6 @@
 7. 정수 인코딩
 8. 패딩
 9. RNN-LSTM 모델 설정 및 학습/평가(모델 학습시, 검증 데이터(dev_data) 사용)
-
-
-> 개요
-1. 전체 소스코드 : [영어 감정분석기]_FRIENDS_RNN_LSTM
-2. 모델 평가 및 실행 : [영어 감정분석기]_모델 실행 및 평가
-
-
-> 실행 방법
-'[영어 감정분석기]_모델 실행 및 평가' 코드의 en_data.csv 부분에 평가할 새로운 데이터(Private Data) '디렉토리 및 파일명' 명시(아래 코드 참조)
-----------------------------------------------------------------------------
-eval_data = pd.read_csv('./en_data.csv', engine='python', encoding='utf-8')
-----------------------------------------------------------------------------
-최종적으로 result_2019512014_이동환.csv 파일로 결과를 확인할 수 있다.
 
 
 > 데이터 소스(FRIENDS)
