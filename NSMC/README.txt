@@ -20,13 +20,12 @@ eval_data = pd.read_csv('./ko_data.csv', engine='python', encoding='utf-8')
 
 > 수행 내용
 1. 데이터 다운로드 및 로드
-   -> ratings_train.txt, ratings_test.txt
 2. 데이터 전처리
    -> 1)중복 제거, 2)Null값 제거, 3)한국어와 공백을 제외한 문자 제거 4)전처리 후 Null값 제거 5)결과 저장
-   -> train_data_set.csv / test_data_set.csv
+   => train_data_set.csv / test_data_set.csv
 3. 데이터 정제
    -> 1)반복 문자열 교정, 2)띄어쓰기 교정, 3)맞춤법 교정, 4)결과 저장
-   -> train_last_data.csv / test_last_data.csv
+   => train_last_data.csv / test_last_data.csv
 4. 토큰화
 5. 불용어(Stopword) 제거
 6. 정수 인코딩
