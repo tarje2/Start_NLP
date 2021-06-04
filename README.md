@@ -8,3 +8,5 @@
 ##### 2. ChatBot / 챗봇(질의응답) 시스템 내 코사인 유사도 기반의 FAQ 응답
 
 ##### 3. IR / Elasticsearch 기반의 정보 검색 시스템 구축(AWS EC2)
+
+##### 4. QA / Elasticsearch 기반의 정보 검색 및 QA 시스템 구축(AWS EC2)
