@@ -32,7 +32,7 @@
 - pip install elasticsearch
  
  
-5) 데이터 적재/인덱싱(색인) 및 확인
+5) 데이터 적재/인덱싱(색인) 및 확인 : 545,302건
 - Python code 참조
 - 데이터 확인(Python 및 Kibana Discover, Dev Tools 등)
 
