@@ -20,7 +20,7 @@
 
 3) Elasticsearch 구축
 - AWS EC2 Instance(t2.medium)
-- Elasticsearch 7.12.1 (http://3.36.67.129:9200)
+- Elasticsearch 7.12.1 (http://3.36.67.129:9200) + Nori Plugin
 - Kibana 7.12.1 (http://3.36.67.129:5601)
  
  
