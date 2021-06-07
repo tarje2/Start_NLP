@@ -5,7 +5,7 @@
 - Amazon Linux 2 AMI (HVM), SSD Volume Type / t2.medium (+EBS)
 - Elasticsearch 7.12.1 / Kibana 7.12.1
 - Python 3.x
-  * AWS EC2 Instacne는 2021년 5월 10일 이후 중지
+  * AWS EC2 Instacne는 2021년 6월 00일 이후 중지
  
 ###### 구현
 1) 데이터 셋
@@ -21,6 +21,7 @@
 - https://github.com/attardi/wikiextractor
 * WikiExtractor를 통해 추출하면 디렉토리에 각 100개의 파일(wiki_00~wiki99)이 생성된다.
 
+
 3) Elasticsearch 구축
 - AWS EC2 Instance(t2.medium)
 - Elasticsearch 7.12.1 (http://13.209.84.139:9200)
@@ -33,11 +34,12 @@
  
 5) 데이터 적재/인덱싱(색인) 및 확인
 - Python code 참조
-- 데이터 확인(Python 및 Kibana Discover, Dev Tools)
+- 데이터 확인(Python 및 Kibana Discover, Dev Tools 등)
 
 
 6) 데이터 검색(BM25)
-- 데이터 검색(Python 및 Kibana Discover, Dev Tools
+- 데이터 검색(Python 및 Kibana Discover, Dev Tools 등)
+
 
 7) 학습 모델
 - pytorch 기반 HuggingFace의 모델과 학습 방법을 참조해서 제작
