@@ -5,7 +5,7 @@
 - Amazon Linux 2 AMI (HVM), SSD Volume Type / t2.medium (+EBS)
 - Elasticsearch 7.12.1 / Kibana 7.12.1
 - Python 3.x
-  * AWS EC2 Instacne는 2021년 6월 00일 이후 중지
+  * AWS EC2 Instacne는 2021년 6월 25일 이후 중지
  
 ###### 구현
 1) 데이터 셋
@@ -41,9 +41,10 @@
 - 데이터 검색(Python 및 Kibana Discover, Dev Tools 등)
 
 
-7) 학습 모델
+7) 학습 모델(pytorch_model.bin)
 - pytorch 기반 HuggingFace의 모델과 학습 방법을 참조해서 제작
   (created by: 서재형, 임희석 (고려대학교 자연어처리 연구실))
-- pytorch_model.bin
+
+8) 
 
 
